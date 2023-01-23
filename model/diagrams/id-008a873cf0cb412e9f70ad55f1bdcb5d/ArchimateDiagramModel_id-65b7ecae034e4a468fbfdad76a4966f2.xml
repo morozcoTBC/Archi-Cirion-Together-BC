@@ -609,14 +609,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-350be2b8316949feb055ece160b93abe">
+      id="id-61e4db3384ac434ca3d822703f039df9">
     <bounds
-        x="905"
-        y="60"
+        x="879"
+        y="56"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-8909a0fa203c4f7dbf17ea139cf85e7c.xml#id-8909a0fa203c4f7dbf17ea139cf85e7c"/>
+        href="ApplicationComponent_id-0400dd367ea443908a1cc9311480516d.xml#id-0400dd367ea443908a1cc9311480516d"/>
   </children>
 </archimate:ArchimateDiagramModel>
