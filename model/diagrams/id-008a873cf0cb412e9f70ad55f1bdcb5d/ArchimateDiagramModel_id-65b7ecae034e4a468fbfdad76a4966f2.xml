@@ -615,16 +615,4 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-43ae19382fe1471babf4f85f9014b3a4.xml#id-43ae19382fe1471babf4f85f9014b3a4"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-35813a9d360241f9ba15fa2e5756d32a">
-    <bounds
-        x="834"
-        y="65"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-b4dc7a7cc20e432d89e6ce696b0bba6b.xml#id-b4dc7a7cc20e432d89e6ce696b0bba6b"/>
-  </children>
 </archimate:ArchimateDiagramModel>
