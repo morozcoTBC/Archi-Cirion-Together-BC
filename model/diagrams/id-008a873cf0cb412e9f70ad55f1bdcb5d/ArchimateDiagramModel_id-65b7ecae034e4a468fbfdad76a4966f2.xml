@@ -607,4 +607,16 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-43ae19382fe1471babf4f85f9014b3a4.xml#id-43ae19382fe1471babf4f85f9014b3a4"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-350be2b8316949feb055ece160b93abe">
+    <bounds
+        x="905"
+        y="60"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-8909a0fa203c4f7dbf17ea139cf85e7c.xml#id-8909a0fa203c4f7dbf17ea139cf85e7c"/>
+  </children>
 </archimate:ArchimateDiagramModel>
