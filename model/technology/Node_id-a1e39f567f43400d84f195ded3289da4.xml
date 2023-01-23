@@ -3,7 +3,7 @@
     name="[server] ARATSLVPREPLI01"
     id="id-a1e39f567f43400d84f195ded3289da4">
   <properties
-      key="Envirnoment"
+      key="Environment"
       value="PROD"/>
   <properties
       key="Assignment/Status"
@@ -18,4 +18,7 @@
       key="Assoc. Source"/>
   <properties
       key="Supportability Problems"/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>

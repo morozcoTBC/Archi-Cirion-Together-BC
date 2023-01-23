@@ -3,7 +3,7 @@
     name="[server] ARBUE-1C1"
     id="id-6cfabf4588c74e7f8574fd29e57bbd74">
   <properties
-      key="Envirnoment"
+      key="Environment"
       value="PROD"/>
   <properties
       key="Assignment/Status"
