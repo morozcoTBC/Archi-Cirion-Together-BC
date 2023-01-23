@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kali Linux"
+    id="id-e524528be8be44d7898106540a1ee1c7"
+    documentation="Uso para la prestacion de Servicios Profesionales | Ethical Hacking.">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+</archimate:ApplicationComponent>

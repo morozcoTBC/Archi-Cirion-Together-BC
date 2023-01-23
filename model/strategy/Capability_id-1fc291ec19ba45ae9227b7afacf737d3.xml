@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Market &amp; Sales Accounting Management (copy)"
+    id="id-1fc291ec19ba45ae9227b7afacf737d3"
+    documentation="The accounting process defines how to monitor the financial condition of an organization based on financial statements that are compiled on a regular basis. The marketing process is responsible for managing and developing the sales of an organization. The accounting process is coupled with the marketing processes in order to monitor market trends as well as to help manage the efficiency of sales promotions initiated by the marketing processes. For example, a marketing campaign might be successful in terms of gross sales, but the accounting department might determine that the cost of the campaign was too high.&#xD;&#xA;the need to regularly measure marketing efficiency and marketing profitability. Apart from controlling implementation of marketing programs and apart from performing marketing audits, marketing employees also have to monitor company's marketing budget spend in order to make sure there is little deviation from the marketing plan and that marketing costs are rational. They need to analyze cost structure, conditions of invoicing and payment, reporting to management by performing analyses, generate exact calculations, and also make conclusions based on numerical data and suggestions for future actions. Better understanding of accounting and financial aspects of marketing can improve cooperation of marketing function with other business functions and ensure an effective determination of the contribution of marketing activities to company's financial results and clear reporting of it.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+</archimate:Capability>

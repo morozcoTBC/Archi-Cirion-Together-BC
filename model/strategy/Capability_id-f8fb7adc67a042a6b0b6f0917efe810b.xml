@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Lifecycle Management"
+    id="id-f8fb7adc67a042a6b0b6f0917efe810b"
+    documentation="The customer lifecycle management process segments the customer journey into stages, including onboarding, adoption (buying), using, and renewal (sharing). This modular approach helps focus on goals-based, results-driven KPIs that guide the customer and help them reap benefits from the use of the Service Provider’s products. Defining customer journeys also provides a more clear set of milestones and goals to benchmark customer progress.&#xD;&#xA;The overall scope of the CLM process encompasses the entire organization, which generally brings all sources of static and dynamic data, marketing processes, and value-added services to a unified decision supporting platform through iterative phases of customer acquisition, retention, cross- and upselling, and lapsed customer win-back.&#xD;&#xA;Processes are put into place to support customers, therefore the first step is to understand customers in several dimensions, including:&#xD;&#xA;•{T}The customer needs&#xD;&#xA;•{T}The customer processes&#xD;&#xA;•{T}Customer &quot;events,&quot; where the customer comes into contact with the organization&#xD;&#xA;•{T}The experience that the customer values&#xD;&#xA;&#xD;&#xA;The next step is to work forward from the customer to define the organization’s processes. This approach builds the customer’s view into the process; it ensures that the process delivers the experience—and the value—that the customer wants.&#xD;&#xA;Value is essentially determined by the customer. Therefore, process design begins with the customer’s viewpoint, an understanding of what the customer truly values, and an understanding of the new communications technologies and value-added services that provide customer value.&#xD;&#xA;The benefits of a customer-driven approach cross all levels of an organization, from increased employee satisfaction to increased shareholder value. A customer-driven approach fosters the development of customer-focused processes and helps instill ownership of processes by allowing individuals to own and solve their own needs. This enables better alignment of responsibility and accountability with authority. This alignment also creates an environment where the focus can be on performance drivers, because the individual’s performance is in direct relationship to the company performance.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Lifecycle Management"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

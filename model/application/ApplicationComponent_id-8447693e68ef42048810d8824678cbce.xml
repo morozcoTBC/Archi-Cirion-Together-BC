@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MINTJ"
+    id="id-8447693e68ef42048810d8824678cbce"
+    documentation="Gestion de Ubicaciones">
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Capability N1"
+      value="Resource Inventory Management"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

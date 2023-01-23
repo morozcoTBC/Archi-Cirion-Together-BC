@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NCD"
+    id="id-f9717791f8ec47139b99b127863b8135"
+    documentation="Sistema de inventarios fisico para algunas tecnologias. Se esta migrando de Doku a NCD.  Inventario de todo lo que esta disponible en la red para dar servicio al cliente y tambien los servicios que ya esta instalados. Lo que no gestiona lo va a buscar a otros inventarios. Tiene funcionalidad de capacity (Se esta desarrollando) Obtienen el CFS cuando se instala, cruza la informacion con DW y logra obtener el cliente.  Extrae informacion de distintas fuentes sobre todo de backbone. Hay sistemas de gestion que no son tecnicamente viables para hacer la extraccion. Muchos de ellos son equipos chicos que estan en casa de cliente Los equipos se ven cuando estan instalados, conectados, y tienen los servicios instalados  Puede leer lo que esta instalado (por Ip por ejemplo), ve el inventario de servicios logicos configurados  Modulos en produccion: - Nodes - DWDM: inventario de transmicion - Radio (en testing) - ICD (en testinng) - ISP (en testing) Modulos pendiente de desarrollo: - CPE - Location - Trunkid No incluye: - Satelite - CTEs ">
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Capability N1"
+      value="Resource Inventory Management"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

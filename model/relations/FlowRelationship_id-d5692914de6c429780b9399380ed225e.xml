@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ubicación actualizada"
+    id="id-d5692914de6c429780b9399380ed225e"
+    documentation="Consume actualización de ubicaciones&#xD;&#xA;Escucha los eventos de Creación / update vía EMP, con estos datos luego conforma su estructura de service accounts. ">
+  <properties
+      key="Middleware"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-23f5e1a05d84474ba1459dba0d9cdb9e.xml#id-23f5e1a05d84474ba1459dba0d9cdb9e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0f4d3665db6d4700b56cd52e48f0a2d1.xml#id-0f4d3665db6d4700b56cd52e48f0a2d1"/>
+</archimate:FlowRelationship>

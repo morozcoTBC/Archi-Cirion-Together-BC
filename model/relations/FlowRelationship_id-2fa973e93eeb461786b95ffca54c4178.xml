@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tickets x Team"
+    id="id-2fa973e93eeb461786b95ffca54c4178"
+    documentation="Estado de tickets por grupo de trabajo">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3d77b13a9316471f972ccb15fc96c3e2.xml#id-3d77b13a9316471f972ccb15fc96c3e2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bbceaae52b49401cb928e515c5c084f8.xml#id-bbceaae52b49401cb928e515c5c084f8"/>
+</archimate:FlowRelationship>

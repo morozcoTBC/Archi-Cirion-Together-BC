@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Market Performance Management"
+    id="id-5a685cf8eef240109e5a30a0f6e2bb2e"
+    documentation="Marketing Performance Management business process directs and controls activities that support marketing's ability to analyze data, gain access to insights, make predictions, and optimize marketing programs, campaigns and resources.  Marketing Performance Management activities mange market information and data repositories, market intelligence and analysis with support for role-based access to information and performance dashboards, visualization, modeling, simulation and optimization.  Marketing Performance Management ensure the organization can measure and manage sales performance, market share, product profitability, competitiveness, customer value and more. It includes tracking marketing in the field (e.g. if a company issues online or mobile phone advertisements or coupons, through the use of elaborate tagging techniques, marketers and other specialists can see how those campaigns are concretely linked to the number of page views, shopping cart uses or, ultimately, purchases), managing marketing transparency to help decision makers understand the actual results of marketing activities etc.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+</archimate:Capability>

@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DBB (DB Building)"
+    id="id-a8a08e95b5e34b79bd77404877a0eb47"
+    documentation="Es una aplicación aislada que solo toma una ubicación de GLM y dice en que ubicación esta el equipo.&#xD;&#xA;Ubica un equipo en la red.&#xD;&#xA;Tienen una interfaz grafica que permite registrar el equipo y valida que no esté duplicado. Se carga a mano&#xD;&#xA;No se puede dar de forma automatica el nombre al equipo, porque los vendors tienen distintos nombres. ">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="Capability N1"
+      value="Location Management"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

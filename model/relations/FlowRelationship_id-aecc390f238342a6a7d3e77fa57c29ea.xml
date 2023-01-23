@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ördenes"
+    id="id-aecc390f238342a6a7d3e77fa57c29ea">
+  <properties
+      key="Middleware"
+      value="BMP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0f4d3665db6d4700b56cd52e48f0a2d1.xml#id-0f4d3665db6d4700b56cd52e48f0a2d1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-69c0e4a31ea743d1a8878668f5f1fcff.xml#id-69c0e4a31ea743d1a8878668f5f1fcff"/>
+</archimate:FlowRelationship>

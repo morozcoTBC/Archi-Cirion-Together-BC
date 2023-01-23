@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Inventory Management"
+    id="id-b492cc8475514ebfb5939aafcef5266c"
+    documentation="The purpose of the Party Inventory Management processes are twofold - establish, manage and administer the enterprise's Party inventory, as embodied in the Party Inventory Database, and monitor and report on the usage and access to the Party inventory, and the quality of the data maintained in it.&#xD;&#xA;&#xD;&#xA;The supplier/partner inventory maintains records of all commercial arrangements with parties, and any modifications to them. It also records all details of contacts with parties as well as commercial information, including details of Party products and services, required to support Party Requisition Management and other processes.&#xD;&#xA;&#xD;&#xA;The Party inventory is also responsible for maintaining the association between product instances, service instances, resource instances and Party product instances, created as a result of the Party Requisition Management processes.&#xD;&#xA;&#xD;&#xA;Responsibilities of these processes include, but are not limited to:&#xD;&#xA;•Identifying the inventory-relevant information requirements to be captured to support the Party Relationship Management and other processes;&#xD;&#xA;•Identifying, establishing and maintaining Party inventory repository facilities;&#xD;&#xA;•Establishing and managing the Party inventory management and information capture processes;&#xD;&#xA;•Managing the registration and access control processes that enable processes to create, modify, update, delete and/or download Party data to and from the Party inventory;&#xD;&#xA;•Ensuring the inventories related to other parties repository accurately captures and records all identified supplier/partner details, through use of automated or manual audits;&#xD;&#xA;•Tracking and monitoring of the usage of, and access to, the supplier/partner inventory repository and associated costs, and reporting on the findings&#xD;&#xA;•Identifying any technical driven shortcomings of the supplier/partner inventory repository, and providing input to Resource Development &amp; Management processes to rectify these issues.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+</archimate:Capability>

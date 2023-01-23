@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Big Manager"
+    id="id-e65f6d8797f24b7bae09d037b29d78ff">
+  <properties
+      key="Capability N1"
+      value="Service Performance Management"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Capability N2"
+      value="Service Performance Monitoring"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

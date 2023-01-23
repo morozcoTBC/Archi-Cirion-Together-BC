@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cargos tasados manual CAM"
+    id="id-12a8b470477b499ebf94020bdb0709a5">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-35e4ec2205d04181a12cee2c3153e740.xml#id-35e4ec2205d04181a12cee2c3153e740"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2b391baf263545b5a791aa143ff811d3.xml#id-2b391baf263545b5a791aa143ff811d3"/>
+</archimate:FlowRelationship>

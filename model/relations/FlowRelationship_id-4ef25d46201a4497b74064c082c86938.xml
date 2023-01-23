@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle EBS - Mexipago"
+    id="id-4ef25d46201a4497b74064c082c86938"
+    documentation="mensual. DIa 10 de cada mes">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0d3a836f1d6f4d209ba584e0910b0f4b.xml#id-0d3a836f1d6f4d209ba584e0910b0f4b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a6dbfda9b5b147ad8cf29adcd94a007c.xml#id-a6dbfda9b5b147ad8cf29adcd94a007c"/>
+</archimate:FlowRelationship>

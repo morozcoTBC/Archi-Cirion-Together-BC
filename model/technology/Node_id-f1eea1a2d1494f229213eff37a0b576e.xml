@@ -1,0 +1,25 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server] ARBUE-MEDEXTL02-PROD"
+    id="id-f1eea1a2d1494f229213eff37a0b576e">
+  <properties
+      key="Envirnoment"
+      value="DEV"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / DEVELOPMENT"/>
+  <properties
+      key="Cloud"
+      value="Internal"/>
+  <properties
+      key="SOX Crit."
+      value="No"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Assoc. Source"
+      value="ServiceNow"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

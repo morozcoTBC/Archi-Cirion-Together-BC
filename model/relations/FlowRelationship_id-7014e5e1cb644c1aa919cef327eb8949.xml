@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage de CAM "
+    id="id-7014e5e1cb644c1aa919cef327eb8949"
+    documentation="Envía todo los consumos de CAM">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-55110c6f494f498a9b527acbb550b251.xml#id-55110c6f494f498a9b527acbb550b251"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f25ef718dfa54644af1ccf9d90a7ff64.xml#id-f25ef718dfa54644af1ccf9d90a7ff64"/>
+</archimate:FlowRelationship>

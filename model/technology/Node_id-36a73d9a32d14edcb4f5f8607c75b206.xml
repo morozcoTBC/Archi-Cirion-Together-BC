@@ -1,0 +1,25 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server]  ARPV-ESXI10"
+    id="id-36a73d9a32d14edcb4f5f8607c75b206">
+  <properties
+      key="Envirnoment"
+      value="PROD"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / PRODUCTION"/>
+  <properties
+      key="Cloud"
+      value="Internal"/>
+  <properties
+      key="SOX Crit."
+      value="No"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Assoc. Source"
+      value="ServiceNow"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

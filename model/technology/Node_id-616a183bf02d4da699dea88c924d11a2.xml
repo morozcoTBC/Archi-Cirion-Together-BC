@@ -1,0 +1,20 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server] ARATSWSQL191"
+    id="id-616a183bf02d4da699dea88c924d11a2">
+  <properties
+      key="Envirnoment"/>
+  <properties
+      key="Assignment/Status"
+      value="PRODUCTION"/>
+  <properties
+      key="Cloud"/>
+  <properties
+      key="SOX Crit."/>
+  <properties
+      key="DR Crit."/>
+  <properties
+      key="Assoc. Source"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

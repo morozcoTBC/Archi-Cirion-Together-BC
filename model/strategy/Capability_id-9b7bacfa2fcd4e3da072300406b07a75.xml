@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Management"
+    id="id-9b7bacfa2fcd4e3da072300406b07a75"
+    documentation="Research Management business process administers and controls the activities that support the collection, planning, organization, analysis and delivery of information that increase understanding of topics of concern to the enterprises' business functions. Research Management business processes promote creative and systematic activities that can be undertaken to increase the stock of knowledge. This business process supports 'knowledge management' business process.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

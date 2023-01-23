@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tenable.SC (Security Center)"
+    id="id-d49b370c9501459492dd9632e78facab"
+    documentation="Uso para la prestacion de Servicios Profesionales | Ethical Hacking.">
+  <properties
+      key="Owner "
+      value="Cirion"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,28 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server] ARBUE-DOCKER-FINANCE-PRE"
+    id="id-8ea642b1ce774d6cb722feb995cbb268">
+  <properties
+      key="Environment"
+      value="UAT"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / TEST"/>
+  <properties
+      key="Cloud"
+      value="Internal"/>
+  <properties
+      key="SOX Crit."
+      value="No"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Assoc. Source"
+      value="Service Now"/>
+  <properties
+      key="Supportability Problems"/>
+  <properties
+      key="DB"
+      value="DW"/>
+</archimate:Node>

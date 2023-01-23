@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CFS Editor"
+    id="id-00f89da54aac4f6cb1a6683ed45f25e1"
+    documentation="Maneja  CFS :Vincula uno a uno los servicios RFS:  vincula uno a uno con los recurso tecnológicos que están relacionados con los servicios">
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Capability N1"
+      value="Service Inventory Management"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="CirionDom1"
+      value="Order to Provisioning"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

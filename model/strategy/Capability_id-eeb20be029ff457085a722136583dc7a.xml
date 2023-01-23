@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Management"
+    id="id-eeb20be029ff457085a722136583dc7a"
+    documentation="Brief Description:&#xD;&#xA;The ability to plan and incorporate security measures within the Business.&#xD;&#xA;&#xD;&#xA;Description:&#xD;&#xA;The Security Management sub-domain includes functions in charge of defining company strategy and means to improve security.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

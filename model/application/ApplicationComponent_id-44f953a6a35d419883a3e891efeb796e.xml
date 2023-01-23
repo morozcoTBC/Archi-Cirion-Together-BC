@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mastersaf"
+    id="id-44f953a6a35d419883a3e891efeb796e"
+    documentation="Workflow provisioning Brasil.&#xA;2 modulos &#xA;DFE se comunica para generacion de notas fiscales electronicas de despacho de equipos&#xA;DW envia info contable y fiscal para reportes regulatorios&#xA;">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="Capability N1"
+      value="Resource Provisioning"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise - Supply Chain Management    "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

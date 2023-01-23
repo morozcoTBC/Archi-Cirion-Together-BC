@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kenan"
+    id="id-2b391baf263545b5a791aa143ff811d3"
+    documentation="Main Billing Application. Performs rating and interacts with many sources apps to have the proper data for defined billing cycles">
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Capability N1"
+      value="Billing Events Management"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="N"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Billing and Revenue Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

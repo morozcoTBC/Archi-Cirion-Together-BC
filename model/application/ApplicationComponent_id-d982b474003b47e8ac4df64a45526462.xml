@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BOT"
+    id="id-d982b474003b47e8ac4df64a45526462"
+    documentation="Se utiliza como consulta.&#xD;&#xA;Es una herramienta que permite realizar búsqueda de información. No sólo se consulta en NCD sino también en otras plataformas.&#xD;&#xA;Trabaja con una cuenta de Azure">
+  <properties
+      key="Owner"/>
+  <properties
+      key="Business Flow"/>
+  <properties
+      key="Domain"/>
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="CirionDom1"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

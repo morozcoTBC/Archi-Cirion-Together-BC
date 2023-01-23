@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vendor Payments"
+    id="id-c9922b8dd9a04638838a3dc1f88a231d">
+  <properties
+      key="Middleware"
+      value="PI"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ab9643ff59414eb0b203ea70001b3def.xml#id-ab9643ff59414eb0b203ea70001b3def"/>
+</archimate:FlowRelationship>

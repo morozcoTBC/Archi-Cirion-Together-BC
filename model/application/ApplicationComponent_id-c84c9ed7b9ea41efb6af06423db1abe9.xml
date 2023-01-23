@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Laser"
+    id="id-c84c9ed7b9ea41efb6af06423db1abe9"
+    documentation="Utiliza el Id y hace el Troubleshooting">
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N2"
+      value="Service Performance Analysis"/>
+  <properties
+      key="Capability N1"
+      value="Service Performance Management"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

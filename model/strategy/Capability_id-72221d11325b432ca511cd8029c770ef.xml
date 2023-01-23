@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bill Format / Render"
+    id="id-72221d11325b432ca511cd8029c770ef"
+    documentation="Bill Format / Render formats the invoice and/or statement based on specified options, and then makes it available in appropriate media types. Example outputs can include paper, electronic, DVD, etc. See Transactional Document Production for more information.">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+</archimate:Capability>

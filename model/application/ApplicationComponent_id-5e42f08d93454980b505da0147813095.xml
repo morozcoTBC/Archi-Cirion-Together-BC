@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solar Wins"
+    id="id-5e42f08d93454980b505da0147813095"
+    documentation="Herramienta gestion y monitoreo equipos de network (ej: switch)&#xD;&#xA;Producto Oriun">
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Capability N1"
+      value="Service Performance Management"/>
+  <properties
+      key="Capability N2"
+      value="Service Performance Monitoring"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

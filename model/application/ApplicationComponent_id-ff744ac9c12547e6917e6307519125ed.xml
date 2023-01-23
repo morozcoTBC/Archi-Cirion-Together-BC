@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft PowerApps"
+    id="id-ff744ac9c12547e6917e6307519125ed">
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="Domain"
+      value="Common"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="IT Platforms and Services"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

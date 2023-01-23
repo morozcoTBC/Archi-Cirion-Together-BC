@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offnet invoices"
+    id="id-4fe389ad0be6431f894ee43e9793bdfc"
+    documentation="Offnet invoices. Averiguar si hay interfaz de vueta a SAM&#xA;">
+  <properties
+      key="Middleware"
+      value="PI"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d317b4c7483547ec853c1dcb9a09f229.xml#id-d317b4c7483547ec853c1dcb9a09f229"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+</archimate:FlowRelationship>

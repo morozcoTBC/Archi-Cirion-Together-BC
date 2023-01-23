@@ -1,0 +1,24 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server]  LAB-OSS2"
+    id="id-144f12ea4b4047728e2ede02562304f7">
+  <properties
+      key="Envirnoment"
+      value="LAB"/>
+  <properties
+      key="Assignment/Status"/>
+  <properties
+      key="Cloud"
+      value="Internal"/>
+  <properties
+      key="SOX Crit."
+      value="No"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Assoc. Source"
+      value="ServiceNow"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

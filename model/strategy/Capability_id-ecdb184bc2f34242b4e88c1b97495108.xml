@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Performance Management"
+    id="id-ecdb184bc2f34242b4e88c1b97495108"
+    documentation="Sales Performance Management direct and control sales activities that establish, manage, analyze, report, and incentivice for sales accomplishments. Sales Performance Management capabilities include managing incentive compensation, planning quotas, managing quotas, managing sales territory, analyzing and gamification of selling.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+</archimate:Capability>

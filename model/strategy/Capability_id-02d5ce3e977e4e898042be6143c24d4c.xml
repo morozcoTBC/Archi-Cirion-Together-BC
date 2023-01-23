@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Performance Management"
+    id="id-02d5ce3e977e4e898042be6143c24d4c"
+    documentation="Service Performance Management Applications monitor, analyze, and report on the end-end service performance. This can include a real-time, end-to-end view to ensure that each service is functioning correctly as well as a historical view. These applications build on the Resource Performance data and active end-end service performance test data to provide a view of a service.These applications provide a key input to determine the Quality of Service.">
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge Management"
+    id="id-bc2dab3864254b31a62ce3e365a42d06"
+    documentation="Knowledge Management business activity manage the establishment, assessment, operations and evaluation of processes and capabilities that support knowledge capture, knowledge organization, knowledge operations and knowledge evaluation across the enterprise. Knowledge Management processes support the organization across a gamut of key activities including protecting its intellectual properties, business resilience and as well manages the standards for creating and managing information and information capture and stored, assigned, and distributed. Knowledge in the enterprise includes both the tacit and explicit knowledge contained with the enterprise.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

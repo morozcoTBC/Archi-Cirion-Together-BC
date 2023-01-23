@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Asset Management"
+    id="id-ed111cab5dfb41e895ed8c2cb593a6db"
+    documentation="Enterprise Asset Management business process is used to manage and support the enterprises asset budgeting, asset lifecycle management, asset control, asset valuation, asset operations and asset decommissioning across all categories of asset (capital, fixed etc.).  &#xD;&#xA;&#xD;&#xA;Enterprise Asset Management process also manage policy aspects of the assets (physical: including corporate real-estate, fleets, infrastructure, etc.) and consumables etc. &#xD;&#xA;Asset management process oversee the operations and maintenance of capital assets (e.g. Facilities such as buildings, data centers, sites and other equipment).">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

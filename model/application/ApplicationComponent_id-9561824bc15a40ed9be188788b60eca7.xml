@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eBonding"
+    id="id-9561824bc15a40ed9be188788b60eca7"
+    documentation="Conexion con herramientas ITSM de clientes. Por ejemplo: + 4biz (ITSM) Real Grandeza + Service Now (ITSM - Primax) + Invgate (ITSM - Axis) ">
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Capability N1"
+      value="Service Problem Management"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

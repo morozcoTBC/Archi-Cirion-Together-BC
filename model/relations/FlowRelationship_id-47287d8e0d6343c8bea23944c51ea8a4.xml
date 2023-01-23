@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ordenes manuales"
+    id="id-47287d8e0d6343c8bea23944c51ea8a4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-40c502ff04624eefb0119240906f2947.xml#id-40c502ff04624eefb0119240906f2947"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-69c0e4a31ea743d1a8878668f5f1fcff.xml#id-69c0e4a31ea743d1a8878668f5f1fcff"/>
+</archimate:FlowRelationship>

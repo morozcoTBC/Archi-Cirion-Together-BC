@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payroll"
+    id="id-cf899b65634c4677915e8c56ccbef3e7"
+    documentation="Liquidaciones de nomina. Se sube a GL como comprobante contable">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="HR Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise – HR Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

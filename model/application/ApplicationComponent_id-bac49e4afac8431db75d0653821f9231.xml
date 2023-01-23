@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DCIM"
+    id="id-bac49e4afac8431db75d0653821f9231"
+    documentation="Data Center Information Management &#xA;Inventario de infraestructura (facilities) del Datacenter. Generadores, Aire acondicionado, UPS, Racks, cableados, etc&#xD;&#xA;Para inventariar y gestionar todo equipo de infraestructura de datacenter relacionada con energia, aire acondicionado, cableado, racks">
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Domain"
+      value="Common"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

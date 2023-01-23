@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate Finance Management"
+    id="id-c8282e47f0404e6baf472d73c404d391"
+    documentation="&quot;Corporate Finance Management business process directs and controls corporate activities that source and allocate funding, organizing capital structure, overseeing activities to increase the value of the firm, and managing the tools used to allocate financial resources. &#xD;&#xA;&#xD;&#xA;Corporate Finance Management ensures capital budgets, capital structure, and working capital are managed individually and collectively to maximize the value of the company through its financing and investment decisions, i.e. how to best raise money and use it. &#xD;&#xA;&#xD;&#xA;Corporate finance functions are charged with governing and overseeing the enterprises financial activities and capital investment decisions.&quot;">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

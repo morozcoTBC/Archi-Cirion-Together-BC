@@ -1,0 +1,26 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VMWare"
+    id="id-5ba8e873b10f4109887eb4ce9f2fab4e"
+    documentation="Para producto de Datacenter: DEC III e Internet &#xD;&#xA;Se utiliza para la captura de consumos del producto DEC III&#xD;&#xA;Captura los consumos que hace el cliente&#xD;&#xA;Captura también Internet Burstable que se vende en bundle con DECIII&#xD;&#xA;Si bien es de Lumen, se usa por licencias&#xD;&#xA;">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Capability N1"
+      value="Usage Management"/>
+  <properties
+      key="CirionDom1"
+      value="IT Platforms and Services"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

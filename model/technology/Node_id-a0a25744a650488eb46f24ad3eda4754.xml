@@ -1,0 +1,21 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server]  FENIX-TLP"
+    id="id-a0a25744a650488eb46f24ad3eda4754">
+  <properties
+      key="Envirnoment"
+      value="PROD"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / PRODUCTION"/>
+  <properties
+      key="Cloud"/>
+  <properties
+      key="SOX Crit."/>
+  <properties
+      key="DR Crit."/>
+  <properties
+      key="Assoc. Source"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

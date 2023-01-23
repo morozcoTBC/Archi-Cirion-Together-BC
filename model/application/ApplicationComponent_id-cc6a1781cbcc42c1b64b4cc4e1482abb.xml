@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netbox (reemplazo Incognito)"
+    id="id-cc6a1781cbcc42c1b64b4cc4e1482abb"
+    documentation="Herramienta open source&#xD;&#xA;Herramienta para hacer el inventario, planeamiento, gestión de la utilización, reporte de los IPs y el gerenciamiento de DNS a través de la integración y envió de nombres y registros a los DNS servers, ej. Incognito">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Capability N1"
+      value="Resource Inventory Management"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

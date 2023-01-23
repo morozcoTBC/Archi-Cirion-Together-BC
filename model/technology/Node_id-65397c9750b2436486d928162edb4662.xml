@@ -1,0 +1,21 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server]  ARPL-BACKUP01"
+    id="id-65397c9750b2436486d928162edb4662">
+  <properties
+      key="Envirnoment"
+      value="DEV"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / DEVELOPMENT"/>
+  <properties
+      key="Cloud"/>
+  <properties
+      key="SOX Crit."/>
+  <properties
+      key="DR Crit."/>
+  <properties
+      key="Assoc. Source"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

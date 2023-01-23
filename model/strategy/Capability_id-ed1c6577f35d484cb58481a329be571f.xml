@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA Management"
+    id="id-ed1c6577f35d484cb58481a329be571f"
+    documentation="Customer SLA Management applications include the required functionality to assure that SLA agreements made between operators and customers are met. This includes processing measurements made elsewhere and checking the measurements and taking appropriate actions when the specified agreements are not met. Note: Customers can include partners and 3rd party providers.">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server] ARDL-RANCIDNIDS"
+    id="id-f5138046ba714b619def3d81fac4a82d">
+  <properties
+      key="Envirnoment"
+      value="DEV"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / DEVELOPMENT"/>
+  <properties
+      key="Cloud"/>
+  <properties
+      key="SOX Crit."/>
+  <properties
+      key="DR Crit."/>
+  <properties
+      key="Assoc. Source"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

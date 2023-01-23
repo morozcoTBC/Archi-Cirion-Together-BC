@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TUTT"
+    id="id-35e4ec2205d04181a12cee2c3153e740"
+    documentation="Permite subir un archivo con un id de instancia de servicio que une con una cuenta, un monto, cliente, etc. Convierte un archivo que se tasa en forma manual al formato que necesita Kenan&#xD;&#xA;Flujo manual de facturación de consumos de CAM, para todos los contratos que no son en USD&#xD;&#xA;">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Capability N1"
+      value="Charge Calculation and Balance Management"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="CirionDom1"
+      value="Billing and Revenue Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

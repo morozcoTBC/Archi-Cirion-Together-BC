@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Management"
+    id="id-bfc57506703747f3a1c1a48f30d8b118"
+    documentation="Solution Management applications provide the necessary functionality to manage the analyzing, composing, and recommending of the right solution to a given potential customer.">
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+</archimate:Capability>

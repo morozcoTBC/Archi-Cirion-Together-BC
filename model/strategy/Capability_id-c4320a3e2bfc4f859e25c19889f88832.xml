@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Audit &amp; Risk Management"
+    id="id-c4320a3e2bfc4f859e25c19889f88832"
+    documentation="Enterprise Audit &amp; Risk Management business process directs and controls activities that assess the enterprises compliance and consistency in performance of activities against regulations and internal policies, and  as well manage the understanding and addressing of enterprise business risks. &#xD;&#xA;Enterprise Audit &amp; Risk Management address needs of all enterprise business functions and activities with enterprise audit management and enterprise risk management.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

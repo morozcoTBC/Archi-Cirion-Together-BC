@@ -1,0 +1,26 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server] USIDCVWMASTDW02"
+    id="id-4d4760fae78f412abf21f660706d3bb8">
+  <properties
+      key="Envirnoment"
+      value="DEV"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / DEVELOPMENT"/>
+  <properties
+      key="Cloud"
+      value="Internal"/>
+  <properties
+      key="SOX Crit."
+      value="No"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Assoc. Source"
+      value="ServiceNow"/>
+  <properties
+      key="Supportability Problems"
+      value="SERVER OS HAS EOSL DATE IN THE PAST (SEVERE)"/>
+</archimate:Node>

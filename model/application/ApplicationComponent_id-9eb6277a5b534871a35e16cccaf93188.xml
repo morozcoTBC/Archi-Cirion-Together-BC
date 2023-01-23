@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netstats"
+    id="id-9eb6277a5b534871a35e16cccaf93188"
+    documentation="Trafico y consumos. Visualizacion de informacion para facturacion">
+  <properties
+      key="Capability N2"
+      value="Service Performance Monitoring"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Capability N1"
+      value="Service Performance Management"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

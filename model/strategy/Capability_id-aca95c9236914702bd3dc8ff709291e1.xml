@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resoruce Provisioning"
+    id="id-aca95c9236914702bd3dc8ff709291e1">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+</archimate:Capability>

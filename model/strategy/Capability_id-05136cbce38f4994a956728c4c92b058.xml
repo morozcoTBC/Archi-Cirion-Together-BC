@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Management Capability Delivery"
+    id="id-05136cbce38f4994a956728c4c92b058"
+    documentation="Customer Capability Delivery processes plan and deliver the total capabilities required to deliver products and services to customers in a timely manner. This involves integration of capability delivered from within the enterprise, and capability delivered from an external party. Customer growth forecasting and capturing of new opportunities, are both essential to ensure that the enterprise can implement the capabilities necessary for the future needs of its customers and potential customers.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Capability Delivery"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

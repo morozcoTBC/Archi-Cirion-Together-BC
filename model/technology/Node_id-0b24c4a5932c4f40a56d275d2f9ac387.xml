@@ -1,0 +1,25 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server]  ARBUEPLVWKNW01"
+    id="id-0b24c4a5932c4f40a56d275d2f9ac387">
+  <properties
+      key="Envirnoment"
+      value="DEV"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / DEVELOPMENT"/>
+  <properties
+      key="Cloud"
+      value="Internal"/>
+  <properties
+      key="SOX Crit."
+      value="No"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Assoc. Source"
+      value="ServiceNow"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Account Management"
+    id="id-3fc3e45789094154a1b75214b0963237"
+    documentation="The purpose of Billing Account Management is to provide functionality necessary to establish and modify a customer's billing account. This includes configuration of the account as well as management of account associations.&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+</archimate:Capability>

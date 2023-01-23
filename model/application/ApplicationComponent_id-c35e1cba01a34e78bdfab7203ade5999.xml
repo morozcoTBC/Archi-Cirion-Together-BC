@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Azure"
+    id="id-c35e1cba01a34e78bdfab7203ade5999">
+  <properties
+      key="Domain"
+      value="Common"/>
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="CirionDom1"
+      value="IT Platforms and Services"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

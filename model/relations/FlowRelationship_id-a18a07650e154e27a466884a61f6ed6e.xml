@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Payments"
+    id="id-a18a07650e154e27a466884a61f6ed6e"
+    documentation="una vez al mes el 10 de cada mes">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a6dbfda9b5b147ad8cf29adcd94a007c.xml#id-a6dbfda9b5b147ad8cf29adcd94a007c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0d3a836f1d6f4d209ba584e0910b0f4b.xml#id-0d3a836f1d6f4d209ba584e0910b0f4b"/>
+</archimate:FlowRelationship>

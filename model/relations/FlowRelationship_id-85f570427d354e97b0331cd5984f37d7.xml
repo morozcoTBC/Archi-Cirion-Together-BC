@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP - Paperless"
+    id="id-85f570427d354e97b0331cd5984f37d7">
+  <properties
+      key="Middleware"
+      value="PI"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d9e2dc020e1f47e9be2d4438f8bbf325.xml#id-d9e2dc020e1f47e9be2d4438f8bbf325"/>
+</archimate:FlowRelationship>

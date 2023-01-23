@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Specification Management"
+    id="id-26e0f1fbafdc46769c9b54ad5698ad9a"
+    documentation="Resource Specification Management business process leverages captured resource requirements to develop, master, analyze, and update documented standard conditions that must be satisfied by a resource design and/or delivery.&#xD;&#xA;Resource Specifications Management can result in establishing in a centralized way, technical (know-how) standards. Such standards provide the organization with a means to control and approve the values and inputs of specification through structure, review, approval and distribution processes to stakeholders and suppliers.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Capability Delivery"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+</archimate:Capability>

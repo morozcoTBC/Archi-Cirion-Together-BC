@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Sales Management"
+    id="id-d68dbaf7b70c491b82f869def41173f4"
+    documentation="The Channel Sales Management application provides the necessary functionality to sell to a number of specific sales channels.&#xD;&#xA;Area contains several level 2 applications, each supporting different channels. &#xD;&#xA;&#xD;&#xA;This application contains core functionality shared amongst level 2 applications, and functionality specific to each channel.&#xD;&#xA; &#xD;&#xA;This section is organized to reflect Common Functionality, then addresses the specificities of each channel:  &#xD;&#xA;•Direct sales force (also known as field sales) –   most handling corporate and medium sized businesses [see section]       •Telesales / ordering department – selling over the   phone to consumers and small businesses &#xD;&#xA;•Retail outlets – the Telco’s branded retail   stores, (mostly common in Wireless communication provides and mostly serving   consumers and small businesses)       &#xD;&#xA;•Dealers – 3rd party retailers that sell the   communications service provider’s services, mostly to consumers       &#xD;&#xA;•VNOs – Virtual Network Operators, that sell their   own branded services over the communications service provider’s network       Affiliates">
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+</archimate:Capability>

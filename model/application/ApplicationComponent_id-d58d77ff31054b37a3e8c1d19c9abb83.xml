@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nessus"
+    id="id-d58d77ff31054b37a3e8c1d19c9abb83"
+    documentation="Uso para la prestacion de Servicios Profesionales | Ethical Hacking.&#xD;&#xA;">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+</archimate:ApplicationComponent>

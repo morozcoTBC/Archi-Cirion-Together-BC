@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leased Line Finder"
+    id="id-a412752ba6fb4fa8932537f50b70dfe0"
+    documentation="Usado por el equipo de Change Management para crear las Service Impact de las GCRs&#xA;Desarrollo de Cirion, es una herramienta que ayuda identificar servicios On-Net y Offnet y genera una planilla llamada Service impact utilizada para la notificacion de servicios a clientes en GCR (haciendo el manual swivel chair)">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N1"
+      value="Service Lifecycle Management"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

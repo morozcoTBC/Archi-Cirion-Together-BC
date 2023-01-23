@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Siebel"
+    id="id-0f4d3665db6d4700b56cd52e48f0a2d1"
+    documentation="Latam CRM tool to manage quote to order processes">
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Capability N1"
+      value="Service Order Management"/>
+  <properties
+      key="Capability N1"
+      value="Solution Management"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="N"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="CirionDom1"
+      value="Lead to CPQ"/>
+  <properties
+      key="CirionDom2"
+      value="CPQ"/>
+</archimate:ApplicationComponent>

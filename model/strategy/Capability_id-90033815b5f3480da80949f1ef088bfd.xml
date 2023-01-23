@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Meditation &amp; Reporting"
+    id="id-90033815b5f3480da80949f1ef088bfd"
+    documentation="Resource Mediation &amp; Reporting processes manage resource events by correlating and formatting them into a useful format.  These processes include the mediation and reporting of resource records.  Investigation of resource related billing event problems is also part of these processes.&#xD;&#xA;&#xD;&#xA;These processes are often handled by appropriate network elements.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+</archimate:Capability>

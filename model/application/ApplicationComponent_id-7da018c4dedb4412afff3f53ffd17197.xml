@@ -1,0 +1,31 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP ARIBA"
+    id="id-7da018c4dedb4412afff3f53ffd17197"
+    documentation="Lumen Procure to Pay Portal, that Latam use to transact RFP. contracts. purchase orders and vendor creation. Buying and invoicng. contrastos.. pend analysis. solicitud de servicios (no materiales). Todas las solp. incluidas materiales. van a ariba. Todo el sourcing (RF RFI RFQ)&#xA;">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="TBD"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Supply Chain Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise - Supply Chain Management    "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

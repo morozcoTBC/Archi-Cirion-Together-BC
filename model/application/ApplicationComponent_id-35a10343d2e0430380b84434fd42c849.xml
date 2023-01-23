@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Big Panda"
+    id="id-35a10343d2e0430380b84434fd42c849">
+  <properties
+      key="Capability N1"
+      value="Service Performance Management"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Capability N2"
+      value="Service Performance Monitoring"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

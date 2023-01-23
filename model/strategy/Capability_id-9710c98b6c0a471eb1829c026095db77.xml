@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Management"
+    id="id-9710c98b6c0a471eb1829c026095db77"
+    documentation="The ability to acquire, create, track, report on and dispose of tangible or intangible property with intrinsic value.&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

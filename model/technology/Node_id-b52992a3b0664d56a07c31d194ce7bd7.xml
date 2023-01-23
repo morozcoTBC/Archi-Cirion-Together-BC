@@ -1,0 +1,25 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server] ARATSVESXI042"
+    id="id-b52992a3b0664d56a07c31d194ce7bd7">
+  <properties
+      key="Envirnoment"
+      value="PROD"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / PRODUCTION"/>
+  <properties
+      key="Cloud"
+      value="Internal"/>
+  <properties
+      key="SOX Crit."
+      value="No"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Assoc. Source"
+      value="ServiceNow"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tender Management"
+    id="id-935ed235b63549ccb780d75cad4f65ff"
+    documentation="Tender Management application provides the capabilities to create and manage the tenders that the enterprise make available for its partner to bid. Every tender can have associate workflow for its creation, approval &amp; finalization, including the workflow for the bidding process of the tender.">
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy to Readiness"/>
+</archimate:Capability>

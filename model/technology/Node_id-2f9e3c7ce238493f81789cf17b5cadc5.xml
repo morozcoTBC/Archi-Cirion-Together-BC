@@ -1,0 +1,25 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server] ARATSWVCLRPAD01"
+    id="id-2f9e3c7ce238493f81789cf17b5cadc5">
+  <properties
+      key="Envirnoment"
+      value="TEST"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / TEST"/>
+  <properties
+      key="Cloud"
+      value="Internal"/>
+  <properties
+      key="SOX Crit."
+      value="No"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Assoc. Source"
+      value="ServiceNow"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

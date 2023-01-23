@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XIME"
+    id="id-ed62b38af2334b18985016cfffc8f22e"
+    documentation="Maneja template de configuraciones que luego se implementan en la red  y manaja estados de los equipos. El equipo puede estar disponible para el delivery, pero no utilizado aún&#xD;&#xA;Chequeo que los equipos que esten disponibles para capacity check.&#xD;&#xA;Se puede hacer una primera configuración y luego cambiar. Si se busca la configuracion real que luego puede cambiar, la aplicación no hace la reconciliación.&#xD;&#xA;Genera los scripts de configuración.&#xD;&#xA;No se está utilizando actualmente como inventario y como capacity check&#xD;&#xA;Es una aplicación que se usa más para información">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N1"
+      value="Service Inventory Management"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

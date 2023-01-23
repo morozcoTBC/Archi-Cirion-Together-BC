@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Loyalty Management"
+    id="id-599834787fa84b3ba93a1801c9417676"
+    documentation="Customer Loyalty Management applications are responsible for the management of the customer loyalty programs. This includes administration of the general program, prize management including management of prize partners, as well as loyalty balance management.">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+</archimate:Capability>

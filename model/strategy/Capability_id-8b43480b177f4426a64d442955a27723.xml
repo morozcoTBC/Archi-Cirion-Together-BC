@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product &amp; Offer Portfolio Planning"
+    id="id-8b43480b177f4426a64d442955a27723"
+    documentation="Product &amp; Offer Portfolio Planning processes develop strategies for products at the portfolio level. The decision is made as to which product types the enterprise wants or needs to offer, and how it plans to enter or grow in these sectors. This will be done based on multiple inputs: including Enterprise Strategies, Market Research and Market Analysis.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy Management"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

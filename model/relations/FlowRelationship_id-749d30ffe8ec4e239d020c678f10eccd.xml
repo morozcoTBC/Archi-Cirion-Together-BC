@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contractors"
+    id="id-749d30ffe8ec4e239d020c678f10eccd">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-08eea7420734487ca5fdfeecb0b580e2.xml#id-08eea7420734487ca5fdfeecb0b580e2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-eaa9841fa30d45db8fc66e30bfd4cbc5.xml#id-eaa9841fa30d45db8fc66e30bfd4cbc5"/>
+</archimate:FlowRelationship>

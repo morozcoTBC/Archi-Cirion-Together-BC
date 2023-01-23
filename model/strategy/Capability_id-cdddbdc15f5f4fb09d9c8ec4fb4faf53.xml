@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Aid"
+    id="id-cdddbdc15f5f4fb09d9c8ec4fb4faf53"
+    documentation="The Sales Aids Application provides access to methods and procedures as well as product information and other collateral that can be used to assist in making a sale.">
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+</archimate:Capability>

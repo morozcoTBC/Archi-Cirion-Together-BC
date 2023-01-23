@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portal"
+    id="id-168a7bb0bec64dc4a9d6ebce597538f8">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Capability N1"
+      value="Resource Inventory Management"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

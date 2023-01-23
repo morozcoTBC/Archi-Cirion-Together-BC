@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Capability Orchestration"
+    id="id-b88d4d3b5e17492e93494bab8d084eac"
+    documentation="Resource Capability Orchestration application will perform automated Resource Task Item decomposition, integration of one or more resources, coordination, and management in resource deployment, resource instantiation and resource element updating. The application function fulfills the needs of orchestration for Operation Support &amp; Readiness, Fulfilment and Assurance domains applications in the Resource Layer with regards to Hybrid ecosystem.">
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+</archimate:Capability>

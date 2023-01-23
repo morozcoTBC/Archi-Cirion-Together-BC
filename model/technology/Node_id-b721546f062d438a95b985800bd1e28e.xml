@@ -1,0 +1,26 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server] ARATSWPAPE001"
+    id="id-b721546f062d438a95b985800bd1e28e">
+  <properties
+      key="Envirnoment"
+      value="PROD"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / PRODUCTION"/>
+  <properties
+      key="Cloud"
+      value="Internal"/>
+  <properties
+      key="SOX Crit."
+      value="No"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Assoc. Source"
+      value="ServiceNow"/>
+  <properties
+      key="Supportability Problems"
+      value="SERVER OS HAS EOSL DATE IN THE PAST (SEVERE)."/>
+</archimate:Node>

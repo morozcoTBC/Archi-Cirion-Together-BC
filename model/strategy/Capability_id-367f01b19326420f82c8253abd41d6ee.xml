@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Insight Management"
+    id="id-367f01b19326420f82c8253abd41d6ee"
+    documentation="Customer Insight Management enables Service Providers to leverage customer insight gained from customer transactions, interactions and activities with the Service Provider to treat the customer in a personalized manner and provide a unique customer experience. Customer Insight gained can be applied to many domains pertaining to customer experience such as customer service, cross/up-sell, retention, etc. Although Customer Insight Management builds upon traditional business intelligence and analytics for customer transactions and interactions, it is unique as it provides real-time customer treatment for various aspects to provide relevant, timely, and personalized actions.">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+</archimate:Capability>

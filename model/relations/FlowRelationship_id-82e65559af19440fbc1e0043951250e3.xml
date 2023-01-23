@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAT - Fireworks"
+    id="id-82e65559af19440fbc1e0043951250e3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-03d470e79b664b6482dc3318e1d157d7.xml#id-03d470e79b664b6482dc3318e1d157d7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1f38b10a247441fc9761aed5f7f5da02.xml#id-1f38b10a247441fc9761aed5f7f5da02"/>
+</archimate:FlowRelationship>

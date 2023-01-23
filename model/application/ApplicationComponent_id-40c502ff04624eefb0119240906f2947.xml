@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SES Bulkloader"
+    id="id-40c502ff04624eefb0119240906f2947"
+    documentation="Procesa los No es una aplicación, es una funcionalidad para subir manualmente registros a SESarchivos de factura manual">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Capability N1"
+      value="Service Order Management"/>
+  <properties
+      key="CirionDom1"
+      value="Billing and Revenue Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

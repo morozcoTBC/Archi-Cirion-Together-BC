@@ -1,0 +1,26 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OneControl / MCP"
+    id="id-6e1671346d3048daa7593408ea8f3c8f"
+    documentation="Gestor de REd de Vendor&#xD;&#xA;Los servidores quedan instalados en Cirion y quedan a cargo de un grupo de Cirion">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N1"
+      value="Service Inventory Management"/>
+  <properties
+      key="Middleware"
+      value="API"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

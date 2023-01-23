@@ -1,0 +1,25 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server]  ARCL-ORAGURU03"
+    id="id-fa592e48ccf0481faa582cad5b0b0609">
+  <properties
+      key="Envirnoment"
+      value="TEST"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / TEST"/>
+  <properties
+      key="Cloud"
+      value="Internal"/>
+  <properties
+      key="SOX Crit."
+      value="No"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Assoc. Source"
+      value="ServiceNow"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

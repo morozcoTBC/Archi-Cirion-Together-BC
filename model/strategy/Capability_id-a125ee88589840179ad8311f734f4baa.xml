@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Management"
+    id="id-a125ee88589840179ad8311f734f4baa"
+    documentation="Customer Order Management provides an online access function to specific orders, to be used for management, monitoring and tracking for customer support and external agents for Upgrade of customer’s products/services.&#xD;&#xA;This capability needs to be provided in both an ability to query in real time as well as a publish/subscribe mechanism to enable the use of the information wherever required.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

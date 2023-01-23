@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage tasados"
+    id="id-a363617a51a04727aae89551912fa9d6"
+    documentation="Archivo L01, L09????">
+  <properties
+      key="Middleware"
+      value="Text file"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a372faeb56184298aca4bb4d95efb86d.xml#id-a372faeb56184298aca4bb4d95efb86d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4f7f04f5517347119b3b3b1c5ae70179.xml#id-4f7f04f5517347119b3b3b1c5ae70179"/>
+</archimate:FlowRelationship>

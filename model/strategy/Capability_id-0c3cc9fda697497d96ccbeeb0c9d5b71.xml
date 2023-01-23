@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog Management"
+    id="id-0c3cc9fda697497d96ccbeeb0c9d5b71"
+    documentation="Catalog Management is a cross domain, multilayer application that operates as a master repository for componentized entities of products, services and / or resources within one or more domains of a service provider’s environment. Catalog Management includes the abilities to create and design new entities, map entity definitions, manage complex rules, support componentization of entities and manage their relationships and dependencies. Additional aspects include versioning, change management, enhanced viewing, as well as editing and tracking capabilities">
+  <properties
+      key="Domain"
+      value="Common"/>
+</archimate:Capability>

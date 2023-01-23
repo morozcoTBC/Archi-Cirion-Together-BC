@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Performance Management"
+    id="id-5c7eff8414a2444a8007a57e4246abff"
+    documentation="Enterprise Performance Management (EPM) is a business process that connects strategy with planning and execution. It focuses on providing a comprehensive set of business activities to link financial to operational planning to achieve the organizations goals.&#xD;&#xA;&#xD;&#xA;The Enterprise Performance Management process group focuses on defining enterprise performance goals, strategic management (including integrated performance planning &amp; budgeting), forecast management, performance assessment and measuring, performance analysis, business rules performance management, enterprise policies &amp; procedure performance evaluation, business process performance management, performance reporting (including Performance Feedback to business domains) and business activity consolidation, reconciliation &amp; Close (to support Enterprise Risk Management process).&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

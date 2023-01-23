@@ -1,0 +1,17 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[MDL DB] MASTPRD1/MASTPRD1"
+    id="id-a800a1e4dbf94d8e8dc9325361f4c4b7">
+  <properties
+      key="Environment"
+      value="PROD"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / PRODUCTION"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Supportability Problems"
+      value="MDL DB VER OLDER THAN ROADMAP (MODERATE)"/>
+</archimate:Node>

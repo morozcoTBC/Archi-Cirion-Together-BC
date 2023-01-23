@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PCAT"
+    id="id-8a1b79a091ee4f9586d29be546cd26d1"
+    documentation="Se utiliza para capacity check">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+</archimate:ApplicationComponent>

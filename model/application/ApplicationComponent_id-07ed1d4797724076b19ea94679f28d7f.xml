@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WhatsUp"
+    id="id-07ed1d4797724076b19ea94679f28d7f"
+    documentation="Monitoreo de servicios SNMP"/>

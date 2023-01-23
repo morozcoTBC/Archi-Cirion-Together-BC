@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Provisioning"
+    id="id-7a770257e546454fb32e799354e3d674"
+    documentation="Resource Provisioning processes encompass allocation, installation, configuration, activation and testing of specific resources to meet the service requirements, or in response to requests from other processes to alleviate specific resource capacity shortfalls, availability concerns or failure conditions. &#xD;&#xA;Responsibilities of the Resource Provisioning processes include, but are not limited to:&#xD;&#xA;• Verifying whether appropriate specific resources are available as part of pre-order feasibility checks;&#xD;&#xA;• Allocating the appropriate specific resources to support service orders or requests from other processes;&#xD;&#xA;• Reserving specific resources (if required by the business rules) for a given period of time until the service order is confirmed;&#xD;&#xA;• Possibly initiating delivery of specific resources to the central office, to site or to the customer premise;&#xD;&#xA;• Installation and commissioning of specific resources after delivery;&#xD;&#xA;• Configuring and activating physical and/or logical specific resources, as appropriate;&#xD;&#xA;• Testing the specific resources to ensure the resource is working correctly;&#xD;&#xA;• Recovery of resources;&#xD;&#xA;• Updating of the Resource Inventory Database to reflect that the specific resource has been allocated to specific services, modified or recovered;&#xD;&#xA;• Assigning and tracking resource provisioning activities; &#xD;&#xA;• Managing resource provisioning jeopardy conditions&#xD;&#xA;• Reporting progress on resource orders to other processes.">
+  <properties
+      key="Domain"
+      value="Resource"/>
+</archimate:Capability>

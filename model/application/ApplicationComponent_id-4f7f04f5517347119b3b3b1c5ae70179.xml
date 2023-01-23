@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UEXE"
+    id="id-4f7f04f5517347119b3b3b1c5ae70179"
+    documentation="Construye la interacción entre los IDs (de servicios y de elementos) que envía RAW, IRS y Conferencing, lee variables que son de los servicios y construye el archivo L01 (VALIDAR)&#xD;&#xA;Captura los consumos ya realizados de DECIII para poder valorizarlos.  Tiene modelo de commitment y un variable por percentil. Averiguar todos los posibles modelos&#xD;&#xA;Se desarrolló dentro de UEXE un módulo por producto">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Capability N1"
+      value="Charge Calculation and Balance Management"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="CirionDom1"
+      value="Billing and Revenue Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

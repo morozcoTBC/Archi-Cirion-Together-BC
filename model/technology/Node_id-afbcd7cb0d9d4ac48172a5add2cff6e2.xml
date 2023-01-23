@@ -1,0 +1,21 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server] ARATSLINFINERA002"
+    id="id-afbcd7cb0d9d4ac48172a5add2cff6e2">
+  <properties
+      key="Envirnoment"
+      value="PROD"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / PRODUCTION"/>
+  <properties
+      key="Cloud"/>
+  <properties
+      key="SOX Crit."/>
+  <properties
+      key="DR Crit."/>
+  <properties
+      key="Assoc. Source"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Humand"
+    id="id-4dbceef0f9a04097b240ea800a256b01">
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="Domain"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise – HR Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

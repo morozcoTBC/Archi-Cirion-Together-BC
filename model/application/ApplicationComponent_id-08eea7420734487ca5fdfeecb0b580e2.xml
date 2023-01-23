@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP SuccessFactors"
+    id="id-08eea7420734487ca5fdfeecb0b580e2"
+    documentation="Human capital management solution. Latam use it for employee performance (goals. growth. compensations. talent management -recruiting and HR support">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="HR Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise – HR Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

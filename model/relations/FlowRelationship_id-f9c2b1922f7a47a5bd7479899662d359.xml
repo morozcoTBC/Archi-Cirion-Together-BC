@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage DEC III"
+    id="id-f9c2b1922f7a47a5bd7479899662d359">
+  <properties
+      key="Middleware"
+      value="Webservice"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5ba8e873b10f4109887eb4ce9f2fab4e.xml#id-5ba8e873b10f4109887eb4ce9f2fab4e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4f7f04f5517347119b3b3b1c5ae70179.xml#id-4f7f04f5517347119b3b3b1c5ae70179"/>
+</archimate:FlowRelationship>

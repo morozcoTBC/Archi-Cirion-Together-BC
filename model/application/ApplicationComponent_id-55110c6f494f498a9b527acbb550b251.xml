@@ -1,0 +1,26 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cloud Checker "
+    id="id-55110c6f494f498a9b527acbb550b251"
+    documentation="Data Center: producto CAM&#xD;&#xA;Producto que tiene contratos en dólares y en otras monedas&#xD;&#xA;">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Capability N1"
+      value="Usage Management"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="CirionDom1"
+      value="Billing and Revenue Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

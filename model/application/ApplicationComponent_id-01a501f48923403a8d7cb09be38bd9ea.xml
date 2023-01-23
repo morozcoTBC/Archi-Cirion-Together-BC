@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eBilling Vendors"
+    id="id-01a501f48923403a8d7cb09be38bd9ea"
+    documentation="No es una aplicación, son proveedores, diferentes por cada pais para procesarmiento de facturas">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Capability N1"
+      value="Bill Format / Render"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="CirionDom1"
+      value="Billing and Revenue Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

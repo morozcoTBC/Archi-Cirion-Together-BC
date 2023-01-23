@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Catalog Planning Management"
+    id="id-fb870e43aa754edabb7d409d6815ced6"
+    documentation="Service Catalog Planning Management business process covers a set of business activities that understand and enable establish the plan to define, design and operationalize a catalog in order to meet the needs and objectives of Service cataloging.&#xD;&#xA;The Service Catalog Planning Management business process ensure that the organization is able to identify the most appropriate scheme and goal for it catalog. It includes designing the Catalog plan and developing the specification according to Service management requirement.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Capability Delivery"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+</archimate:Capability>

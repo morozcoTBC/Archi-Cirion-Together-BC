@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supply Chain Management"
+    id="id-a2e0ec5c8ae84aaeba8c1e8a6c112e06"
+    documentation="Supply Chain Management business process handles the activities that plan, source, make, deliver, return of raw and processed materials.&#xD;&#xA;For enterprises, Supply Chain Management business process and activities oversees all the processes that integrate suppliers into the enterprise in order to work efficiently together to move products from creation to the customer hands, and taking into account supply and demand.&#xD;&#xA;In commerce, Supply Chain Management business process handle all the activities involved in the flow of goods and services, between enterprises, businesses and locations, and includes the movement and storage of raw materials, of work-in-process inventory, and of finished goods as well as end to end order fulfillment from point of origin to point of consumption.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

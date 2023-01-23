@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Strategy &amp; Planning"
+    id="id-ced9726cf7054a08b4004965646eb7d5"
+    documentation="Service Strategy &amp; Planning processes enable the development of a strategic view and a multi-year business plan for the enterprise’s services and service directions, and the parties who will supply the required services. Research &amp; analysis is performed to determine service targets as well as strategies to reach the defined targets. This research may be obtained from the external market, or developed internally through research programs and activities, or leverage of other internal knowledge. A key input to the service strategy arises from the enterprise’s market and product portfolio strategy and forecasts. A focus is placed on the expansion of the existing service capabilities and the identification of new service capabilities required.&#xD;&#xA;These processes deliver and develop annual and multi-year service plans in support of products and offers that include volume forecasts, negotiation for required levels of resources, gaining service development and management as well as supply chain commitment and executive approval for the plans.&#xD;&#xA;Forecasting of service demand, and capturing of new opportunities, are both essential to ensure that the enterprise can implement the services necessary for the future needs of their customers and potential customers.&#xD;&#xA;These processes define the service standards sought, key new service capabilities required, service support levels and approaches required, service design elements to be developed, as well as service cost parameters and targets. These processes also define the policies relating to technical services and their implementation.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy Management"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+</archimate:Capability>

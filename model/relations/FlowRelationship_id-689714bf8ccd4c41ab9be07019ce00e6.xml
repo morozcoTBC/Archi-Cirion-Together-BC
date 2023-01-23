@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consulta de factibilidad"
+    id="id-689714bf8ccd4c41ab9be07019ce00e6"
+    documentation="Informa proveedores y precios asociados, solo para terceros">
+  <properties
+      key="Middleware"
+      value="EMP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-37507879c2414d8c89ed087d2e9d5c2c.xml#id-37507879c2414d8c89ed087d2e9d5c2c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9f13935c6b074be799a44c91741effae.xml#id-9f13935c6b074be799a44c91741effae"/>
+</archimate:FlowRelationship>

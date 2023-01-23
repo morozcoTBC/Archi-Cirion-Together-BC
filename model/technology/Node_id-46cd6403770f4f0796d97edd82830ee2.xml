@@ -1,0 +1,21 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server] ARUW-WEBOSS01"
+    id="id-46cd6403770f4f0796d97edd82830ee2">
+  <properties
+      key="Envirnoment"
+      value="TEST"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / TEST"/>
+  <properties
+      key="Cloud"/>
+  <properties
+      key="SOX Crit."/>
+  <properties
+      key="DR Crit."/>
+  <properties
+      key="Assoc. Source"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

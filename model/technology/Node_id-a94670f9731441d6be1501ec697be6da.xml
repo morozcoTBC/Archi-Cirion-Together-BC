@@ -1,0 +1,17 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[MDL DB] SBL16PDRP/SBL16PDRP"
+    id="id-a94670f9731441d6be1501ec697be6da">
+  <properties
+      key="Environment"
+      value="PROD"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / PRODUCTION"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Supportability Problems"
+      value="MDL DB VER OLDER THAN ROADMAP (SEVERE)"/>
+</archimate:Node>

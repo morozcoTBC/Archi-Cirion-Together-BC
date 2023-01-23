@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mexipago"
+    id="id-a6dbfda9b5b147ad8cf29adcd94a007c"
+    documentation="Interchange info with mexican authority">
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="Capability N1"
+      value="Receivables Management"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

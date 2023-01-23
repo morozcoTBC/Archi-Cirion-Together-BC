@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facturas"
+    id="id-db9a7fa47f994c2bb2c10c376ba44c05">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2b391baf263545b5a791aa143ff811d3.xml#id-2b391baf263545b5a791aa143ff811d3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-30e7523959604cb09f0d075acfaf3246.xml#id-30e7523959604cb09f0d075acfaf3246"/>
+</archimate:FlowRelationship>

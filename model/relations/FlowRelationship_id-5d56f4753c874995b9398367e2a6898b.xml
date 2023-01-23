@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opportunity - Push Quote"
+    id="id-5d56f4753c874995b9398367e2a6898b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-efcfdc4aa474419084cea6e20de9ae70.xml#id-efcfdc4aa474419084cea6e20de9ae70"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0f4d3665db6d4700b56cd52e48f0a2d1.xml#id-0f4d3665db6d4700b56cd52e48f0a2d1"/>
+</archimate:FlowRelationship>

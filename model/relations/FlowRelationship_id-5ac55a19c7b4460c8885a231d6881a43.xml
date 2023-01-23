@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consumos valorizados"
+    id="id-5ac55a19c7b4460c8885a231d6881a43">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-55110c6f494f498a9b527acbb550b251.xml#id-55110c6f494f498a9b527acbb550b251"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-35e4ec2205d04181a12cee2c3153e740.xml#id-35e4ec2205d04181a12cee2c3153e740"/>
+</archimate:FlowRelationship>

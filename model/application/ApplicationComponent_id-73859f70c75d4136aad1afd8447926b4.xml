@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Global Contact"
+    id="id-73859f70c75d4136aad1afd8447926b4"
+    documentation="Repositorio de contactos globales">
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Capability N1"
+      value="Customer Information Management"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BP Bill Payments &amp; Receivables Management"
+    id="id-a83eeb27ec2e45fcbe68a107b8d5f2f7"
+    documentation="Party Bill Payments &amp; Receivables Management is responsible for management of methods used by parties to make payments, administers payment plans, handles payments, and collects debt.&#xD;&#xA;It also concerns management, calculations, application of policies of functionality/interfaces for party account balances. The values resulting from rating and the application of discounts are applied to parties' account balance. This process also authorizes product requests, such as usage events, based on available balance as needed.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+</archimate:Capability>

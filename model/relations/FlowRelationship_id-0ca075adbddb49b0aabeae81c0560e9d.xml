@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accounting detail"
+    id="id-0ca075adbddb49b0aabeae81c0560e9d">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6caaa3da3f604c5dbd061e2af0836253.xml#id-6caaa3da3f604c5dbd061e2af0836253"/>
+</archimate:FlowRelationship>

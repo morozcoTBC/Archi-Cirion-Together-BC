@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Strategy &amp; Planning"
+    id="id-690415ae521e45f5b897bbaf44255a7c"
+    documentation="Customer Strategy &amp; Planning processes develop the strategies and policies of the enterprise for engaging with its existing and potential customers. To support the enterprise’s market, sales and operations strategy, the Customer Strategy and Planning processes develops the policies for customer engagement, interaction and security. For example, the enterprise decides that it will outsource some of its processes for customer fulfilment and customer support for one or more of its service lines or customer segments; both the functional processes, as well as Infrastructure and Product Lifecycle Management processes. The effectuation of this is done according to policies and strategies set by the Customer Strategy and Planning processes.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy Management"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

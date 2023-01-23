@@ -1,0 +1,44 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salesforce"
+    id="id-efcfdc4aa474419084cea6e20de9ae70">
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Capability N1"
+      value="Customer Management Capability Delivery"/>
+  <properties
+      key="Capability N1"
+      value="Customer Order Management"/>
+  <properties
+      key="Capability N1"
+      value="Sales Account Management"/>
+  <properties
+      key="Capability N1"
+      value="Contract Management"/>
+  <properties
+      key="Capability N1"
+      value="Solution Management"/>
+  <properties
+      key="Capability N2"
+      value="Customer Relationship Management"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Lead to CPQ"/>
+  <properties
+      key="CirionDom2"
+      value="Campaign to Opportunity"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revenue Portal"
+    id="id-30e7523959604cb09f0d075acfaf3246"
+    documentation="Portal (como si fuera una página) donde se cuelgan muchas funcionalidades billing. Por ejemplo se puede acceder a  &quot;obtener proforma&quot;, SES, etc.&#xD;&#xA;En la arquitectura futura tiene que podes accederse desde el  facturador.">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Capability N1"
+      value="Billing Events Management"/>
+  <properties
+      key="CirionDom1"
+      value="Billing and Revenue Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

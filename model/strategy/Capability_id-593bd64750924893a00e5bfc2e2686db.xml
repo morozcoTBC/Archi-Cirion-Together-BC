@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Catalog Management"
+    id="id-593bd64750924893a00e5bfc2e2686db"
+    documentation="Product Catalog Management is using the Catalog Management application in the Common Domain for product offering related management. The application is a repository of product listings within a service provider and include the ability to design, create, augment and map new entities and supporting data. &#xD;&#xA;See: Common Domain Catalog Management for more information.">
+  <properties
+      key="Domain"
+      value="Product"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+</archimate:Capability>

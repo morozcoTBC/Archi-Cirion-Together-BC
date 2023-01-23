@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Office Track"
+    id="id-7807642d8ee04b63be08633b0352614f"
+    documentation="Workfoce management: sirve para contratistas. Es externa. Latam&#xD;&#xA;Servidores&#xD;&#xA;se comiunica xml por un servicio y va en dos sentidos&#xD;&#xA;documentacion de la instalacion, fotos ">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Capability N1"
+      value="Service Order Management"/>
+  <properties
+      key="CirionDom1"
+      value="Order to Provisioning"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

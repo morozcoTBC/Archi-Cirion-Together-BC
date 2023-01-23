@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resources Management"
+    id="id-a223756b2c2640ee8375e860c08463e0"
+    documentation="The Human Resources Management process grouping provides the human resources infrastructure for the people resources that the enterprise uses to fulfill its objectives. &#xD;&#xA;For example, Human Resources Management processes provide salary structures by level, coordinate performance appraisal and compensation guidelines and set policies in relation to people management, employee benefit programs, etc.&#xD;&#xA;Moreover it supports the definition of the organization of the enterprise and coordinates its reorganizations.&#xD;&#xA;Note that Human Resources Management processes are concerned with preparing people to carry out their assigned tasks (e.g., organizing training, remuneration, recruiting, etc.). The actual assignment of specific tasks is the responsibility of Work Force Management processes.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

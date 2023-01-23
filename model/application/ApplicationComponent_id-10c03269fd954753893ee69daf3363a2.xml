@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infinera DNA"
+    id="id-10c03269fd954753893ee69daf3363a2"
+    documentation="Monitoreo y troubleshooting. Network manager red subsea">
+  <properties
+      key="Capability N2"
+      value="Service Performance Monitoring"/>
+  <properties
+      key="Capability N1"
+      value="Service Performance Management"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

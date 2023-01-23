@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brand Management"
+    id="id-046afa31b97d4dc0a0c966a517898c61"
+    documentation="Brand Management creates a name, symbol or design that identifies and differentiates an enterprise’s product offering and/or offerings from its others product offering(s) and similar offerings available from other enterprises, including competitors. The goal is to increase the perceived value of the brand over time. To do so may include co-branding with a partner.&#xD;&#xA;&#xD;&#xA;It develops a strategic plan to maintain brand equity or gain brand value. This requires a comprehensive understanding of the brand, its target market and an enterprise’s overall vision.&#xD;&#xA;&#xD;&#xA;It includes the analysis and planning on how the brand is perceived in the market, including endorsements by individuals and organizations that are obtained via social media, an enterprise’s web site, or publications. Comparisons of an enterprise’s brand to competitor’s brands are also performed.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy Management"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+</archimate:Capability>

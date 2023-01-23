@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ops Console"
+    id="id-3c77cc41beaa4cc5b1b7b1dc6eeb54e4">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Capability N1"
+      value="Service Problem Management"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generar tickets"
+    id="id-f3f32d054bec48c08771d21fee16c7b7"
+    documentation="Generar reclamo por problema de factura&#xD;&#xA;Para pedir desconexiones porque el cliente no paga">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-046b08c2a20b4226a0f17f845c9634c3.xml#id-046b08c2a20b4226a0f17f845c9634c3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3c77cc41beaa4cc5b1b7b1dc6eeb54e4.xml#id-3c77cc41beaa4cc5b1b7b1dc6eeb54e4"/>
+</archimate:FlowRelationship>

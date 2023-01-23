@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Worcket SAP SuccessFactors"
+    id="id-18e18207a3be4403ac26243c1bf66bfb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-08957958b42f4666911fc585a1422115.xml#id-08957958b42f4666911fc585a1422115"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-08eea7420734487ca5fdfeecb0b580e2.xml#id-08eea7420734487ca5fdfeecb0b580e2"/>
+</archimate:FlowRelationship>

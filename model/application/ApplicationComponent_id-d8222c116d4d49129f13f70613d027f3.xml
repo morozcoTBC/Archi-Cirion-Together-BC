@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP Agent (embedded in EMP)"
+    id="id-d8222c116d4d49129f13f70613d027f3"
+    documentation="Recibe informacion de AM, SIebel y GLM y vuelca en SAP las nuevas direcciones">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="N"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

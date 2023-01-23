@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ICD"
+    id="id-a594ac8434bd4a398b7f94efc14b6884"
+    documentation="Dashboard de infraestructura: espacio, aire acondicionado, generadores, transformadores. Infraestructura minima de los data center&#xD;&#xA;Power; Space; HVAC; &#xD;&#xA;FactoryTalk: mira cosnumo de energia real y tambien que hay en los nodos.&#xD;&#xA;Se puede hacer capacity check&#xD;&#xA;Cuanta con información de consumo de energia">
+  <properties
+      key="Owner "
+      value="Cirion"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N1"
+      value="Service Inventory Management"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

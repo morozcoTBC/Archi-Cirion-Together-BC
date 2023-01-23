@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RFM"
+    id="id-abaadbd44e8645cd848bf7e733754ac1"
+    documentation="Monitoring System">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Capability N2"
+      value="Service Performance Monitoring"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N1"
+      value="Service Performance Management"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

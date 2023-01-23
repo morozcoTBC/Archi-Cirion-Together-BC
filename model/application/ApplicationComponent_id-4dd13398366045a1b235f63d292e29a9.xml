@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CIS"
+    id="id-4dd13398366045a1b235f63d292e29a9"
+    documentation="Saca la información de los equipos de la red. Captura información por base de datos">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain "
+      value="Service"/>
+  <properties
+      key="Capability N1"
+      value="Service Inventory Management"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

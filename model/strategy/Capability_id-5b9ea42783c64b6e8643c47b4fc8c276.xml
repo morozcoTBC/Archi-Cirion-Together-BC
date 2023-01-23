@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Relationship Development &amp; Retirement"
+    id="id-5b9ea42783c64b6e8643c47b4fc8c276"
+    documentation="Party Relationship Development &amp; Retirement manages the lifecycles of parties with whom the enterprise has a relationship. Relationship with new parties may be required to broaden the services an enterprise offers, to improve performance, for outsourcing and out-tasking requirements, and so forth. &#xD;&#xA;&#xD;&#xA;Included processes that manage the Party's lifecycle, such as establishing and terminating a relationship, demographic collection, profiling, and community involvement.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+</archimate:Capability>

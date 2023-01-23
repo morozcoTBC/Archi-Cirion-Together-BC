@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Partner Support"
+    id="id-8cc7bba0dc224381b011af7b454cfc3f"
+    documentation="Business Partner Support processes are responsible for ensuring that management processes are in place to engage parties who own and manage infrastructure, provide infrastructure capabilities, are involved in other activities that provide value to or continue to provide value to Customers of the provider/operator.  They may also be responsible for ensuring that necessary facilities related to the interaction with parties in delivering products and/or services to support provider/operator owned and managed infrastructure are ready and functioning.&#xD;&#xA;Parties may be engaged by the provider/operator in infrastructure level">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+</archimate:Capability>

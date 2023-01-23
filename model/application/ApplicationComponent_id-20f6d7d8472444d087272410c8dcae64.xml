@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XI"
+    id="id-20f6d7d8472444d087272410c8dcae64"
+    documentation="No es una aplicación. Son validaciones o temas adicionales dentro de la misma aplicación hechas en otro tipo de lenguaje&#xD;&#xA;Cada XI es un flujo que trabaja dentro de Dokuviz - Dokuflow. Interacciona dentro de Dokuviz - Dokuflow y queda dentro de la misma base de datos&#xD;&#xA;Son funcionalidades que no cubría Dokuviz - Dokuflow y están desarrolladas como extensiones, que pueden ser &quot;.NET&quot; u otros lenguajes.&#xD;&#xA;Pueden ser consultas o actualizar datos en la base.&#xD;&#xA;FALTA LISTAR">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="Capability N1"
+      value="Service Order Management"/>
+  <properties
+      key="CirionDom1"
+      value="Order to Provisioning"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

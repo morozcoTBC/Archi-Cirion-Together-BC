@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Order Management"
+    id="id-e65ffc792fca484495fe96a3786bb28a"
+    documentation="Resource Order Management applications manage the end to end lifecycle of a resource order request. This includes validating resource availability as well as the resource order request. &#xD;&#xA;&#xD;&#xA;Other functionality includes resource order issuance, resource and or service order decomposition, and resource order tracking along with orchestrating the activation and the test and turn up processes.&#xD;&#xA;&#xD;&#xA; Notifications will be issued to the Service Order Management during the resource order orchestration process (especially upon completion). Such notification can trigger other steps in the Service Order Management (e.g. resource order completion concludes these steps with Service Order Management). &#xD;&#xA;&#xD;&#xA;In addition, Resource Order Management also provides network design and assignment functionality.">
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+</archimate:Capability>

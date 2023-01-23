@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[MDL DB] DWP"
+    id="id-e2bd4987201b4b8dba5585d7fc27724e">
+  <properties
+      key="Environment"/>
+  <properties
+      key="Assignment/Status"/>
+  <properties
+      key="DR Crit."/>
+  <properties
+      key="Supportability Problems"/>
+  <properties
+      key="Server"
+      value="ARATSWSQLM191"/>
+</archimate:Node>

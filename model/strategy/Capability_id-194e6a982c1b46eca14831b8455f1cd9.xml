@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Problem Management"
+    id="id-194e6a982c1b46eca14831b8455f1cd9"
+    documentation="The purpose of Customer Problem Management is to manage problems reported by customers, resolving these problems to the customer’s satisfaction, and providing meaningful status on the issue as needed to the customer.&#xD;&#xA;&#xD;&#xA;Customer problems can include: &#xD;&#xA;&#xD;&#xA;• General questions on products purchased and being used by the customer&#xD;&#xA;• Problems with products already purchased and being used by the customer either due to lack of education or service/network problems.&#xD;&#xA;•Problems with a material purchase from the service provider, even if they do not have an account with the said service provider.&#xD;&#xA;•General  inquiries, complaints, and commendations.&#xD;&#xA;&#xD;&#xA;Note: A customer problem may or may not result in a billing adjustment. Billing related issues are handled via Billing Inquiry, Dispute &amp; Adjustment Management, see Case Management for more information.&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Group"
+      value="Operations"/>
+</archimate:Capability>

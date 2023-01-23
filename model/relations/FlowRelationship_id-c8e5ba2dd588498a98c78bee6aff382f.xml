@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing data"
+    id="id-c8e5ba2dd588498a98c78bee6aff382f">
+  <properties
+      key="Middleware"
+      value="BMP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2b391baf263545b5a791aa143ff811d3.xml#id-2b391baf263545b5a791aa143ff811d3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1f3ba22663304f5ba9491d132e555849.xml#id-1f3ba22663304f5ba9491d132e555849"/>
+</archimate:FlowRelationship>

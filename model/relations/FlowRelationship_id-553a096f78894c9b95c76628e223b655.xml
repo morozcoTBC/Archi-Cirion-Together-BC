@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mastersaf - SAP"
+    id="id-553a096f78894c9b95c76628e223b655"
+    documentation="nota fiscal aprobada">
+  <properties
+      key="Middleware"
+      value="RFC"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-44f953a6a35d419883a3e891efeb796e.xml#id-44f953a6a35d419883a3e891efeb796e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+</archimate:FlowRelationship>

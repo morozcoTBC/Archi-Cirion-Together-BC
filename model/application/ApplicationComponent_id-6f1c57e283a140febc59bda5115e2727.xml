@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Genesys Call Center"
+    id="id-6f1c57e283a140febc59bda5115e2727">
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Domain"
+      value="Common"/>
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="CirionDom1"
+      value="IT Platforms and Services"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RM&amp;O Support &amp; Readiness"
+    id="id-3cbe20226f2548018883a971d549535c"
+    documentation="RM&amp;O Support &amp; Readiness processes are responsible for managing resource infrastructure to ensure that appropriate application, computing and network resources are available and ready to support the Fulfillment, Assurance and Billing processes in instantiating and managing resource instances, and for monitoring and reporting on the capabilities and costs of the individual FAB processes. &#xD;&#xA;Responsibilities of these processes include but are not limited to:&#xD;&#xA;• Supporting the operational introduction of new and/or modified resource infrastructure and conducting operations readiness testing and acceptance;&#xD;&#xA;• Managing planned outages;&#xD;&#xA;• Managing and ensuring the ongoing quality of the Resource Inventory;&#xD;&#xA;• Analyzing availability and performance over time on resources or groups of resources, including trend analysis and forecasting;&#xD;&#xA;• Demand balancing in order to maintain resource capacity and performance&#xD;&#xA;• Performing pro-active maintenance and repair activities;&#xD;&#xA;• Establishing and managing the workforce to support the eTOM processes&#xD;&#xA;• Managing spares, repairs, warehousing, transport and distribution of resources and consumable goods.&#xD;&#xA;• Conducting Vulnerability Management;     &#xD;&#xA;• Conducting Threat Assessments;        &#xD;&#xA;• Conducting Risk Assessments;        &#xD;&#xA;• Conducting Risk Mitigation;             &#xD;&#xA;• Conducting Secure Configuration Activities">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+</archimate:Capability>

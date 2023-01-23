@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vendors invoices"
+    id="id-18fd60b0081642eaac7c02b4b60fddf8"
+    documentation="el flujo es interno de sap">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-62d1b61b4118440787b1b25802aaf5ae.xml#id-62d1b61b4118440787b1b25802aaf5ae"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+</archimate:FlowRelationship>

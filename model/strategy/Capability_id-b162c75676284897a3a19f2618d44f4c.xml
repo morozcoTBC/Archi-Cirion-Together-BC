@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Inventory Management"
+    id="id-b162c75676284897a3a19f2618d44f4c"
+    documentation="The purpose of the Manage Customer Inventory processes are twofold - establish, manage and administer the enterprise's customer inventory, as embodied in the Customer Inventory Database, and monitor and report on the usage and access to the customer inventory, and the quality of the data maintained in it.&#xD;&#xA;The customer inventory maintains records of all customers, their interactions with the enterprise, any contracts established, and any other customer related- information, required to support CRM and other processes.&#xD;&#xA;Responsibilities of these processes include, but are not limited to:&#xD;&#xA;• Identifying the inventory-relevant information requirements to be captured for customers ;&#xD;&#xA;• Identifying, establishing and maintaining customer inventory repository facilities;&#xD;&#xA;• Establishing and managing the customer inventory management and information capture processes;&#xD;&#xA;• Managing the registration and access control processes that enable processes to create, modify, update, delete and/or download customer data to and from the customer inventory;&#xD;&#xA;• Ensuring the customer inventory repository accurately captures and records all identified customer details, through use of automated or manual audits;&#xD;&#xA;• Tracking and monitoring of the usage of, and access to, the customer inventory repository and associated costs, and reporting on the findings&#xD;&#xA;• Identifying any technical driven shortcomings of the customer inventory repository, and providing input to Resource Development &amp; Management processes to rectify these issues.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

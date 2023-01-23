@@ -1,0 +1,28 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server] ARATSLVDSB16LAB2"
+    id="id-22af786c54ea49488f37197750139848">
+  <properties
+      key="Envirnoment"
+      value="LAV"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / DEVELOPMENT"/>
+  <properties
+      key="Cloud"
+      value="Internal"/>
+  <properties
+      key="SOX Crit."
+      value="No"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Assoc. Source"
+      value="ServiceNow"/>
+  <properties
+      key="Supportability Problems"/>
+  <properties
+      key="DB"
+      value="SBLPRE/SBLPRE"/>
+</archimate:Node>

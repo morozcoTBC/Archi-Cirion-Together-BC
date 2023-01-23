@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ubicaciones de backbone"
+    id="id-fb78c8bcd267462585e4aafa47844827"
+    documentation="toma la info de lo que esta cargado en DokuViz (referenciados por el CLLICODE o LocNum)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9f13935c6b074be799a44c91741effae.xml#id-9f13935c6b074be799a44c91741effae"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-00f89da54aac4f6cb1a6683ed45f25e1.xml#id-00f89da54aac4f6cb1a6683ed45f25e1"/>
+</archimate:FlowRelationship>

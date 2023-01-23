@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Management"
+    id="id-38cfeae58451446d875cfce364117989"
+    documentation="Case Management applications manage the end to end lifecycle of a case. Cases and Case Management could apply to any area of assurance, billing, or fulfillment, but presumably reside in the customer layer. More specifically, Case Management could apply to customer problems (service affecting or not), bill inquiries, disputes, or areas of ordering if so implemented by the service provider.&#xD;&#xA;&#xD;&#xA;Given Case Management must manage the lifecycle of a case, there must be a means to define and configure different types of cases along with the workflow to execute the various types of cases through their respective lifecycles. There must also be the capability to analyze and correlate cases as well as report on the various cases open at any given time, and archive the cases once closed. &#xD;&#xA;&#xD;&#xA;Note: The presentation layer for these applications will be found elsewhere (Self Service, CSR Toolbox, etc).&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+</archimate:Capability>

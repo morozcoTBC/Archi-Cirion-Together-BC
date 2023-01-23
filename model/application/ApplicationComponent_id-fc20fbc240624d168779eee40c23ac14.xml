@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Padrones"
+    id="id-fc20fbc240624d168779eee40c23ac14"
+    documentation="Es un programa que permite subir Padrones en Kenan">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Regulatory &amp; Compliance Management"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

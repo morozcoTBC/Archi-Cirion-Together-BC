@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Partner Performance Management"
+    id="id-d4285b1478f34fad94550af659582be0"
+    documentation="The Business Partner Performance Management processes track, monitor and report on performance to ensure that the interactions are in accordance with the agreed commercial arrangements between the service provider and another Business Partner. &#xD;&#xA;&#xD;&#xA;Parties are engaged by the service provider in performance related activities when:&#xD;&#xA;• higher level expertise and/or higher level support is required to resolve the product performance, service performance or resource performance issues;&#xD;&#xA;• the service provider has outsourced specific activities to another Business Partner which are needed as part of performance improvement activity (i.e. outsourced field maintenance);&#xD;&#xA;• the specific product and/or service are purchased from an external Business Partner (as in an interconnect service); or&#xD;&#xA;• the specific product and/or service, or specific product and/or service component, are owned and delivered by an external Business Partner.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+</archimate:Capability>

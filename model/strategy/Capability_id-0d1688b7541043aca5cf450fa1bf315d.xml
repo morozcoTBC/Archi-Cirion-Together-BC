@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Management"
+    id="id-0d1688b7541043aca5cf450fa1bf315d"
+    documentation="Financial Management processes manage the financial aspects of the enterprise such as Treasury, Banking, Payroll, Financial Planning and Accounting Operations functions, e.g., Accounts Receivable and Payable. These processes are accountable for the financial health of the enterprise, managing cash flow, etc.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

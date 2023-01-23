@@ -1,0 +1,9 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APIGEE"
+    id="id-8736ad5b63764fe5862bd6c0ecb37375"
+    documentation="Proxy de seguridad de Lumen Se aplica a toda integración contra plataformas de Lumen post day 1&#xA;Middleware para validar conexiones correctas">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+</archimate:TechnologyInterface>

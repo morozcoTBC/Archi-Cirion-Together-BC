@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product &amp; Offer Capability Delivery"
+    id="id-d59af93712914a4b840badd782d48200"
+    documentation="Based on the Product strategy for the enterprise, the Product &amp; Offer Capability Delivery processes manage the delivery and build of new or changed Product offering and delivery capabilities within an enterprise. It also handles their requisite infrastructure, where the technologies, scope or type/depth of infrastructure is significantly different to that currently employed in the enterprise. e.g. introduction of Third-generation Mobile Telephony networks.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Capability Delivery"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

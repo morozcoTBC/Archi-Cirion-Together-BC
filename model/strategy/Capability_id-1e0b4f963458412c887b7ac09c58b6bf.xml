@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Relationship Management (deleted)"
+    id="id-1e0b4f963458412c887b7ac09c58b6bf">
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+</archimate:Capability>

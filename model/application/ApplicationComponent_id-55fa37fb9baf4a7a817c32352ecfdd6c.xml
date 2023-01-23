@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DOC1"
+    id="id-55fa37fb9baf4a7a817c32352ecfdd6c"
+    documentation="Modulo para procesar facturas de Miami">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+</archimate:ApplicationComponent>

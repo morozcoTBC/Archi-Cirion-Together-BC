@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Account"
+    id="id-4b4f6048877e40189b994d5cae7a0aac">
+  <properties
+      key="Middleware"
+      value="EMP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-25a705e0233b495d9c4b09ebf5e37960.xml#id-25a705e0233b495d9c4b09ebf5e37960"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0f4d3665db6d4700b56cd52e48f0a2d1.xml#id-0f4d3665db6d4700b56cd52e48f0a2d1"/>
+</archimate:FlowRelationship>

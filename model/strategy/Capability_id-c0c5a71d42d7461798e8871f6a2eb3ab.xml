@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Catalog Lifecycle Management"
+    id="id-c0c5a71d42d7461798e8871f6a2eb3ab"
+    documentation="Catalog Lifecycle Management business process covers a set of business activities that enable manage the lifecycle of an organizations catalog from design to build according to defined requirements.&#xD;&#xA;Catalog Lifecycle Management proves the overarching governance to manage all the stages in the realization and operationalization of the Product/Service/Resource Catalog in support of the organizations business goals.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Lifecycle Management"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP ERP"
+    id="id-802d0642b04a4bc18fe12630fd69d1d6"
+    documentation="Lumen ERP solution that contains Finance Supply Chain and HRIS modules (payroll only for NA entities)&#xA;">
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="Capability N1"
+      value="Supply Chain Management"/>
+  <properties
+      key="Capability N1"
+      value="HR Management"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise – HR Management "/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise - Supply Chain Management    "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

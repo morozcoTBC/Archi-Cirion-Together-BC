@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transmision Status"
+    id="id-7f99a81506e04e7d9148eb968abf2744">
+  <properties
+      key="Middleware"
+      value="PI"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ff37ba3cc5fa4a6995ceb43cde408a5e.xml#id-ff37ba3cc5fa4a6995ceb43cde408a5e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+</archimate:FlowRelationship>

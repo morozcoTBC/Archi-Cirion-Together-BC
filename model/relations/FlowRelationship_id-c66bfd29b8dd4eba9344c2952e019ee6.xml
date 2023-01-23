@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Account"
+    id="id-c66bfd29b8dd4eba9344c2952e019ee6">
+  <properties
+      key="Middleware"
+      value="EMP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-efcfdc4aa474419084cea6e20de9ae70.xml#id-efcfdc4aa474419084cea6e20de9ae70"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0f4d3665db6d4700b56cd52e48f0a2d1.xml#id-0f4d3665db6d4700b56cd52e48f0a2d1"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Performance Management"
+    id="id-de954c298e1649be888bf7ea3d78883b"
+    documentation="Product Performance Management business process manage activities that define and manage product success based on user expectations, user reception, and user satisfaction in line with product design goals (feature set, product reliability, product conformance, product durability, product serviceability, aesthetics, and perceived quality). Product Performance Objectives (e.g. Profitability, Speediness, Time to market, Product Adoption Rate, Product Revenue, Units Sold,  Product Quality, Average Purchase Value, etc.) establish performance goals &amp; targets, track product performance trends, monitor performance, analyze performance, control performance (optimize, troubleshoot), report performance, and manage consequences of performance. Product Performance Management helps product innovation and interworks with Enterprise Performance Management to address competitiveness and Enterprise performance needs. Through Product Performance Management business process, Products are offered and managed to meet the Enterprise Performance Management goals. Product Performance Management address quality, efficiency, productivity, and profitability mandates by identifying and establishing the applicable methodologies that define and manage performance criteria to meet Market &amp; Sales Performance objectives.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

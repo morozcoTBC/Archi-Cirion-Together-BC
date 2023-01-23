@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Information Management"
+    id="id-2744a80aea674eb3970fca433fdb78af"
+    documentation="The purpose of this process is to record and maintain customer information in the CSP in order to:&#xD;&#xA;-Support day to day operation of CSP&#xD;&#xA;-Enable SP to provide best customer experience &#xD;&#xA;-Support customer segmentation for successful marketing campaign &#xD;&#xA;-Support analytical systems such as churn and fraud &#xD;&#xA;&#xD;&#xA;When the customer information is not needed any more by the online systems (according to CSP policies and regulation) this process is in charge of archiving the information (if accepted to the customer)">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

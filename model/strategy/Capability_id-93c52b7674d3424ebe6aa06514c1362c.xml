@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SM&amp;O Support Readiness"
+    id="id-93c52b7674d3424ebe6aa06514c1362c"
+    documentation="SM&amp;O Support &amp; Readiness processes manage service infrastructure, ensuring that the appropriate service capacity is available and ready to support the SM&amp;O Fulfillment, Assurance and Billing processes in instantiating and managing service instances, and for monitoring and reporting on the capabilities and costs of the individual SM&amp;O FAB processes. &#xD;&#xA;The responsibilities of these processes include, but are not limited to:&#xD;&#xA;• Supporting the operational introduction of new and/or modified service infrastructure;&#xD;&#xA;• Managing and ensuring the ongoing quality of the Service Inventory;&#xD;&#xA;• Applying service capacity rules from Infrastructure Lifecycle Management processes;&#xD;&#xA;• Analyzing availability and quality over time on service infrastructure and service instances, including trend analysis and forecasting;&#xD;&#xA;• Ensuring the operational capability of the SM&amp;O processes&#xD;&#xA;• Maintaining rating and tariff information for service infrastructure and service instances.&#xD;&#xA;. Conducting Vulnerability Management;     &#xD;&#xA;. Conducting Threat Assessments;        &#xD;&#xA;. Conducting Risk Assessments;        &#xD;&#xA;. Conducting Risk Mitigation;             &#xD;&#xA;. Conducting Secure Configuration Activities">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+</archimate:Capability>

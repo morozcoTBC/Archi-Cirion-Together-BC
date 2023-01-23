@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Integration Management"
+    id="id-c0e3667e20c345f4b79eece1d4e5f13e"
+    documentation="The purpose of this process is to manage interactions between the customer and the enterprise. Interactions can be triggered by the customer ( as a result of customer query or complaint) or by the enterprise( for example sending bills or other customer notifications.) All customer interactions are logged by the enterprise in order to provide a full track record of customer activity to the enterprise representatives. Customer interactions may be short lived ( such as in the case of  a query that is answered immediately ) or may take long time to complete (such as in the case of complex orders or requests concerning back office intervention). When interactions are long the process is in charge of making sure the customer is notified in a timely manner about the progress of her request. Customer interaction history may be used by BI systems in order to gather information about customer profile and satisfaction.   Customer interactions can span over multiple channels (such as: phone calls, web self service and devices.) each party involved in the interaction has a role that mandates its credentials. For some interactions users may need to login/authenticate themselves in order to get the appropriate role.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

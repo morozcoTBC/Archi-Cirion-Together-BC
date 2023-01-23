@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ICT"
+    id="id-9fa0cad1d78f4ce39c4a39d848c8bddc"
+    documentation="ICT - Esta en desarrollo, proxima a finalizar. Sera el reemplazo de la base Nall - Off net. &#xD;&#xA;Ya tiene en producción el flujo de de migración que puede ser que un enlace cambie de proveedor o que un enlace on net pase a off net o viceversa.&#xD;&#xA;Guarda información de plazos , fecha de aceptación, y cotizaciones elegidas&#xD;&#xA;Realiza la conciliación de las facturas de terceros con los enlaces efectivamente instalados. Acceden a una tabla que deja finanzas con todos los enlaces de SAM. La tabla se llama tY match rate">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="Capability N1"
+      value="Resource Order Management"/>
+  <properties
+      key="CirionDom1"
+      value="Order to Provisioning"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

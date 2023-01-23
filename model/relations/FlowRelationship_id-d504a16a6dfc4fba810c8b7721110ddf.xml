@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consulta dirección "
+    id="id-d504a16a6dfc4fba810c8b7721110ddf"
+    documentation="Dirección completa Coordenadas On net / off net SL id: información detallada de piso, oficina">
+  <properties
+      key="Middleware"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-23f5e1a05d84474ba1459dba0d9cdb9e.xml#id-23f5e1a05d84474ba1459dba0d9cdb9e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-37507879c2414d8c89ed087d2e9d5c2c.xml#id-37507879c2414d8c89ed087d2e9d5c2c"/>
+</archimate:FlowRelationship>

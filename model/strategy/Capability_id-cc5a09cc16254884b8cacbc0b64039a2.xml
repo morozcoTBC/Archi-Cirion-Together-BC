@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voucher Management"
+    id="id-cc5a09cc16254884b8cacbc0b64039a2"
+    documentation="The Voucher management application handles all aspects of prepaid recharge vouchers. A voucher has a unique serial number and may have a PIN code by which it is identified. The PIN code may be covered, and scratched off in order to use the voucher . Other forms of vouchers include e-vouchers that may have a pin generated only after activation. Customers can use vouchers to recharge their balances by various methods including contacting the call center and providing the CSR with the voucher or via self-service system.&#xD;&#xA;&#xD;&#xA;The application performs automation of the voucher lifecycle, and should support a wide variety of voucher types. Voucher Management should also provide encryption, voucher tracking, as well as adress fraud and handle various distribution channels. As such voucher can be placed on the entire gamut of the Resources Domain with strong affiliation to the Billing vertical because of the monetary value of the vouchers.&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+</archimate:Capability>

@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Dashboard"
+    id="id-26d9f1b8fa884354a9bcc28624e3cb45"
+    documentation="The Privacy Manager application is used to manage all aspects of the privacy of Data Subjects(End users), from the creation of Privacy Profile Types, their management, to the display of Privacy Profiles and provide functionalities for their modification and evolution. The Privacy Manager provides features depending on authorization and consequently roles of users :&#xD;&#xA;-Administrators : the administrators are in charge of the definition of the Privacy policy and consequently the creation of the Privacy Profile Type, the maintenance, evolution, depending on the ability of underlying components that handles Personally Identifiable Information (PII). &#xD;&#xA;-Customer support : the customer support is in charge of the performing some operation on Privacy Profile on behalf of end-user.&#xD;&#xA;-End-user (Data Subject Party) : the end-user is able to view its Privacy Profile, the value of Privacy Profile attributes, and manage it.">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lacnic"
+    id="id-5cfc5fbabb0f42b98af4cb0a6de17cff">
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="Domain"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="CirionDom1"
+      value="Order to Provisioning"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

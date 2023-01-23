@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoStar"
+    id="id-9360bd1980cf45538c508309f734fd7d"
+    documentation="Real state management platform. Recibe amortizaciones de los distintos inmuebles&#xA;">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

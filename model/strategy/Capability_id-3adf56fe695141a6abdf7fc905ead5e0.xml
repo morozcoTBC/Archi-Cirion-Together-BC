@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Quality Management"
+    id="id-3adf56fe695141a6abdf7fc905ead5e0"
+    documentation="Service Quality Management business process directs and controls the performance of service compared to the expectations of 'customers'. Service Quality Management includes activities that monitor, track, assess, improve and report on &quot;the degree of excellence&quot; of service is or has been given. The intent of Service Quality Management is to continue to improve the &quot;degree of excellence&quot; of services in the future, identifying service problems and working with Problem Management activities to correct them. Service Quality Management's outcome is to increase customer satisfaction through monitoring and maintenance of the varied services that are offered by business functions.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+</archimate:Capability>

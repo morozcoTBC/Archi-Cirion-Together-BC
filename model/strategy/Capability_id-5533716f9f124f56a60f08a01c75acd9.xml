@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Anomaly Management"
+    id="id-5533716f9f124f56a60f08a01c75acd9"
+    documentation="Service Anomaly Management business processes establish actions that predict and detect aberrations or outlier events/activities, assess them for their impact, mitigate them, and record them before they ever become Service Problem Management concerns. &#xD;&#xA;By establishing that an action or event is abnormal (based on known patterns), Service Anomaly Management helps to assess them through a set of activities that may triage, plan detailed assessment, classify them and provide mitigatory actions for them. Through Service Anomaly Management, assurance of Products, based on abnormal events or activities can be well categorized, prioritized and actioned on. Service Anomaly Management is different from Service Problem Management as the later addresses known issues, faults or problems.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+</archimate:Capability>

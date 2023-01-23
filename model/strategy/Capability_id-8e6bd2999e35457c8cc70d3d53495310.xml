@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Experience Management Strategy and Planning"
+    id="id-8e6bd2999e35457c8cc70d3d53495310"
+    documentation="Customer Experience Management Strategy and Planning processes are a set of processes which enable the development of a strategy and plan for how customer experience management would be incorporated into the whole organization. The planning processes will cover what are the goals related to customer experience and what needs to be done to achieve those goals and how and when the goal achievement should be measured.&#xD;&#xA;Customer Experience Management Strategy and Planning involves establishing a customer experience management strategy and plan, defining goals, measures, policies and standards along with methods, processes and tools. This process also periodically analyzes CEM performance to drive brand loyalty, maximize business revenue and make any necessary improvements, including adjustments to the strategy. CEM involves integration of technology, orchestration of business models, brand management and executive commitment.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy Management"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

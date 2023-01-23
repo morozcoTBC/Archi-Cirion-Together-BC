@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Data Collection &amp; Distribution"
+    id="id-d7919618d12e4e068aa7b3b49f45fe45"
+    documentation="Resource Data Collection &amp; Distribution processes are responsible for collection and/or distribution of management information and data records between resource and service instances and other enterprise processes.   Resource Data Collection &amp; Distribution processes interact with the resource and service instances to intercept and/or collect usage, network and information technology events and other management information for distribution to other processes within the enterprise, and with enterprise processes to accept command, query  and other management information for distribution to resource and service instances. The responsibilities of these processes also include processing of the data and/or management information through activities such as filtering, aggregation, formatting, transformation and correlation of the information before presentation to other processes, resource instances or service instances. Client processes for this management information perform usage reporting and billing activities, as well as Fault and Performance analysis of resources and services. These include Resource Performance Management, Service Quality Management and Service &amp; Specific Instance Rating. Client resource and service instances for this management information use the management information for configuration, or use the management information to trigger activities within the resource or service instances.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+</archimate:Capability>

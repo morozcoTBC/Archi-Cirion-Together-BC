@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Partner Revenue Sharing and Settlement"
+    id="id-addea27aa7ec4bbab978065cee08d20b"
+    documentation="Business Partner Revenue Sharing develops Business Partner revenue sharing models, prepares Business Partner revenue sharing agreements, determines Business Partner revenue shares, and reconciles Business Partner revenue shares.&#xD;&#xA;&#xD;&#xA;Business Partner Revenue Sharing Model Development develops, maintains, and removes Business Partner revenue sharing models that define how revenue is shared by and enterprise with one or more other parties. Revenue sharing models are a key component revenue sharing agreements.&#xD;&#xA;&#xD;&#xA;Business Partner Revenue Sharing Agreement Management develops an agreement that specifies how revenue will be shared between an enterprise and one or more other parties whose product offerings are made available in some way by an enterprise.&#xD;&#xA;&#xD;&#xA;Business Partner Revenue Share Determination uses existing artefacts such as usage, invoices, product prices, and applied billing rates to determine how revenues will be shared. &#xD;&#xA;&#xD;&#xA;Business Partner Revenue Sharing Reconciliation ensures that two sets of Business Partner revenue sharing records are aligned and agreed upon.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+</archimate:Capability>

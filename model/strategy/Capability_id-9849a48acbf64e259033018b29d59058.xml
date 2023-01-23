@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Partner Offering Development &amp; Retirement"
+    id="id-9849a48acbf64e259033018b29d59058"
+    documentation="Business Partner Offering Development &amp; Retirement supports the management of on-boarding and off-boarding another Business Partner's product specifications and product offerings that a required to facilitate the business model of the enterprise.&#xD;&#xA;&#xD;&#xA;It also manages the involvement the enterprise has with a product specification and product offering. For example, the enterprise may accept an order for one of its offerings, but it may be fulfilled by another Business Partner.&#xD;&#xA;&#xD;&#xA;Note:&#xD;&#xA;- Product Specification Development &amp; Retirement and Product Offering Development &amp; Retirement processes are used to manage most of the lifecycle of product specifications and product offerings. This is done to eliminate redundant processes.  For example, the Product Offering Pricing processes are used to manage the prices associated with on-boarded product offerings.&#xD;&#xA;- This process therefore focuses on managing the relationship that parties, including the enterprise, have with product specifications and product offerings as well as the impact of off-boarding specifications and offerings on a provider's service and resource infrastructure.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Lifecycle Management"/>
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+</archimate:Capability>

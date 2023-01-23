@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Portal"
+    id="id-31bc637bcf86464bbea580d6a9bee412"
+    documentation="Cliente puede pedir la desconeccion">
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Capability N1"
+      value="Channel Sales Management"/>
+  <properties
+      key="Capability N1"
+      value="Bill Format / Render"/>
+  <properties
+      key="Capability N1"
+      value="Customer Self Management"/>
+  <properties
+      key="Capability N2"
+      value="Customer &amp; Network Care"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="CirionDom1"
+      value="Digital Channel"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

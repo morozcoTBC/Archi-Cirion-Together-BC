@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marketo - Salesforce"
+    id="id-36daec6782904a0593b59e1753d4d3b8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fde819cd8e374b679e9523e99bacb5d1.xml#id-fde819cd8e374b679e9523e99bacb5d1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-efcfdc4aa474419084cea6e20de9ae70.xml#id-efcfdc4aa474419084cea6e20de9ae70"/>
+</archimate:FlowRelationship>

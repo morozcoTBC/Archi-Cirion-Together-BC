@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Configuration Management"
+    id="id-12761f55970c4d5c9cb4803f06fbe52e"
+    documentation="Configuration Management configures or creates a new version of a configuration for an entity, such as a product, service, or resource, as defined by  a configuration specification. This process also modifies a configuration and values for configuration parameters, and removes a configuration.&#xD;&#xA;The configuration of one entity may be required the configuration of other entities as defined by a selected configuration specification to use.  For example, the configuration of a product may require the configuration of a service and a physical resource, such as a device.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

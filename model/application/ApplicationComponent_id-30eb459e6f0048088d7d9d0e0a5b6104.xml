@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QUIP"
+    id="id-30eb459e6f0048088d7d9d0e0a5b6104">
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="Domain"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="CirionDom1"
+      value="Lead to CPQ"/>
+  <properties
+      key="CirionDom2"
+      value="Campaign to Opportunity"/>
+</archimate:ApplicationComponent>

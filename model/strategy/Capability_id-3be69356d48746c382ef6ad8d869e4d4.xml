@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Governance"
+    id="id-3be69356d48746c382ef6ad8d869e4d4"
+    documentation="Enterprise Governance business process manage activities that ensure accountability and control of the strategic direction of  the organization. &#xD;&#xA;Through Enterprise Governance business process, the organization is able to set responsibilities and practices with the goal of providing strategic direction, ensuring that objectives are achieved, ascertaining that risks are managed appropriately and verifying that the organization's resources are used responsibly.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Portals"
+    id="id-2153ecf7ad444cb08c1de0529b5a9d27"
+    documentation="Sales Portals provide a single entry place for sellers to access various sales tools. Sales Portals are used by both direct and indirect sellers. There are different content, links, and capabilities offered for a given kind of seller.">
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+</archimate:Capability>

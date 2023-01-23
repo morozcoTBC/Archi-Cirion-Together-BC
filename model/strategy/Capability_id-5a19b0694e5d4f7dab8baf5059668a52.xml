@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Management"
+    id="id-5a19b0694e5d4f7dab8baf5059668a52"
+    documentation="The Collections Management application provides necessary functionality to manage customer accounts where there is an outstanding balance. It allows handling of each account individually, based on customer value and financial history using configurable policies. The collection management application supports the collection lifecycle activities including: collection decision making, selection of collection policy, collection execution - automating the collection treatment flow, monitoring the collection process and collection settlement negotiation. The collection application keeps track of collection status and history. The collections treatment flow can perform a number of activities including issuance of treatment notices and collection letters.&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+</archimate:Capability>

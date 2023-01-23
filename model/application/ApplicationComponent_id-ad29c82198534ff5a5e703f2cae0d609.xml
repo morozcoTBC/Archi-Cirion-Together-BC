@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clarify"
+    id="id-ad29c82198534ff5a5e703f2cae0d609"
+    documentation="Asigna support segment, colas de trabajo, usuarios a las colas de trabajo Manage TC-GC">
+  <properties
+      key="Capability N1"
+      value="Service Problem Management"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

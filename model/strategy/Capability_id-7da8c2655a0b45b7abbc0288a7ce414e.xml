@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Catalog Operational Readiness Management"
+    id="id-7da8c2655a0b45b7abbc0288a7ce414e"
+    documentation="Product Catalog Operational Readiness Management business process establishes and administers the support needed to operationalize Product catalogs for ongoing day-to-day business needs.&#xD;&#xA;These business activities implement the Product Catalog through Release and Deploy business activities.&#xD;&#xA;Release Product Catalog business activity ensure all cross-functional activities needed to support catalog maintenance and operations, such as training and updating the support of the catalog are in place.&#xD;&#xA;Release Product Catalog business activity includes identifying stakeholders, catalog integration, catalog federation etc. for any scenario in support of the organizations business goals, including Release conditions that support users, customers and business partners.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RPA"
+    id="id-389cc23327c94595bc5e4b01d2790ede">
+  <properties
+      key="Domain"
+      value="Integration"/>
+</archimate:Capability>

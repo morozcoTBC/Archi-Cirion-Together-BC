@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revenue"
+    id="id-670288864c9540418c152a061be1a1fc"
+    documentation="Interfaz resumida para los paises pero detallada para brasil . Senecesita para mastersaf">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0d3a836f1d6f4d209ba584e0910b0f4b.xml#id-0d3a836f1d6f4d209ba584e0910b0f4b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+</archimate:FlowRelationship>

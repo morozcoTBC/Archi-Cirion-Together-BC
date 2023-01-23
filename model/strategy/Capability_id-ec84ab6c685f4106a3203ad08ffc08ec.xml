@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Guiding &amp; Mediation"
+    id="id-ec84ab6c685f4106a3203ad08ffc08ec"
+    documentation="Service Guiding &amp; Mediation processes manage usage events by correlating and formatting them into a useful format.   These processes include guiding resource events to an appropriate service, mediation of these usage records, as well as de-duplication of usage records already processed.  These processes provide information on customer-related and Service-related events to other process areas across assurance and billing. This includes reports on non-chargeable events and overcharged events and analysis of event records to identify fraud and prevent further occurrences.&#xD;&#xA;&#xD;&#xA;In many cases, this process is performed by a resource such as a network element.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+</archimate:Capability>

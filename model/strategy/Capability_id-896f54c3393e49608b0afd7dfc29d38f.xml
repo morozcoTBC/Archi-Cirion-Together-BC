@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Service Representative Toolbox"
+    id="id-896f54c3393e49608b0afd7dfc29d38f"
+    documentation="Customer Service Representatives (CSRs) play critical roles in shaping the customer experience. CSRs are increasingly expected to drive not just service and satisfaction, but revenue opportunities through customer interactions, as well as handle interactions across multiple channels – email, web chat or phone. CSRs need the right information at the right time, every time, to handle interactions quickly and effectively. CSRs must be empowered with the tools necessary to efficiently and effectively handle every interaction the right way, in a personalized manner.&#xD;&#xA;&#xD;&#xA;The CSR toolbox addresses this need for rich interactions with the customer, comprising of applications from the Fulfillment, Assurance and Billing domains. The CSR toolbox provides additional functionality in a common look and feel across the applications – and is not simply a convoluted assembly of applications and processes across siloed systems.&#xD;&#xA;&#xD;&#xA;The CSR toolbox is optimized to the CSR’s needs&amp; the user interface and controls provide easy access to key customer information whenever needed. It integrates all of the disparate, siloed applications the CSR needs to work with. It delivers real time, always-in-context guidance to the CSR during an interaction, as well as navigates the CSR through business processes as they move field by field across different systems and interaction steps.">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+</archimate:Capability>

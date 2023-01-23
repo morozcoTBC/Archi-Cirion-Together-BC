@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Rating and Rate Assignment"
+    id="id-8a3be147942e49dc94b2e5683becbf8e"
+    documentation="The purpose of Product Rating &amp; Assignment is to rate a value (monetary or other) to Product Usage or a set of Product Usages and assign the result to a Product and a Billing Account. The charge may be either a credit or a debit and can be handled either online or offline.&#xD;&#xA;&#xD;&#xA;Online charging is performed in real-time, requiring an authorization component which may affect how the service is rendered and enables an operator to provide prepaid services to its customers. Whereas offline charging is performed after the service is rendered and is not required to be done in real-time and generally relates to subscription based products.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

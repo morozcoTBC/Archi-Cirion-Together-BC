@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loyalty Program Management"
+    id="id-f5b0ddf3f6664849b214d067ae6b9377"
+    documentation="Loyalty Program Management develops and retires loyalty programs and manages the operations of them.&#xD;&#xA;&#xD;&#xA;Development and retirement defines all aspects of a loyalty program, such as  requirements and objectives of the loyalty program, determines the benefits to participants. It develops a program, prototypes it, tests it, rollouts/launches it, amends and evaluates it, and terminates it when it is no longer viable for an enterprise. &#xD;&#xA;&#xD;&#xA;Loyalty Program Operation manages all operational aspects of running a loyalty program. It enables a party to become a members of a program, earn currency and rewards, and redeem currency. It manages a loyalty program account, enables a participant to leave a program, and provides operational reports.&#xD;&#xA;&#xD;&#xA;Participants who can be customers and partners, each with its own loyalty program. There can be more than one loyalty program for each. Typically loyalty programs only are developed for customers. However, other parties, such as partners who have on-boarded an enterprise's product offering(s) or those who offer their offerings on an enterprise's marketplace, should also be rewarded for their loyalty. The reason is that they also provide revenue either directly or indirectly to an enterprise.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+</archimate:Capability>

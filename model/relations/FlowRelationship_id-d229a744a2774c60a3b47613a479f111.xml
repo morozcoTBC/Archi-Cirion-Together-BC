@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Créditos"
+    id="id-d229a744a2774c60a3b47613a479f111">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d706362378724fc4aec8796cf157ad7d.xml#id-d706362378724fc4aec8796cf157ad7d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2b391baf263545b5a791aa143ff811d3.xml#id-2b391baf263545b5a791aa143ff811d3"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Precisely Location Validation"
+    id="id-655ba5346f2f4a438536506463244a87"
+    documentation="Validador de direcciones">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Capability N1"
+      value="Location Management"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

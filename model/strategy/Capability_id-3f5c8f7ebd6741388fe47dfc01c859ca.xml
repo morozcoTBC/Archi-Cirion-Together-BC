@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fault Management"
+    id="id-3f5c8f7ebd6741388fe47dfc01c859ca"
+    documentation="Fault Management applications provide necessary functionality to manage faults associated with specific resources. This includes the detection, isolation, resolution, and reporting of various faults.">
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Market Strategy &amp; Policy"
+    id="id-145bae194ed24b36b15e9332df432c30"
+    documentation="Market Strategy &amp; Policy processes enable the development of a strategic view of an enterprise’s existing and desired market-place, activities and aims. Market segmentation and analysis is performed, to determine an enterprise’s target and addressable markets, along with the development of marketing strategies for each market segment or set of target customers. The decision is made as to which markets the enterprise wants or needs to be in, and how it plans to enter or grow in these markets and market segments. This will be achieved through multiple inputs: including Enterprise Strategies, Market Research, Market Analysis.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy Management"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+</archimate:Capability>

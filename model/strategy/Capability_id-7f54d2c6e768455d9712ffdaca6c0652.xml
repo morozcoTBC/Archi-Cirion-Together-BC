@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Training Management"
+    id="id-7f54d2c6e768455d9712ffdaca6c0652"
+    documentation="The ability to define conceptualize, create, and convey structured content and knowledge in consumable format, associated with a curriculum, course, workshop, or seminar.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

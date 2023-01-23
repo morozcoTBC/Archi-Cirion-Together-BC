@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LinkedIn Sales"
+    id="id-2c564119559446a3af3993a2fe32ea66"
+    documentation="Aplicacion de Marketing Automatico">
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Capability N1"
+      value="Campaign &amp; Funnel Management"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="CirionDom1"
+      value="Lead to CPQ"/>
+  <properties
+      key="CirionDom2"
+      value="Campaign to Opportunity"/>
+</archimate:ApplicationComponent>

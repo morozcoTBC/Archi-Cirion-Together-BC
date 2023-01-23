@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metasploit"
+    id="id-e82366d811214e54ae65d1d3b034ad67"
+    documentation="Uso para la prestacion de Servicios Profesionales | Ethical Hacking.">
+  <properties
+      key="Owner "
+      value="Cirion"/>
+</archimate:ApplicationComponent>

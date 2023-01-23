@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Capacity Management"
+    id="id-7264c1ad633c4e02aa6e03f40d29f80c"
+    documentation="Product Capacity Management business process manages the activities required to ensure a business is able to plan, model, analyze, optimize, monitor and report product capacity, and related constraints according the commercial objectives in a timely and effective manner.&#xD;&#xA;The underlying business activities supporting Product Capacity Management ensure that there is an effective understanding and management of Products Capacity in line with commercial demand and objectives, along with all the underlying production constraints.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Capability Delivery"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

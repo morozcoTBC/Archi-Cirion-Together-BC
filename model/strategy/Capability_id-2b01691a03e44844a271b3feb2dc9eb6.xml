@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Management"
+    id="id-2b01691a03e44844a271b3feb2dc9eb6"
+    documentation="Fallout Management applications manage the manual steps within an order flow. These steps might be due to an error, an exception, or simply a planned manual step. Fallout can come from order management applications within the customer, service, or resource layers After the fallout/manual stepis addressed, the order flow will presumably continue from that point within the ordering flow.">
+  <properties
+      key="Domain"
+      value="Common"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Market Research"
+    id="id-575ac6ba132344ae89310fb4e5758610"
+    documentation="Market Research gathers, analyzes and interprets information about a market, about product offerings that will be made to the market, and about the past, present and potential customers for the offering. Research the characteristics, such as spending habits and a target market’s requirements, the industry as a whole, and competitors. Research can be a collaborative process carried out by the enterprise and one or more of its partners or other parties with whom it collaborates in delivering value to the market and customers.&#xD;&#xA;&#xD;&#xA;Market research may involve research performed by an enterprise or on behalf of the enterprise by another party. It may involve targeted groups with whom research conducted using methods such as direct mail, web, social media, and personal interviews. It may also involve research compiled and organized in the form of reports and studies provided by others, such as government agencies and trade associations.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Capability Delivery"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+</archimate:Capability>

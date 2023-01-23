@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Management"
+    id="id-8f41ab9f4afd452db1d1aba00e0de836"
+    documentation="Service Problem Management processes are responsible for the management of problems associated with specific services.  The objective of these processes is to respond immediately to reported service problems or failures in order to minimize their effects on customers, and to invoke the restoration of the service, or provide an alternate service as soon as possible.&#xD;&#xA;Responsibilities of the Service Problem Management processes include, but are not limited to:&#xD;&#xA;• Detecting, analyzing, managing and reporting on service alarm event notifications; &#xD;&#xA;• Initiating and managing service trouble reports;&#xD;&#xA;• Performing service problem localization analysis; &#xD;&#xA;• Correcting and resolving service problems;&#xD;&#xA;• Reporting progress on service trouble reports to other processes;&#xD;&#xA;• Assigning &amp; tracking service problem testing and recovery activities &#xD;&#xA;• Managing service problem jeopardy conditions&#xD;&#xA;Service Problem Management processes perform analysis, decide on the appropriate actions/responses and carry them out with the intent of restoring normal operation on specific services. &#xD;&#xA;However these activities need to interact with the Problem Handling processes, as the latter have a view on customer impact.  Service Problem Management processes are responsible for informing Problem Handling processes of any potential customer problems.  Where the original report arose as a result of customer problems, the Service Problem Management processes may be coordinated by Problem Handling processes.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+</archimate:Capability>

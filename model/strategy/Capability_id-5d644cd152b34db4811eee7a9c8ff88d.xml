@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Catalog Content Management"
+    id="id-5d644cd152b34db4811eee7a9c8ff88d"
+    documentation="Product Catalog Content Management business process define and provide the business activities that support the day-to-day operations of Product Catalogs in order to realize the business operations goals.&#xD;&#xA;Product Catalog Content Management business processes include administering the Product Catalog instance in production, maintaining catalog entries, assuring catalogs, managing catalog access, managing entry lifecycle through versioning, handling catalog entity entry and changes, supporting distribution of catalogs as needed, and supporting user-facing activities.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

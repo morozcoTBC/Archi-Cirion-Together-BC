@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Assurance Control"
+    id="id-9c6ea020fefe4ba9ac669584384d6be9"
+    documentation="Service Assurance Control is responsible for the execution of proactive and reactiverule based activities to ensure that services provided to customers are continuously available and performing according to set values for performance and quality. In cooperation with monitoring and orchestration applications the Service Assurance Control will create an autonomic closed loop control of the performance and quality as well as mitigation of service problems and fall-outs.">
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Precios USA CAM"
+    id="id-38d7efa862bf45ff9d954d5c7bc605f7"
+    documentation="No es una aplicación, solo indica precios USA CAM que puede ser una hoja de excel o algo diferente donde esten los precios del producto CAM">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+</archimate:ApplicationComponent>

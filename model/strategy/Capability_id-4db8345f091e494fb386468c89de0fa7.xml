@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Capability Delivery"
+    id="id-4db8345f091e494fb386468c89de0fa7"
+    documentation="Service Capability Delivery processes plan and deliver the total capabilities required to deliver changes to service, as necessary. This involves integration of capability delivered from within the enterprise, and capability delivered from an external party.&#xD;&#xA;Service demand forecasting and capturing of new opportunities, are both essential to ensure that the enterprise can implement the services necessary for the future needs of their customers and potential customers.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Capability Delivery"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+</archimate:Capability>

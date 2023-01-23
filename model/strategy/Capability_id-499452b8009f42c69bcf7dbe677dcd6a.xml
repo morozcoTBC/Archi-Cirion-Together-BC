@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Test Management"
+    id="id-499452b8009f42c69bcf7dbe677dcd6a"
+    documentation="Product Test Management provides the manages the end-to-end execution of a test or test scenario for products not specific to a customer. These test might be either manual or automated.&#xD;&#xA;The Product Test process will rely on the Service Test Management and Resource Test Management processes according to relationships between Product Test and Service / Resource Tests and depending on the association between the Product and the underlying Service or Resource.&#xD;&#xA;Product Test Management includes:&#xD;&#xA;   - Identifying Product Tests need&#xD;&#xA;        - According to fulfilment and assurance issues, Product Tests might be triggered&#xD;&#xA;   - Conducting Product Tests&#xD;&#xA;        - Verifying test authorization (role and context) and quota management&#xD;&#xA;        - Identifying and carrying out test prioritization&#xD;&#xA;        - Setting up the test context and configuration&#xD;&#xA;        - Test execution, triggering appropriate Service &amp; Resource Tests. Tests might be on-demand or planned according to their specification. &#xD;&#xA;        - Reporting Test results by enrichment of Service &amp; Resource Tests results according to Product Test rules&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

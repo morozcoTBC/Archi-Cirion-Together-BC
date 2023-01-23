@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage File"
+    id="id-9aaca5ba2a854cd68dc3bfefd79150e3"
+    documentation="Consumos valorizados con IDs asociados a servicios&#xD;&#xA;L01 o L09????">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4f7f04f5517347119b3b3b1c5ae70179.xml#id-4f7f04f5517347119b3b3b1c5ae70179"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2b391baf263545b5a791aa143ff811d3.xml#id-2b391baf263545b5a791aa143ff811d3"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Bill Invoice Management"
+    id="id-2ab2a4cc361f41219c5ed080f0f73384"
+    documentation="Customer Bill Invoice Management processes ensure the bill invoice is created, physically and/or electronically produced and distributed to customers, and that the appropriate taxes, discounts, adjustments, rebates and credits for the products and services delivered to customers have been applied. These processes are accountable for assuring that enterprise revenue is billed and invoices delivered appropriately to customers.&#xD;&#xA;These processes are responsible for, but not limited to:&#xD;&#xA;• Establishment and application of taxes and charges to the services delivered to customers;&#xD;&#xA;• Application of the adjustment (adjustment decision done in Customer Bill Inquiry Handling);&#xD;&#xA;• Creation of accurate Customer bill invoices including all adjustments, rebates, discounts, credits, etc.&#xD;&#xA;• Production &amp; distribution of Customer bill in physical and/or electronic form to customers in accordance with the billing cycle;&#xD;&#xA;• Forecasting of physical resources associated with Customer bill production, such as paper and envelope quantities;&#xD;&#xA;• Alignment and management of promotional material insertion into distributed Customer bills&#xD;&#xA;• Establishment and management of third party arrangements to support Customer bill invoice generation, production and distribution.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

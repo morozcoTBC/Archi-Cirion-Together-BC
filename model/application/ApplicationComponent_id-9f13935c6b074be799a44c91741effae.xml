@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokuviz-Dokuflow"
+    id="id-9f13935c6b074be799a44c91741effae"
+    documentation="DOKU FLOW - Latam app used as a workflow engine. through its front-end located in Dokuviz it allows the creation of processes for the automation of tasks and their subsequent implementation by creating work orders (called DokuOrders) and the execution of tasks (from the DokuTask Inbox).&#xA;Dokuviz Engine Escuha orden, busca informacion de la orden y genera el Project Detail Contiene XI que reflejan diferentes flujos Nall - terceros. Tablas que se manjean dentro de Doku. &#xA;Documentacion de las ingenierias sobre las instancias de servicio de cada cliente.&#xA;&#xA;">
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Capability N1"
+      value="Service Order Management"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="CirionDom1"
+      value="Order to Provisioning"/>
+</archimate:ApplicationComponent>

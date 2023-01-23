@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RFS"
+    id="id-0a344e5a76d845809b3caeb4670161be"
+    documentation="Esta dentro de Dokuviz - Dokuflow">
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="Domain"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LKM"
+    id="id-f45835a5126a489795a968068ad9167a"
+    documentation="OCR of Brazilian vendor invoices. Esta hecho en SAP (programas Z) Los proveedores procesan su factura electronica. LKM revisa en el fisco (prefecturas) que facturas llegaron, las toma y las procesa. Facturas tienen 2 pasos. Con LKM en la recepcion de facturas. si hay equipos no maneja el numerp de serie de los equipos. COn lo cual quedan ya dentro de SAP. Hay facturas que se procesan manualmente dentro de SAP&#xA;">
+  <properties
+      key="Owner"
+      value="Cirion to be moved"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

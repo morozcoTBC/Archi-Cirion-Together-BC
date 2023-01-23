@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parrot Linux"
+    id="id-93146fbb4e1e45588dbb425ceb6f7c50"
+    documentation="Uso para la prestacion de Servicios Profesionales | Ethical Hacking.&#xD;&#xA;">
+  <properties
+      key="Owner "
+      value="Cirion"/>
+</archimate:ApplicationComponent>

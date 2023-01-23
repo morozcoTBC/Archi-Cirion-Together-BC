@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Test Management"
+    id="id-3bab0cb162964553821a54feb9919035"
+    documentation="Service Test Management provides the manages the end-to-end execution of a test or test scenario for Services not related to a specific customer’s product. These tests might be either manual or automate.&#xD;&#xA;The Service Test process will rely on the Service Test Management and Resource Test Management processes according to relationships between Service Test and Service / Resource Tests and depending on the association between the Service and the underlying Service or Resource.&#xD;&#xA;Service Test Management includes:&#xD;&#xA;   - Identifying Service Tests need&#xD;&#xA;        - According to fulfilment and assurance issues, Service Tests might be triggered&#xD;&#xA;   - Conducting Service Tests&#xD;&#xA;        - Verifying test authorization (role and context) and quota management&#xD;&#xA;        - Identifying and carrying out test prioritization&#xD;&#xA;        - Setting up the test context and configuration&#xD;&#xA;        - Test execution, triggering appropriate Resource Tests. Tests might be on-demand or planned according to their specification. &#xD;&#xA;        - Reporting Test results by enrichment of Service &amp; Resource Tests results according to Service Test rules">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+</archimate:Capability>

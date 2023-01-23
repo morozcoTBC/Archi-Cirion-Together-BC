@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract Management"
+    id="id-c8aa9932015d4bf88372a08947efe8b8"
+    documentation="Contract Management applications provide necessary functionality to facilitate a contract pertaining to a given customer solution.">
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+</archimate:Capability>

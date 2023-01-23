@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Offering Purchasing"
+    id="id-c33aa88dc27d45de94a25a876fa17cbb"
+    documentation="Product Offering Purchasing makes an inbound/outbound purchase of one or more product offerings, changes an offering being purchased, reviews an entire purchase, A purchase can also be reviewed, confirmed, tracked, canceled, completed, an offering removed from it, and closed after payment is made and any backordered offerings have been delivered. If necessary one or more of the offerings purchased can be returned.&#xD;&#xA;&#xD;&#xA;Purchasing can include shopping purchases in the form of in-store, shopping cart purchases, window shopping (a form of browsing) and purchases in the form of product (offering) orders that result in a product being delivered to a party or from a party. Shopping may result in an order being placed; for example if a purchase is made online and it has to be fulfilled an order is created (such as done by Amazon, Etsy, and so forth). &#xD;&#xA;&#xD;&#xA;Notes:&#xD;&#xA;1. A party making a purchase may choose to remain &quot;anonymous&quot; by not registering with an enterprise.&#xD;&#xA;2. An inbound order may be the result of a sales proposal and agreement made with a party, such as a customer.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

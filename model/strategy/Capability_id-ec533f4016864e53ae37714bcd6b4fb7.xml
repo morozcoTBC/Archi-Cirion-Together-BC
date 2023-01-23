@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Channel Management"
+    id="id-ec533f4016864e53ae37714bcd6b4fb7"
+    documentation="Optimization and/or redistribution of existing sales channel capability or for enabling new capability (people, facilities, infrastructure).  administration of the Selling processes and the effectiveness of the channels to support new and existing products, as well as existing and potential customers. The processes ensure the effectiveness of the sales staff and channels both in terms of skill sets available, but also in terms of demand forecasting and management of utilization.  These processes are also responsible for the administration and management of sales channel incentive, compensation and reward schemes, and for assessing the performance and effectiveness of sales channels. Other marketing processes, such as Manage Campaign and Product Marketing Communications &amp; Promotion, are responsible for determining the appropriate selling route or channel, and the required selling method and mechanism for specific market segments and channels, by product or product family, e.g., face-to-face contact, telemarketing, etc.  Support Selling processes are responsible for ensuring that the sales channels are capable of implementing the required selling method and have the necessary skills and capacity to support the anticipated volumes and type of product in each market segment.  These processes are responsible for providing feedback on the performance and effectiveness information as required to other marketing processes.&#xD;&#xA;Sales Channels managed by these processes include retail storefronts, e.g. a third-party retailer or an enterprise's own storefront, various web sites or ISPs, B2B marketplaces or direct relationships with external parties, distributors for that product family, account teams, outbound calling teams, direct sales teams, etc.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+</archimate:Capability>

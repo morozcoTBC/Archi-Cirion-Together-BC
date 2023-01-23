@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facturas legales"
+    id="id-60e0ed7c75e7447bbd7cb6c6b893b1a2">
+  <properties
+      key="Middleware"
+      value="BMP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-01a501f48923403a8d7cb09be38bd9ea.xml#id-01a501f48923403a8d7cb09be38bd9ea"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1f3ba22663304f5ba9491d132e555849.xml#id-1f3ba22663304f5ba9491d132e555849"/>
+</archimate:FlowRelationship>

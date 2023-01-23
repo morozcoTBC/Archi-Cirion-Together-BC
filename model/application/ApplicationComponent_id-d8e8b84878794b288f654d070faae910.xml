@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IDM"
+    id="id-d8e8b84878794b288f654d070faae910"
+    documentation="Identity management">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Security Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="CirionDom1"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

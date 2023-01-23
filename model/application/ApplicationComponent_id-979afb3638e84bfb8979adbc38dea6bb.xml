@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUD"
+    id="id-979afb3638e84bfb8979adbc38dea6bb">
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="Domain"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="CirionDom1"
+      value="Order to Provisioning"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

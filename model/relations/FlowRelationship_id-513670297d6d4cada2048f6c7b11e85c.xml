@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datos de nodos"
+    id="id-513670297d6d4cada2048f6c7b11e85c">
+  <properties
+      key="Middleware"
+      value="Directo"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-23f5e1a05d84474ba1459dba0d9cdb9e.xml#id-23f5e1a05d84474ba1459dba0d9cdb9e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a594ac8434bd4a398b7f94efc14b6884.xml#id-a594ac8434bd4a398b7f94efc14b6884"/>
+</archimate:FlowRelationship>

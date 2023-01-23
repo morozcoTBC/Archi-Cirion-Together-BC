@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ciena OneControl"
+    id="id-5c1ee23f97d445fc8a33abc6508b24c2"
+    documentation="Equipos de transmision. Monitoreo y troubleshooting TX Integration DWDM clientes y core">
+  <properties
+      key="Capability N1"
+      value="Service Performance Management"/>
+  <properties
+      key="Capability N2"
+      value="Service Performance Monitoring"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

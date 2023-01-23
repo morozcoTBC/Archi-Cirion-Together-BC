@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Performance Analysis"
+    id="id-5cda00e77edd4818ab600ace1ebc4343"
+    documentation="Service Performance Analysis applications provide the necessary functionality to continuously analyze the performance of the various service providers’ services.The analyzed data is logged and made available for reporting, and present analysis results made available as notifications for immediate action in case of significant deviation.">
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+</archimate:Capability>

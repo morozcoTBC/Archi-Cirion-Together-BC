@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patch Manager PLUS"
+    id="id-25c0116b6ff1439f9f8772c8f268a9ff"
+    documentation="Herramienta de ejecucion de parches de forma automatizada para servidores Windows y Unix&#xD;&#xA;Actualización del parche Sistema Operativo"/>

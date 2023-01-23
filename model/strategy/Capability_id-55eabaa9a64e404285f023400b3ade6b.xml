@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Support"
+    id="id-55eabaa9a64e404285f023400b3ade6b"
+    documentation="Customer Support processes ensure the support capability is in place to allow the Customer Fulfillment, Assurance and Billing processes to operate effectively.  &#xD;&#xA;The responsibilities of these processes include, but are not limited to:&#xD;&#xA;• Provision of sales customer process infrastructure &#xD;&#xA;• Policy support and decision support knowledge for customers and customer interactions (including billing activities)&#xD;&#xA;•Maintaining inventories to support the customer data required by the FAB and CRM OS&amp;R processes &#xD;&#xA;• Monitoring and reporting on the capabilities and costs of the individual Customer  FAB processes&#xD;&#xA;• Longer-term trend analysis on customer FAB processes in order to establish the extent to which enterprise targets for these processes are being achieved and/or the need for the processes to be modified.&#xD;&#xA;These processes support the operational introduction of new processes and infrastructure to support new and/or enhanced customer management capabilities and are responsible for conducting operations readiness testing and acceptance. They develop the procedures for the specific Fulfillment, Assurance and Billing processes and keep them up to date. After successful testing, these processes accept the new or enhanced process capabilities and manage a full-scale introduction for general availability.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fiscal aproval number"
+    id="id-e67a4126d56b4cc381758cabfed6b78e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a6dbfda9b5b147ad8cf29adcd94a007c.xml#id-a6dbfda9b5b147ad8cf29adcd94a007c"/>
+</archimate:FlowRelationship>

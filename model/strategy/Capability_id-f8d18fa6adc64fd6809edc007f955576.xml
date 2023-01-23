@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Charge Calculation and Balance Management"
+    id="id-f8d18fa6adc64fd6809edc007f955576"
+    documentation="The Charge Calculation and Balance Management applications are responsible for calculating customer specific charges and discounts and management of balances. These support both real-time and batch processing modes of operation.">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+</archimate:Capability>

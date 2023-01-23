@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linkedin - Salesforce"
+    id="id-e2eca1edb4ab4288a04d83c56010ab66">
+  <properties
+      key="Integración Nativa"/>
+  <properties
+      key="Integraci√≥n Nativa"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2c564119559446a3af3993a2fe32ea66.xml#id-2c564119559446a3af3993a2fe32ea66"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-efcfdc4aa474419084cea6e20de9ae70.xml#id-efcfdc4aa474419084cea6e20de9ae70"/>
+</archimate:FlowRelationship>

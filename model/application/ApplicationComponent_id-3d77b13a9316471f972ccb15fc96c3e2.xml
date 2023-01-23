@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GOC"
+    id="id-3d77b13a9316471f972ccb15fc96c3e2"
+    documentation="Dashboard Visualiza el estado de la operacion de los tickets por grupo de trabajo">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Capability N1"
+      value="Data Management"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

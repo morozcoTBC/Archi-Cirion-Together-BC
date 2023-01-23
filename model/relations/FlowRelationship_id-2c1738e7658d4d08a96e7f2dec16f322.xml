@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project expenses"
+    id="id-2c1738e7658d4d08a96e7f2dec16f322">
+  <properties
+      key="Middleware"
+      value="RFC"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1f38b10a247441fc9761aed5f7f5da02.xml#id-1f38b10a247441fc9761aed5f7f5da02"/>
+</archimate:FlowRelationship>

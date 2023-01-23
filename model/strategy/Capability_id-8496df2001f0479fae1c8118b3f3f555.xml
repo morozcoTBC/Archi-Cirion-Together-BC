@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Lifecycle Management"
+    id="id-8496df2001f0479fae1c8118b3f3f555"
+    documentation="Service Lifecycle Management is responsible for the managing the entire lifecycle of the service and its underlying components. This includes all of the processes required to design, build, deploy, maintain and ultimately retire the service. Service Lifecycle Management includes those activities and tools used to define new services and updates to existing services. Generally these activities require a significant degree of collaboration, often across multiple geographic locations. This could even include the gathering of Product needs/preferences and mapping those to current and future service capabilities. There will also be a significant use of project and program management activities and tools to satisfy these functional areas.&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy to Readiness"/>
+</archimate:Capability>

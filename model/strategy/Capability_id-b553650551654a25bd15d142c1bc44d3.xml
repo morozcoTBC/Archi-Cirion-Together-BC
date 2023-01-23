@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Relationship Management"
+    id="id-b553650551654a25bd15d142c1bc44d3"
+    documentation="The purpose of this process is to manage the relationship of the Customer and the enterprise. This process may be triggered at very early stages of the customer lifecycle (for example, for leads and prospects which are potential customers) and until the termination of the customer relationship between the enterprise and the customer. This processes is in charge of managing the customer relationship with the enterprise and of the customer profile. This process ensure that each customer gets a unique identity and that customer identities are not duplicated in the enterprise. This process is also in charge of evaluating the customer value, the customer risk (credit risk, fraud risk, influence risk, and churn risk) of validating the customer satisfaction. &#xD;&#xA;The customer data is managed by the Customer  Information Management process. (Was named Customer Relationship Management )">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CFS"
+    id="id-59d40f613daf477da509b727b07c82c4"
+    documentation="Impacta directo el ID del CFS , que es propio del inventario (es el espejo del servicio en el inventario)">
+  <properties
+      key="Middleware"
+      value="DIRECTO"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-00f89da54aac4f6cb1a6683ed45f25e1.xml#id-00f89da54aac4f6cb1a6683ed45f25e1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0f4d3665db6d4700b56cd52e48f0a2d1.xml#id-0f4d3665db6d4700b56cd52e48f0a2d1"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Number Inventory Management"
+    id="id-e8528398b78b4159983036539d2f78f4"
+    documentation="Network Number Inventory Management provides the required functionality to manage dialable (telephone numbers) and non-dialable (network routing number) numbers. It can include both land-line and mobility numbers. It also handles ip type addresses (V4 or V6) along with any other network numbers of interest to a service provider. Numbers can be private or public.">
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+</archimate:Capability>

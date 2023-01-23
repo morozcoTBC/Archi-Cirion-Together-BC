@@ -1,0 +1,26 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altify"
+    id="id-1af2b5f095bb434dbded8ab7f0f28c38"
+    documentation="Altify funciona (se implementa) sobre SFDC y tiene un modelo propio con el objetivo de hacer account planning, de cuentas nuevas o existentes. Altify esta dentro del AppExchange de SFDC.">
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Capability N1"
+      value="Sales Account Management"/>
+  <properties
+      key="Capability N2"
+      value="Sales Account Planning"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Lead to CPQ"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

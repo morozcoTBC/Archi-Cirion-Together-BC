@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Turnover"
+    id="id-b8493ae78afd4fde9d63d298b3ee43d5"
+    documentation="Dashboard. Seguimiento de eventos de la red de backbone">
+  <properties
+      key="Capability N1"
+      value="Data Management"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Reporting"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

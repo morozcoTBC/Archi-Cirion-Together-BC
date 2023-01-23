@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Specification &amp; Offering Development "
+    id="id-5a4c17326ce443de8f3b69c2d1673fa5"
+    documentation="Product Specification &amp; Offering Development &amp; Retirement processes develop and deliver new product specifications as well as enhancements and new features, ready for use by other processes. Additionally they handle the removal of specifications no longer offered.&#xD;&#xA;&#xD;&#xA;Product specifications represent the types of services and resources made available as product offerings to the market by an enterprise.&#xD;&#xA;&#xD;&#xA;The key measures of this process are how effectively the enterprise’s offerings are broadened by these specifications or new  specification features. These processes also manage updates and enhancements to product specifications. Business case development tracking and commitment are key elements of this process.&#xD;&#xA;&#xD;&#xA;They also develop new product offerings and their associated features.  Pricing for the offerings is also developed, such as standard pricing and feature-based pricing.  The offerings and selected processes are included in product catalogs which are also developed by these processes.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Lifecycle Management"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

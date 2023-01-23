@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Performance Management"
+    id="id-cfe547a6d90c4efa9c2fada59764b603"
+    documentation="Resource Performance Management processes encompass managing, tracking, monitoring, analyzing, controlling and reporting on the performance of specific resources. They work with basic information received from the Resource Data Collection &amp; Distribution processes.&#xD;&#xA;&#xD;&#xA;If the analysis identifies a resource performance violation or a potential service performance violation, information will be passed to Resource Trouble Management and/or Service Quality Management as appropriate. The latter processes are responsible for deciding on and carrying out the appropriate action/response. This may include requests to the Resource Performance Management processes to install controls to optimize the specific resource performance.&#xD;&#xA;The Resource Performance Management processes will continue to track the resource performance problem, ensuring that resource performance is restored to a level required to support services.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+</archimate:Capability>

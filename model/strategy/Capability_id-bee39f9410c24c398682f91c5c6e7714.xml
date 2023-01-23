@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Problem Management"
+    id="id-bee39f9410c24c398682f91c5c6e7714"
+    documentation="Product Problem Management process is in charge of directing and controlling activities that identify, triage, discover causes, report and close product problems (cases, issues, challenges and faults etc.). &#xD;&#xA;&#xD;&#xA;Product Problem Management ensures that products that are commercially offered by the organization can be assured to meet the goals and objectives of their design. The objective of this processes is to respond to product challenges/concerns/issues/cases and offer answers/resolution to them. &#xD;&#xA;&#xD;&#xA;The goal of this process is mediate the impact, or resolve the concerns that impact Marketing and Sales objectives.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

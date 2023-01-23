@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle EBS"
+    id="id-0d3a836f1d6f4d209ba584e0910b0f4b"
+    documentation="Invoicing and tax accounting accounting y cobranzas (se gestionan x intiza y procesan en orcacle). Interaccion con el cliente se maneja por intiza. La info del banco se sube a oracle manualmente (cargan archivo) con la info del banco Pags se procesan en Oracle. La interfaz es solo contable.&#xA;Recibe la facturación y es el input para la cobranza&#xA;Módulo de cuentas por cobrar&#xA;">
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Capability N1"
+      value="Receivables Management"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="N"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Billing and Revenue Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

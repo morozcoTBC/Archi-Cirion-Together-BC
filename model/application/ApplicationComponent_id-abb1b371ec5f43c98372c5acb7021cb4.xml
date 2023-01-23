@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lumen Portal"
+    id="id-abb1b371ec5f43c98372c5acb7021cb4">
+  <properties
+      key="Capability N1"
+      value="Channel Sales Management"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Capability N2"
+      value="Customer &amp; Network Care"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Digital Channel"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

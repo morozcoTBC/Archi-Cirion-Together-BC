@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Account ID - Biiling Account"
+    id="id-a03bcf2ec8b548aba7e314101cc5d516">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-25a705e0233b495d9c4b09ebf5e37960.xml#id-25a705e0233b495d9c4b09ebf5e37960"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-69c0e4a31ea743d1a8878668f5f1fcff.xml#id-69c0e4a31ea743d1a8878668f5f1fcff"/>
+</archimate:FlowRelationship>

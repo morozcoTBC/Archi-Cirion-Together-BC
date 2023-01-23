@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LCM"
+    id="id-6813042424604502ad680fb95d2b6051"
+    documentation="Sistema que resuleve los pedidos de cotización de terceros, y armar las alternativas&#xD;&#xA;Se levanta los operadores y los edificios a los que están conectados esos operadores.">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Capability N1"
+      value="Service Order Management"/>
+  <properties
+      key="CirionDom1"
+      value="Lead to CPQ"/>
+  <properties
+      key="CirionDom2"
+      value="CPQ"/>
+</archimate:ApplicationComponent>

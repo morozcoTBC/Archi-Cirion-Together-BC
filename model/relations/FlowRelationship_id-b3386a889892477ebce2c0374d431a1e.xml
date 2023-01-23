@@ -1,0 +1,18 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altify - Sakesforce"
+    id="id-b3386a889892477ebce2c0374d431a1e">
+  <properties
+      key="Integración Nativa"
+      value="SI"/>
+  <properties
+      key="Integraci√≥n Nativa"
+      value="SI"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1af2b5f095bb434dbded8ab7f0f28c38.xml#id-1af2b5f095bb434dbded8ab7f0f28c38"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-efcfdc4aa474419084cea6e20de9ae70.xml#id-efcfdc4aa474419084cea6e20de9ae70"/>
+</archimate:FlowRelationship>

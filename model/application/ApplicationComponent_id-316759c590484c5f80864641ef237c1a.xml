@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vicky Chatbot"
+    id="id-316759c590484c5f80864641ef237c1a">
+  <properties
+      key="Capability N1"
+      value="Channel Sales Management"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

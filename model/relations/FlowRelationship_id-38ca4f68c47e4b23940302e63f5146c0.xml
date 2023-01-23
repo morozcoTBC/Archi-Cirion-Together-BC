@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facturas"
+    id="id-38ca4f68c47e4b23940302e63f5146c0">
+  <properties
+      key="Middleware"
+      value="BMP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-436f8d86395b47789958a5e6452216c1.xml#id-436f8d86395b47789958a5e6452216c1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-31bc637bcf86464bbea580d6a9bee412.xml#id-31bc637bcf86464bbea580d6a9bee412"/>
+</archimate:FlowRelationship>

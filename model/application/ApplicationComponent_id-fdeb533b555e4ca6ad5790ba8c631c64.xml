@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PMP - Password Manager  Pro"
+    id="id-fdeb533b555e4ca6ad5790ba8c631c64"
+    documentation="Bóveda de contraSena&#xD;&#xA;Producto de ManageEngine&#xD;&#xA;">
+  <properties
+      key="Owner "
+      value="Cirion"/>
+</archimate:ApplicationComponent>

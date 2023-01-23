@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Test Quality Analysis"
+    id="id-c6b51f7111bc4165b75490f8b7828932"
+    documentation="Service Test  Quality Analysis  manages a quality analysis on tests to continually tweak and improve it.&#xD;&#xA;Service Test  Quality Analysis Management provides an offline analysis of the usage of the tests to determine its relevance and provides modifications proposal concerning all the Test specification (including: test method, quota, authorized users, consequences according to results…).&#xD;&#xA;This analysis is done using statistical test usage data to evaluate the tests relevance and the needed updates.&#xD;&#xA;Following the analysis, it can be decided to&#xD;&#xA;   - Do nothing,&#xD;&#xA;   - Propose the creation of additional service tests,&#xD;&#xA;   - Propose the update of existing service tests,&#xD;&#xA;   - Remove service tests that are considered irrelevant.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy Management"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+</archimate:Capability>

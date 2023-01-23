@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Anomaly Management"
+    id="id-85fa37418575494e945a807a954add3b"
+    documentation="Product Anomaly Management business processes establish actions that predict and detect aberrations or outlier events/activities, assess them for their impact, mitigate them, and record them before they ever become product problem management concerns. &#xD;&#xA;By establishing that an action or event is abnormal (based on known patterns), Product Anomaly Management helps to assess them through a set of activities that may triage, plan detailed assessment, classify them and provide  mitigatory actions for them. Through Product Anomaly Management, assurance of Products, based on abnormal events or activities can be well categorized, prioritized and actioned on. Product Anomaly Management is different from Product Problem Management as the later addresses known issues, faults or problems.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

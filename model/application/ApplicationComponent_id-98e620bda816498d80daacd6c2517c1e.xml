@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AMS"
+    id="id-98e620bda816498d80daacd6c2517c1e"
+    documentation="Aplicacionn del proveedor NDA que se utiliza para la obtencion de costos de accesos y algunos servicios brindados por terceros">
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Capability N1"
+      value="Solution Management"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Lead to CPQ"/>
+  <properties
+      key="CirionDom2"
+      value="CPQ"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RANCID"
+    id="id-8a1664ab6ced475f935379735c3eb146"
+    documentation="Hay un proceso que se levanta mediante script de la red. Se usa para discovery. Hace backup de configuración se utiliza para consultar.&#xD;&#xA;No esta definido el Owner&#xD;&#xA;Open source">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N1"
+      value="Service Inventory Management"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

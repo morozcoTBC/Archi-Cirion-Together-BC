@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Order Management "
+    id="id-94c9ccdabed34f1f803c54a57eeffa24"
+    documentation="Partner Order Management tracks, monitors and reports on a service provider initiated order to ensure that the interactions are in  accordance with the agreed commercial arrangements between the service provider and another party.">
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Process Management (Workflow/ Integration)"
+    id="id-f535abc6c2de4f3d96ecfb08b91274ee"
+    documentation="Resource Process Management (Workflow/Integration) involves the workflow planning and integration between resource provisioning and change processes. A vital component in this job is the logistics coordination. Delays and logistic disturbances can have a huge negative impact the resource projects and a jeopardy management with early discovery of disturbances and  that warns for consequences is vital.">
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+</archimate:Capability>

@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMCM"
+    id="id-ad9802f2b07b4a3b96a50c0163cb2f28"
+    documentation="Contactos que utiliza Ticketing Console para notificar actividades y programadas en GRC Console">
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N1"
+      value="Service Problem Management"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

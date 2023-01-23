@@ -1,0 +1,15 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EMP Agent"
+    id="id-d3a4d5e334e5497f9dcd5e2429a6ebd4">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Owner"/>
+</archimate:ApplicationInterface>

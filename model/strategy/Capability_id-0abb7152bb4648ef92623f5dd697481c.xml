@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Workflow Management"
+    id="id-0abb7152bb4648ef92623f5dd697481c"
+    documentation="Partner Workflow Management function provide workflow and orchestration for supplier/partner management activities.">
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+</archimate:Capability>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage CAM tasados"
+    id="id-f55753e5ecbe40799a3adf26bd36305e"
+    documentation="Envía todo pero sólo sirve lo que corresponde a contratos en dólares">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f25ef718dfa54644af1ccf9d90a7ff64.xml#id-f25ef718dfa54644af1ccf9d90a7ff64"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2b391baf263545b5a791aa143ff811d3.xml#id-2b391baf263545b5a791aa143ff811d3"/>
+</archimate:FlowRelationship>

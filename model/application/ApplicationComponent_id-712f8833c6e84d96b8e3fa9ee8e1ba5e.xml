@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nall - Off Net"
+    id="id-712f8833c6e84d96b8e3fa9ee8e1ba5e"
+    documentation="Inventario de Terceros (conectividad)&#xD;&#xA;Se manteniene dentro de una tabla de Dokuviz - Dokuflow&#xD;&#xA;&#xD;&#xA;SON XIs que interacxtuan con la base de Dokuviz. ">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Capability N1"
+      value="Service Order Management"/>
+  <properties
+      key="CirionDom1"
+      value="Order to Provisioning"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

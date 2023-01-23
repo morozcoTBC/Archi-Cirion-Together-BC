@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marketing Campaign Management"
+    id="id-51f9229a4820419a85d644886e5f9fb7"
+    documentation="Marketing Campaign Management develops a marketing campaign through a coordinated series of steps that can include promotion of one or more product offerings through different mediums (television, radio, print, online) using a variety of different types of advertisements to reach the market, customers and channels. &#xA;&#xA;Marketing campaigns can be designed with different ends in mind, including building a brand image, introducing a new product, retaining customers, bringing in new customers, increasing sales of a product already on the market, or even reducing the impact of negative news.&#xA;&#xA;Marketing Campaign Management works with other processes, such as  Brand Management, Market Research, Marketing Communications, Product Offering Promotion Development, and Advertising Management to design marketing promotions and advertising, to determine trade show participation and presence, to support product introductions, and so forth. One of the key roles of all these processes is to position the product in the market, especially versus competitive products">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+</archimate:Capability>

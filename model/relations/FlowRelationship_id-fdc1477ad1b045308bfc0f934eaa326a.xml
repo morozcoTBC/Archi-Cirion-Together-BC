@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Electronic Invoice"
+    id="id-fdc1477ad1b045308bfc0f934eaa326a">
+  <properties
+      key="Middleware"
+      value="PI"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f4ef06ecd8544232b1800dba120803fd.xml#id-f4ef06ecd8544232b1800dba120803fd"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-56b3a3fff28c4ba686d863eb5edefe02.xml#id-56b3a3fff28c4ba686d863eb5edefe02"/>
+</archimate:FlowRelationship>

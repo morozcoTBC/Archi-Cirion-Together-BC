@@ -1,0 +1,18 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[MDL DB] GESTP"
+    id="id-ac4d34b011b948cb96f6fad1b71d438e">
+  <properties
+      key="Environment"
+      value="PROD"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / PRODUCTION"/>
+  <properties
+      key="DR Crit."/>
+  <properties
+      key="Supportability Problems"/>
+  <properties
+      key="Server"
+      value="ARATSLORA004"/>
+</archimate:Node>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Bill Payments &amp; Receivables Management"
+    id="id-028473b100ff4ba28f99bfac0ec04e88"
+    documentation="The purpose of the Customer Bill Payments &amp; Receivables Management processes is to ensure that enterprise revenue is collected through pre-established collection channels and put in place procedures to recover past due payments.  These processes are responsible for managing customer’s billing account, processing their payments, performing payment collections and monitoring the status of the account balance. &#xD;&#xA;&#xD;&#xA;These processes are responsible for, but not limited to:&#xD;&#xA;• Establishment and management of customer payment processes and channels;&#xD;&#xA;• Establishment and management of debt collection processes&#xD;&#xA;• Establishment and management of third party arrangements to support  collection and recovery of past due payments.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

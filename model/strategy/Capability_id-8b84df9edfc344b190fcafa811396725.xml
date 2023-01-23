@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Anomaly Lifecycle Management"
+    id="id-8b84df9edfc344b190fcafa811396725"
+    documentation="Product Anomaly Lifecycle Management business process establishes and controls all activities that are involved in overseeing, directing, administering, controlling and organizing the definition, detection/prediction, mitigation and learnings related to Product Anomaly Management.&#xD;&#xA;Product Anomaly Lifecycle Management cover the lifecycle activities, including:&#xD;&#xA;Establishing “what is normal&quot; for a active product (buy, sell, care) in order to inform “deviations&quot; or aberrations.&#xD;&#xA;Orchestrating Product Anomaly Management activities to meet customer and business partner needs.&#xD;&#xA;Managing the ability to acquire and apply knowledge and skills from past and present product anomalies.&#xD;&#xA;Managing actions that make the best or effective use of Product Management Closed Loops.&#xD;&#xA;Monitoring feedback to and from Product Management to support Product Anomaly Management activities.&#xD;&#xA;Reporting on Product Anomaly Management Closed Loops.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Lifecycle Management"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

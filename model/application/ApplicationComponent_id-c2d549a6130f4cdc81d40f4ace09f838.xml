@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Asistance Center (BAC)"
+    id="id-c2d549a6130f4cdc81d40f4ace09f838">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Support"
+    id="id-6dc054f454b04c0ba3cc4ad61b844818"
+    documentation="Product Support  processes ensure the support capability is in place to allow the  Product Fulfillment, Assurance and Billing processes to operate effectively.  &#xD;&#xA;The responsibilities of these processes include, but are not limited to:&#xD;&#xA;• Provision of product Inventory  process infrastructure &#xD;&#xA;• Policy support and decision support knowledge for product&#xD;&#xA;• Monitoring and reporting on the capabilities and costs of the individual Product FAB processes&#xD;&#xA;• Longer-term trend analysis on product FAB processes in order to establish the extent to which enterprise targets for these processes are being achieved and/or the need for the processes to be modified.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

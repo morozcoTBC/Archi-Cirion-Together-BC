@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="InvoiceC - Sovos(PE-CH)"
+    id="id-dc79f19cb9bf460fade5cfb7dec0ad85">
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="Domain"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise - Supply Chain Management  "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

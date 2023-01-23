@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UIPath"
+    id="id-c2acfc832a2c4f8899af48b1a0b763e4"
+    documentation="Construccion de Bots de Service Assurance Latam">
+  <properties
+      key="Domain"
+      value="Integration"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Capability N1"
+      value="RPA"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

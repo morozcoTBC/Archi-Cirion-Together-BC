@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gurú"
+    id="id-37507879c2414d8c89ed087d2e9d5c2c"
+    documentation="Aplicacion utilizada para calcular las cotizaciones&#xD;&#xA;Contiene TDG (Technical Data Gathering) que es un módulo desarrollado en java, que contiene una patalla con datos técnicos de configuracion. Se completa en dos instancias:&#xD;&#xA;1) una parte se carga durante el quoting, porque es price impacting&#xD;&#xA;2) otra parte se carga con la orden, porque impacta al delivery de cada servicio de la quote que se carga en Gurú">
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Capability N1"
+      value="Solution Management"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="CirionDom1"
+      value="Lead to CPQ"/>
+  <properties
+      key="CirionDom2"
+      value="CPQ"/>
+</archimate:ApplicationComponent>

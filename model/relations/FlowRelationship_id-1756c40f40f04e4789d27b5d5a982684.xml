@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Direcciones"
+    id="id-1756c40f40f04e4789d27b5d5a982684"
+    documentation="escucha los eventos de Update (MOD) vía EMP, con estos datos luego conforma su estructura de datos de ubicaciones/direccionesE">
+  <properties
+      key="Middleware"
+      value="EMP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-23f5e1a05d84474ba1459dba0d9cdb9e.xml#id-23f5e1a05d84474ba1459dba0d9cdb9e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9f13935c6b074be799a44c91741effae.xml#id-9f13935c6b074be799a44c91741effae"/>
+</archimate:FlowRelationship>

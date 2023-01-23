@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Receivables Management"
+    id="id-205246adf57941ddabd7a5779616ed9b"
+    documentation="The purpose of this application is to automate and manage the processing of financial transactions affecting the customer's financial account. Furthermore this process is meant to match these transactions with the services/invoices delivered to this customer. This is a legal requirement in some countries e.g. as required by the Sarbanes-Oxley Act in the USA.">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+</archimate:Capability>

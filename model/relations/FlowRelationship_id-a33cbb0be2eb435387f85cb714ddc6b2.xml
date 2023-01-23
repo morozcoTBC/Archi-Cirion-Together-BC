@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Links a GLM + Ubicaciones de clientes"
+    id="id-a33cbb0be2eb435387f85cb714ddc6b2"
+    documentation="Ubicaciones de servicios al cliente: CFS-RFS Toma las ubicaciones en función de las Services Account de Siebel que están relacionadas a una Service Instance.&#xD;&#xA;&#xD;&#xA;No guarda los datos de la dirección, pero tiene la capacidad de hacer consultas via API GLM REST  (usando el PL – SL reportado por Doku vía Siebel) para obtener mas info (abre en una ventana emergente GLM GUI)&#xD;&#xA;">
+  <properties
+      key="Middleware"
+      value="API GLM REST"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-23f5e1a05d84474ba1459dba0d9cdb9e.xml#id-23f5e1a05d84474ba1459dba0d9cdb9e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-00f89da54aac4f6cb1a6683ed45f25e1.xml#id-00f89da54aac4f6cb1a6683ed45f25e1"/>
+</archimate:FlowRelationship>

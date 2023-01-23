@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Events Management"
+    id="id-a709edb0ff184749ac95bdfc5126c853"
+    documentation="Billing Event Management encompasses Billing Event Processing and Billing Event Error Management. &#xD;&#xA;Billing Event Processing provides the functions necessary to collect events that are relevant for billing processes, relate them to the proper product offering or customer account, and direct the events to the appropriate billing sub-functions. Billing events include:&#xD;&#xA;• Events that indicate the need for periodic billing of a recurring product charge(from customer orders).&#xD;&#xA;• Records that indicate the need for billing of a non-recurring charge (from customer orders).&#xD;&#xA;• Records produced by network elements (from usage management). Usage Management will collect and distribute the network records that will be used in the Billing processes to Billing Event Management.&#xD;&#xA;&#xD;&#xA;Billing Event Error Management functions are a complex set of activities related to &#xD;&#xA;automating the processes of correcting errors in billing events. This often includes the capability to apply mass corrections.">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+</archimate:Capability>

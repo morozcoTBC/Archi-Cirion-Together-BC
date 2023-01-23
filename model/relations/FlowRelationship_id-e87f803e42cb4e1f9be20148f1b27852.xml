@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mex Payment"
+    id="id-e87f803e42cb4e1f9be20148f1b27852">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a6dbfda9b5b147ad8cf29adcd94a007c.xml#id-a6dbfda9b5b147ad8cf29adcd94a007c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-01a501f48923403a8d7cb09be38bd9ea.xml#id-01a501f48923403a8d7cb09be38bd9ea"/>
+</archimate:FlowRelationship>

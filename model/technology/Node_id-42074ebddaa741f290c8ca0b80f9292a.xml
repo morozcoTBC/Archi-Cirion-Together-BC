@@ -1,0 +1,19 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server] VSNMPCOLLECTOR06"
+    id="id-42074ebddaa741f290c8ca0b80f9292a">
+  <properties
+      key="Envirnoment"/>
+  <properties
+      key="Assignment/Status"/>
+  <properties
+      key="Cloud"/>
+  <properties
+      key="SOX Crit."/>
+  <properties
+      key="DR Crit."/>
+  <properties
+      key="Assoc. Source"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

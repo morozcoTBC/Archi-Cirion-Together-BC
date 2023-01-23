@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Anomaly Lifecycle Management"
+    id="id-e9224251913440ca8ec1f7ee09efa206"
+    documentation="Service Anomaly Lifecycle Management business process establishes and controls all activities that are involved in overseeing, directing, administering, controlling and organizing the definition, detection/prediction, mitigation and learnings related to Service Anomaly Management.&#xD;&#xA;Service Anomaly Lifecycle Management cover the lifecycle activities, including:&#xD;&#xA;Establishing “what is normal&quot; for Service in order to inform “deviations&quot; or aberrations.&#xD;&#xA;Orchestrating Service Anomaly Management activities to meet business needs.&#xD;&#xA;Managing the ability to acquire and apply knowledge and skills from past and present Service anomalies.&#xD;&#xA;Managing actions that make the best or effective use of Service Management Closed Loops.&#xD;&#xA;Monitoring feedback to and from Service Management to support Service Anomaly Management activities.&#xD;&#xA;Reporting on Service Anomaly Management Closed Loops.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Lifecycle Management"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+</archimate:Capability>

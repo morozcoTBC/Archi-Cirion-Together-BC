@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NNI"
+    id="id-30d7d45d7a8445c78af6b93e50ed06fe"
+    documentation="Detalle de los POPs que están en NCD y su descompsición identificando los puntos de interconexión por los cuales pasan los enlaces de clientes en un edificio. En un nodo puede haber uno o varios NNI de un vendor. Son recursos lógicos&#xD;&#xA;Depende de los POPs de NCD y si se da de baja NNI desaparece">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Capability N1"
+      value="Resource Order Management"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

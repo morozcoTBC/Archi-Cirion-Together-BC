@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Strategy &amp; Planning"
+    id="id-c8c5504a9b784598a003f3a4a712798d"
+    documentation="Resource Strategy &amp; Planning processes develop resource strategies, policies and plans for the enterprise, based on the long-term business, market, product and service directions of the enterprise  These processes understand the capabilities of the existing enterprise infrastructure, capture the requirements on the infrastructure based on market, product and service strategies of the enterprise’, manage the capabilities of the suppliers and partners to develop and deliver new resource capabilities, and define the way that new or enhanced infrastructure may be deployed. &#xD;&#xA;Research &amp; analysis is performed to determine resource targets as well as strategies to reach the defined targets.  This research may be obtained from the external market and resource suppliers and partners, or developed internally through research programs and activities, or leverage of other internal knowledge, such as marketing data.  A key input to the resource strategy arises from the enterprise’s market, product portfolio and service strategy and forecasts. The latter may include AI based predictions towards resource requirements. A focus is placed on the expansion of the existing resource capabilities and the identification of new resource capabilities required.  &#xD;&#xA;These processes deliver and develop annual and multi-year resource plans in support of services, products and offers that include volume forecasts, negotiation for required levels of resources, gaining resource development and management as well as supply chain commitment and executive approval for the plans. In addition, the processes may also develop more short-term resource plans in order to optimize near-term balance between supply and demand of resources.&#xD;&#xA;Forecasting of resource demand, and capturing of new opportunities, are both essential to ensure that the enterprise can construct and implement the resources necessary for the future needs of their customers and potential customers.&#xD;&#xA;These processes define the resource implementation standards sought, key new resource capabilities required, resource support levels and approaches required, resource design elements to be developed, as well as resource cost parameters and targets. These processes also define the policies relating to technical resources and their implementation.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy Management"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+</archimate:Capability>

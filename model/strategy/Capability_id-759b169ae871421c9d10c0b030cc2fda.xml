@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Inquiry Dispute &amp; Adjustment Management"
+    id="id-759b169ae871421c9d10c0b030cc2fda"
+    documentation="The purpose of Billing Inquiry Dispute &amp; Adjustment Management application is to support the customer service representative (CSR) in Billing Inquiry, Dispute &amp; Adjustment Management">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+</archimate:Capability>

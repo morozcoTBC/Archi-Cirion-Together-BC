@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Bill Inquiry Handling"
+    id="id-307a5fc21b71492885caf3aebdd2e8f5"
+    documentation="The purpose of Customer  Bill Inquiry Handling process is to ensure the timely and effective fulfillment of all customer bill inquiries and complaints. This process is responsible for managing customer interaction as it relates to a customer’s billing relationship to a Service Provider. This includes the creation of inquiries against the customer’s billing account(s), and management of changes to customer billing account structure and details, the managing of all customer bill inquiry lifecycle, reporting changes and updates and closing of customer bill inquiry when all activities were accomplished. This process can be viewed via traditional means, with a service representative managing the customer or via e-business means. In the latter case, inquiries, complaints and changes to details would be handled via electronic media without the intervention of a representative.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AFIP"
+    id="id-56b3a3fff28c4ba686d863eb5edefe02"
+    documentation="PADRONES Hay un bot que toma la info de afip y la sube a SAP. RPA&#xA;FACTURA ELECTRONICA Interfaz automatica por PI para factura de credito electronica. programas Z en sap. Desarrollado por ALAMO (empresa argentina )&#xA;">
+  <properties
+      key="Owner"
+      value="Cirion to be moved"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Regulatory &amp; Compliance Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="CirionDom1"
+      value="Billing and Revenue Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="autocomplete"
+    id="id-9bc2859ff7f64045b6eec26cf8228a44">
+  <properties
+      key="Middleware"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-23f5e1a05d84474ba1459dba0d9cdb9e.xml#id-23f5e1a05d84474ba1459dba0d9cdb9e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-168a7bb0bec64dc4a9d6ebce597538f8.xml#id-168a7bb0bec64dc4a9d6ebce597538f8"/>
+</archimate:FlowRelationship>

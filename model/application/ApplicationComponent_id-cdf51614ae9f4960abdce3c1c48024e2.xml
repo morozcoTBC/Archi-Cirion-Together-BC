@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monkeywrench"
+    id="id-cdf51614ae9f4960abdce3c1c48024e2"
+    documentation="Permite visualizar las GCR programadas en un calendario de tiempo en GRC Console">
+  <properties
+      key="Capability N1"
+      value="Service Problem Management"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

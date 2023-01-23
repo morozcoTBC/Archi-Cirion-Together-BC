@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Partner Tender Management"
+    id="id-10fe1baf9d7d4f68a4e362ad40ebb085"
+    documentation="Business Partner Tender Management processes manage the activities associated with developing tender documents, running tender processes, gaining enterprise agreement to tender decisions.&#xD;&#xA;The tender process for the sourcing activity can be used not only for managing the sourcing of infrastructure of various types, but is also applicable for use in outsourcing tender processes, and for the sourcing of commodity items used within a business. The actual depth to which the sourcing process is used is dependent on such factors as the value of the sourced items. Note that these processes can also be used for the negotiated agreements between the enterprise and its competitors as a part of regulated inter-carrier agreements. While tender processes are not used in such a case, the processes for determining appropriate commercial arrangements and for gaining enterprise agreement are used for these regulated and competitive activities.&#xD;&#xA;They also manage the evaluation of agreements with parties, to determine those with the products and services that best meet the enterprise’s needs.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Capability Delivery"/>
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+</archimate:Capability>

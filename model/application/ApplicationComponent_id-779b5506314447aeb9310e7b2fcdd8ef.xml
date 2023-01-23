@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate Datawarehouse"
+    id="id-779b5506314447aeb9310e7b2fcdd8ef"
+    documentation="CDW">
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Capability N1"
+      value="Data Management"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"
+      value="Reporting"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

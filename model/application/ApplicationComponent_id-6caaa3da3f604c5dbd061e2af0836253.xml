@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Latam Data Warehouse (LDW)"
+    id="id-6caaa3da3f604c5dbd061e2af0836253"
+    documentation="Local Datawarehouse. Toma info de SAP">
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Data Management"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="CirionDom1"
+      value="Reporting"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

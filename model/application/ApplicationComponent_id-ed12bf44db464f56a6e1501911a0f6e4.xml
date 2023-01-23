@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HayStack"
+    id="id-ed12bf44db464f56a6e1501911a0f6e4"
+    documentation="Diagnostico de issues de clientes IP">
+  <properties
+      key="Capability N1"
+      value="Service Performance Management"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Capability N2"
+      value="Service Performance Analysis"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Requisitions &amp; PO"
+    id="id-7ce63dfed22e4a86910b038e6fc8904a"
+    documentation="Info de proveedores. OC de servicios. Recepciones de servicios">
+  <properties
+      key="Middleware"
+      value="SAP Cloud Connector"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7da018c4dedb4412afff3f53ffd17197.xml#id-7da018c4dedb4412afff3f53ffd17197"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+</archimate:FlowRelationship>

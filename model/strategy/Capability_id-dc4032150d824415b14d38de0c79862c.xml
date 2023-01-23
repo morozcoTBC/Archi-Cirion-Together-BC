@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Account Planning"
+    id="id-dc4032150d824415b14d38de0c79862c"
+    documentation="Sales Account Planning looks at the service provider’s complete relationship with a large customer. This includes the customer’s outages, revenues, opportunities in the pipeline, etc. It allows the account executive to effectively manage the service provider’s relationship with the customer and to plan the selling strategy going forward.">
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+</archimate:Capability>

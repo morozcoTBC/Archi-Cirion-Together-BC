@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Artis"
+    id="id-01ad721b9ed04ed7aa49e6b15c622a71"
+    documentation="Inventario. CMDB">
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="Capability N2"
+      value="Customer Inventory Management"/>
+  <properties
+      key="Capability N1"
+      value="Customer Order Management"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="CirionDom1"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

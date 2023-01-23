@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Partner Strategy &amp; Planning"
+    id="id-cb43ac343873473c91363c8d05d8a61d"
+    documentation="Business Partner Strategy &amp; Planning processes develop the strategies and policies of the enterprise for engaging with other parties. To support the enterprise’s supply and sourcing strategy the Business Partner Strategy and Planning processes develops the policies for Business Partner engagement, interaction and security. For example, the enterprise decides that it will outsource the supply of all Mobiles Networks; both the functional processes, as well as Infrastructure and Product Lifecycle Management processes. The effectuation of this is done according to policies and strategies set by the Business Partner Strategy and Planning processes.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy Management"/>
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+</archimate:Capability>

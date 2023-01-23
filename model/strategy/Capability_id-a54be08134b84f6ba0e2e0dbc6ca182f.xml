@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Performance Monitoring"
+    id="id-a54be08134b84f6ba0e2e0dbc6ca182f"
+    documentation="Service Performance Monitoring applications provide the necessary functionality to continuously collect data and monitor the performance of the service provider's services.The collected data is logged and made available for further analysis, and present performance made available as notifications for immediate action in case of significant deviation.">
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+</archimate:Capability>

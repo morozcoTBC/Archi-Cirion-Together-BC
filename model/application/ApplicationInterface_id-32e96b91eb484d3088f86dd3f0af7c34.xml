@@ -1,0 +1,12 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entidades Fiscales"
+    id="id-32e96b91eb484d3088f86dd3f0af7c34"
+    documentation="Entidades fiscales">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Regulatory &amp; Compliance Management"/>
+</archimate:ApplicationInterface>

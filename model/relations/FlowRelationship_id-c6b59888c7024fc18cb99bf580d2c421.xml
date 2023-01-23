@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alertas"
+    id="id-c6b59888c7024fc18cb99bf580d2c421">
+  <properties
+      key="Middleware"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5e42f08d93454980b505da0147813095.xml#id-5e42f08d93454980b505da0147813095"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9e4f63b225a347fb83c2880232480944.xml#id-9e4f63b225a347fb83c2880232480944"/>
+</archimate:FlowRelationship>

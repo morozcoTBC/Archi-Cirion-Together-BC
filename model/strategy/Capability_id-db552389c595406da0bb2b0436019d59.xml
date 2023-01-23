@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning Management"
+    id="id-db552389c595406da0bb2b0436019d59"
+    documentation="Learning Management business process manage activities that support building skills that can be applied to a variety of context. Learning Management business process have outcome that results in absorbing information in order to increase skills and abilities and make use of it under a variety of contexts. In contrast to training management, which focuses on the (organization) way to impact information and knowledge to instruct a trainee, learning management is about the persona involved.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

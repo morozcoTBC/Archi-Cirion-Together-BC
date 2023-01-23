@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Test Quality Analysis"
+    id="id-d15cb4652beb49378b4822ed1fc12afb"
+    documentation="Product Test  Quality Analysis  manages a quality Analysis on Tests to continually tweak and improve it.&#xD;&#xA;Product Test  Quality Analysis provides an offline analysis of the usage of the tests to determine its relevance and provide modifications proposal concerning all the Test specification (including: test method, quota, authorized users, consequences according to results…).&#xD;&#xA;This analysis is done using statistical test usage data to evaluate the tests relevance and the needed updates.&#xD;&#xA;Following the analysis, it can be decided to&#xD;&#xA;   - Do nothing,&#xD;&#xA;   - Propose the creation of additional product tests,&#xD;&#xA;   - Propose the update of existing product tests,&#xD;&#xA;   - Remove product tests that are considered irrelevant.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy Management"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

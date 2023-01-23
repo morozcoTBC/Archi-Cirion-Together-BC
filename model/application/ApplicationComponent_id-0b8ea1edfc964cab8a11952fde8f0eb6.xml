@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rating Engine"
+    id="id-0b8ea1edfc964cab8a11952fde8f0eb6">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Capability N1"
+      value="Charge Calculation and Balance Management"/>
+  <properties
+      key="CirionDom1"
+      value="Billing and Revenue Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

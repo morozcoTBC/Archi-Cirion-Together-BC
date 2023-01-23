@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurement"
+    id="id-0a801583c35c4f428debc107e233dbd9"
+    documentation="Procurement Management provides the necessary functionality to manage the requisitions for material and placing the orders with the contracted supplier/partner. This includes orders placed in conjunction with a customer order as well as orders placed as part of service provider expansions of product, service, or network.A Supplier/Partner Order can also include a simple transaction with a supplier/partner concerning an application purchased via a product catalog, and the app is delivered.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

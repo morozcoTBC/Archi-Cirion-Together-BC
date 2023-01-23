@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage Internet Burstable"
+    id="id-c503c479cff04d1eb1c306184ab28f4e"
+    documentation="Se hace una llamada directa de UEXE a OSSDB por un webservice donde se envía el CSF id (identifica al producto) y OSSB devuelve el 95 percentil&#xD;&#xA;">
+  <properties
+      key="Middleware"
+      value="Webservice "/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4f43db108ecc4659b92a9c60f95d4a0a.xml#id-4f43db108ecc4659b92a9c60f95d4a0a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4f7f04f5517347119b3b3b1c5ae70179.xml#id-4f7f04f5517347119b3b3b1c5ae70179"/>
+</archimate:FlowRelationship>

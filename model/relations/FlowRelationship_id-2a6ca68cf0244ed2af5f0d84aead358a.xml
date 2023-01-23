@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capacity check"
+    id="id-2a6ca68cf0244ed2af5f0d84aead358a">
+  <properties
+      key="Middelware"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8a1b79a091ee4f9586d29be546cd26d1.xml#id-8a1b79a091ee4f9586d29be546cd26d1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f9717791f8ec47139b99b127863b8135.xml#id-f9717791f8ec47139b99b127863b8135"/>
+</archimate:FlowRelationship>

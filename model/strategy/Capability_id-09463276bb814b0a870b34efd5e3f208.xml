@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Management"
+    id="id-09463276bb814b0a870b34efd5e3f208"
+    documentation="The Data Management (DM) application(s) provides functionalities to collect, store and make data available for consumption by applications inside and outside organization. They provide functionalities to ensure that the requirements for data security, integrity, quality, privacy are met and they comply to enterprise guidelines and standards.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

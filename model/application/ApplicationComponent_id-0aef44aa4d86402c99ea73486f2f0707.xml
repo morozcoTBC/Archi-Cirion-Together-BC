@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doku Sat"
+    id="id-0aef44aa4d86402c99ea73486f2f0707"
+    documentation="Gestiona los enlaces satelitales. Manejo del espectro satelital">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Capability N1"
+      value="Service Order Management"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+</archimate:ApplicationComponent>

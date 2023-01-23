@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Inventory Management"
+    id="id-207986a3ac57469a87a4fe5f2368a30c"
+    documentation="The purpose of the Manage Product Inventory processes are twofold &#xD;&#xA;       - establish, manage and administer the enterprise's product inventory, monitor and report on the usage and access to the product inventory, and the quality of the data maintained in it. The product inventory maintains records of all products, their interactions with the enterprise, and any other product related&#xD;&#xA;       - provide available Product Inventory related information required to support Fulfillment, Assurance and Billing &amp; Revenue processes.&#xD;&#xA;The product inventory is also responsible for maintaining the association between customers and purchased product instances, created as a result of the Order Handling processes for a Product Specification in the context of a Product Offering.&#xD;&#xA;Managing product inventory includes product creation, modification to the product inventory.&#xD;&#xA;Responsibilities of these processes include, but are not limited to:&#xD;&#xA;• Identifying the inventory-relevant information requirements to be captured for products ; &#xD;&#xA;• Identifying, establishing and maintaining product inventory repository facilities; &#xD;&#xA;• Establishing and managing the product inventory management and information capture processes; &#xD;&#xA;• Managing the registration and access control processes that enable processes to create, modify and/or look up product information to and from the product inventory; &#xD;&#xA;• Ensuring the product inventory repository accurately captures and records all identified product details, through use of automated or manual audits; &#xD;&#xA;• Tracking and monitoring of the usage of, and access to, the product inventory repository and associated costs, and reporting on the findings &#xD;&#xA;• Identifying any technical driven shortcomings of the product inventory repository, and providing input to Resource Development &amp; Management processes to rectify these issues.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

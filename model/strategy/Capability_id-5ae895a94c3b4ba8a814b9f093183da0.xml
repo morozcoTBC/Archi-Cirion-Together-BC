@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Catalog Operational Readiness Management"
+    id="id-5ae895a94c3b4ba8a814b9f093183da0"
+    documentation="Resource Catalog Operational Readiness Management business process establishes and administers the support needed to operationalize Resource catalogs for ongoing day-to-day business needs.&#xD;&#xA;These business activities implement the Resource Catalog through Release and Deploy business activities.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+</archimate:Capability>

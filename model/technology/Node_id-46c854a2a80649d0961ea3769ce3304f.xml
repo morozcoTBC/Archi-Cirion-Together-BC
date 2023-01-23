@@ -1,0 +1,25 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server] ARBUE-DOCKER-FINANCE-TEST"
+    id="id-46c854a2a80649d0961ea3769ce3304f">
+  <properties
+      key="Environment"
+      value="DEV"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / DEVELOPMENT"/>
+  <properties
+      key="Cloud"
+      value="Internal"/>
+  <properties
+      key="SOX Crit."
+      value="No"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Assoc. Source"
+      value="Service Now"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

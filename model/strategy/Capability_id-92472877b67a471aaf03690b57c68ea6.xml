@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Development"
+    id="id-92472877b67a471aaf03690b57c68ea6"
+    documentation="Sales Development processes develop the Sales support and response for new and existing products and services, as well as existing and potential customers.&#xD;&#xA;Sales Development processes develop product related compensation plans, define product revenue targets, develop product related sales training, develop prospective customer identification methodology, develop selling processes/methods and procedures for new products.&#xD;&#xA; &#xD;&#xA;As an aspect of this Sales Development processes define channels for selling the enterprise’s products. It develops or ensures development of channel ability to sell and support products, including negotiating for the specific channel, defining or updating the account management process, developing pricing for a specific channel, etc.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Lifecycle Management"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+</archimate:Capability>

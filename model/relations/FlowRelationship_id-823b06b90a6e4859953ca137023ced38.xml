@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vendor Invoices OCR"
+    id="id-823b06b90a6e4859953ca137023ced38"
+    documentation="Facturas validadas pasan a SAP&#xA;&#xA;FALTA SABER COMO SE COMUNICA (idocs PI/PO)">
+  <properties
+      key="Middleware"
+      value="Email Automatico"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2762b7151c094749843ba1fa50a61b1b.xml#id-2762b7151c094749843ba1fa50a61b1b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+</archimate:FlowRelationship>

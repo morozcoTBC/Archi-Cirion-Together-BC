@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cloud Virtual DEC3"
+    id="id-9cd4e093e39d499f809d2d45f9cc5704"
+    documentation="Plataforma de gestion Cloud. Registra tickets. Clientes-Self Service">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Capability N2"
+      value="Customer &amp; Network Care"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Capability N1"
+      value="Channel Sales Management"/>
+  <properties
+      key="CirionDom1"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

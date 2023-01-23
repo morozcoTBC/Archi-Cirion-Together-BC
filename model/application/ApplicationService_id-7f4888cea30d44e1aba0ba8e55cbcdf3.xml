@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voice Switches"
+    id="id-7f4888cea30d44e1aba0ba8e55cbcdf3">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+</archimate:ApplicationService>

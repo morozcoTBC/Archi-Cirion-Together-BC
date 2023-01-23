@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage"
+    id="id-cd82636df6944cf28ca82cf393c23519">
+  <properties
+      key="Middleware"
+      value="DB Link"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fd758c1470054b82847c5b25ca6b41d9.xml#id-fd758c1470054b82847c5b25ca6b41d9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a372faeb56184298aca4bb4d95efb86d.xml#id-a372faeb56184298aca4bb4d95efb86d"/>
+</archimate:FlowRelationship>

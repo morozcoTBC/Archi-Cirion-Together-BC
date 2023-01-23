@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kofax"
+    id="id-2762b7151c094749843ba1fa50a61b1b"
+    documentation="OCR. vendors invoice load automation (excepto Brasil). Se recibe las facturas del proveedor en el mail. Hay un email por cada pais. Un proceso recibe los mails y los baja a las carpetas de OCR. separados por pais. En esa casilla se revisa y se envia las facturas a SAP. Area de AP entrea a Kofax y xorrrigen los documentos si hay errores. Ajustan la configuracion para que el ocr lo entienda. ">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="N"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

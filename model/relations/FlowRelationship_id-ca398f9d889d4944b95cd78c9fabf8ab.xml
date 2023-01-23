@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LinkedIn Learning - SAP SuccessFactors"
+    id="id-ca398f9d889d4944b95cd78c9fabf8ab">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-212a178216b047d28c6cbc2b6a206a4b.xml#id-212a178216b047d28c6cbc2b6a206a4b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-08eea7420734487ca5fdfeecb0b580e2.xml#id-08eea7420734487ca5fdfeecb0b580e2"/>
+</archimate:FlowRelationship>

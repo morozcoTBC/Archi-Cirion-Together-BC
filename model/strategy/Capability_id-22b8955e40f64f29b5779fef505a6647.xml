@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Domain Management"
+    id="id-22b8955e40f64f29b5779fef505a6647"
+    documentation="Resource Domain Management is the application area that provides exposed resource services that are available to all other application areas, including those others in the Resource Management layer.&#xD;&#xA;Resource Domain Management’s roles are to hide the idiosyncrasies/complexities of the Network and its building blocks (Infrastructure, IT computing, and IT applications equipment etc.) from the rest of the OSS/BSS estate, freeing it to be agile and make it technology and vendor neutral.&#xD;&#xA;Resource Domains are defined as a set of entities building the networks and its building blocks of, Infrastructure, IT computing, IT applications, equipment etc., which have a common set of policies applied to them based on for example technology, topology etc. The general concept of a Domain allows for overlapping, provided there are no policy conflicts. But in principle they should does not operate in any cross-domain capacity.&#xD;&#xA;It is the responsibility of the other Resource Management layer applications to perform any cross-domain functions such as forecasting, capacity planning and design, and or for co-coordinating activation, root cause analysis and performance monitoring.">
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+</archimate:Capability>

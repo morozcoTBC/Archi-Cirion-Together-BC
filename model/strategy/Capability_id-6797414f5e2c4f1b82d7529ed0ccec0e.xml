@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Special Event Management"
+    id="id-6797414f5e2c4f1b82d7529ed0ccec0e"
+    documentation="Party Special Event Management plans, prepares, and produces a special event which targets one or more types of parties. It includes the assessment, definition, acquisition, allocation, direction, control, and analysis of time, finances, people, products, services, and other resources to achieve an event's objectives. &#xD;&#xA;&#xD;&#xA;It is integrated with project management disciplines, such as forming teams, scheduling all event management tasks, monitoring tasks, and so forth. Particularly important is the designation of an event manager who oversees and arranges every aspect of an event, including researching, planning, organizing, implementing, controlling, and evaluating an event’s design, activities, and production.&#xD;&#xA;&#xD;&#xA;It interacts with other processes, such as Party Agreement Management, Marketing Campaign Management, and Marketing Communications.&#xD;&#xA;&#xD;&#xA;An event may be for internal or external parties, accompany a new product line, offering, campaign, and so forth. It may be scheduled by another Party where infrastructure is needed to support their event. In this case not all processes would be executed by an enterprise. An enterprise may focus on just the operations aspects of the event, such as operations initiation, planning, implementation, execution, closure, and evaluation.&#xD;&#xA;&#xD;&#xA;Detailed process that further describe Event Management can be found at http://www.juliasilvers.com/embok.htm. Note that the material on the website is copyrighted and permission to include the hyperlink here was granted by Julia Silvers.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+</archimate:Capability>

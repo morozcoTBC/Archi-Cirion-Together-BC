@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion Financiera Proyectos"
+    id="id-e9e3f1e2436d42299791c806e11b413a"
+    documentation="Herramienta de gestion financiera de proyectos cliente - desarrollo in-house&#xD;&#xA;Se utiliza en fase de delivery (servicios, equipos, licencias) aunque se carga el business case inicial&#xD;&#xA;Solo Brasil"/>

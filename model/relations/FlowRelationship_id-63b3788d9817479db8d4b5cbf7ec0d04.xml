@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Install/Uninstall created order number"
+    id="id-63b3788d9817479db8d4b5cbf7ec0d04"
+    documentation="instalacion o desinstalacion Se necesita integrar mayor informacion pero nunca se hizo">
+  <properties
+      key="Middleware"
+      value="Directa"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9f13935c6b074be799a44c91741effae.xml#id-9f13935c6b074be799a44c91741effae"/>
+</archimate:FlowRelationship>

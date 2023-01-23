@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pro"
+    id="id-e48c3260a0044296abaf8e8f14a32a62"
+    documentation="Inventario de red roja y azul (AS3356 y 3549)">
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Capability N1"
+      value="Customer Order Management"/>
+  <properties
+      key="Capability N2"
+      value="Customer Inventory Management"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

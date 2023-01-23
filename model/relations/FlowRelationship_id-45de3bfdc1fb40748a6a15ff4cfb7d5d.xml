@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New project &amp; PEPE elements"
+    id="id-45de3bfdc1fb40748a6a15ff4cfb7d5d">
+  <properties
+      key="Middleware"
+      value="RFC"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1f38b10a247441fc9761aed5f7f5da02.xml#id-1f38b10a247441fc9761aed5f7f5da02"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consumos"
+    id="id-28fc6f6e979643a1b7a698b9ab2da11f"
+    documentation="HSIP / DIA /CDN">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-350d9b9299514490a89518635739d4ce.xml#id-350d9b9299514490a89518635739d4ce"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0b8ea1edfc964cab8a11952fde8f0eb6.xml#id-0b8ea1edfc964cab8a11952fde8f0eb6"/>
+</archimate:FlowRelationship>

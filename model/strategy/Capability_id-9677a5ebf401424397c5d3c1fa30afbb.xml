@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact/Lead/Prospect Management"
+    id="id-9677a5ebf401424397c5d3c1fa30afbb"
+    documentation="Contact/Lead/Prospect Management develops the appropriate relationships with contacts, leads, and prospects with the intent to convert them to consumers, such as customers, or providers, such as partners, of an enterprise's offerings.&#xD;&#xA;&#xD;&#xA;Traditionally this process focuses on a future/existing customer perspective.  However, these processes, particularly in today’s digital ecosystem, also do, or should, focus on these from a party, such as a partner, who may offer an enterprise’s offerings to the market and acquire them in some form, either by on-boarding the enterprise’s offerings and fulfilling orders for them directly, or offering them and passing orders on to the enterprise. These parties who represent “consumers&quot; of an enterprise’s offerings and “providers&quot; of enterprise’s offerings move through a similar contact/lead/prospect lifecycle and are targets for an enterprise’s selling process. The parties may be those with whom the business already has a relationship, but represent possible new selling opportunities for an enterprise.&#xD;&#xA;&#xD;&#xA;This process interacts with the Party Relationship Development &amp; Retirement process to collect data about a party.&#xD;&#xA;&#xD;&#xA;Note: There is no strict rule that a party has to move from contact to lead to prospect and then to the Selling process. A contact could become a prospect.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+</archimate:Capability>

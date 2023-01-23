@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SLV"
+    id="id-5b9f62de4b374e0d810cb6f506875b39"
+    documentation="Base con info del servicio">
+  <properties
+      key="Capability N1"
+      value="Data Management"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="CirionDom1"
+      value="Reporting"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

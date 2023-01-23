@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Partner Training and Education"
+    id="id-f1e1eae703764eafb44b7ed55fbff7ee"
+    documentation="Business Partner Training and Education assesses an enterprise's training needs from needs assessment to training goals. It  designs training plans and learning objectives and develops training activities and materials to support the plans and objectives. It &#xD;&#xA;conducts the training with parties to be trained and evaluates training and results, such as return on training investment.&#xD;&#xA;&#xD;&#xA;Detailed process that further describe Business Partner Training and Education can be found at http://managementhelp.org/training/index.htm#phase4.&#xD;&#xA;&#xD;&#xA; this process interacts with Business Partner Special Event Management when training is conducted by an enterprise at an internal or external site.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+</archimate:Capability>

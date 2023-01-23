@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CCAT"
+    id="id-d706362378724fc4aec8796cf157ad7d"
+    documentation="Customer Credit Authorization Tool; Customer Crediting and Approval tool that interfaces with IDC Kenan">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Capability N1"
+      value="Billing Events Management"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="CirionDom1"
+      value="Billing and Revenue Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

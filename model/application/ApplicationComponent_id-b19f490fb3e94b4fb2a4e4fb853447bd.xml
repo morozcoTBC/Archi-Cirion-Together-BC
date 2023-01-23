@@ -1,0 +1,34 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP Concur"
+    id="id-b19f490fb3e94b4fb2a4e4fb853447bd"
+    documentation="Employees expenses&#xA;">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="TBD"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="Capability N1"
+      value="HR Management"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise – HR Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configurator"
+    id="id-fd59a1dcd9b54b04bed4eb7a92407931">
+  <properties
+      key="Owner"
+      value="Negocio"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="Capability N1"
+      value="Solution Management"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="CirionDom1"
+      value="Lead to CPQ"/>
+  <properties
+      key="CirionDom2"
+      value="CPQ"/>
+</archimate:ApplicationComponent>

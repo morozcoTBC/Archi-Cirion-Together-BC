@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netflex"
+    id="id-9bf7f6362f0544858e3ddf801aa032df"
+    documentation="Infiniera / Nokia / Ciena / DWDM / OTN&#xD;&#xA;Van a pasar a Transport Network">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N1"
+      value="Resource Inventory Management"/>
+  <properties
+      key="CirionDom1"
+      value="Inventory &amp; Location "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guru - APIGEE"
+    id="id-ab0ecfc62463437c884e4705b43c6fb9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-37507879c2414d8c89ed087d2e9d5c2c.xml#id-37507879c2414d8c89ed087d2e9d5c2c"/>
+  <target
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_id-8736ad5b63764fe5862bd6c0ecb37375.xml#id-8736ad5b63764fe5862bd6c0ecb37375"/>
+</archimate:FlowRelationship>

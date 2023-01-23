@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revenue Assurance Management"
+    id="id-9fb24f79a1a0442f930087fd83ed8ba1"
+    documentation="Revenue Assurance is the collection of data quality and process improvement methods that reduce leakages, improve profits, revenues and cash flows without influencing demand.Although, as its name suggest, Revenue Assurance is mainly about revenues and profits, revenue assurance activities in a communications organization has significant implications on operational and strategic aspects of the service provider.These methods can be employed in proactive, active, or reactive manners as part of providing &quot;Revenue Assurance&quot; for the service provider.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

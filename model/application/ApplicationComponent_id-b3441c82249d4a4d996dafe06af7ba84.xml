@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remedy"
+    id="id-b3441c82249d4a4d996dafe06af7ba84"
+    documentation="Solo se utiliza para CAM y soportado por Datacenter">
+  <properties
+      key="Capability N1"
+      value="Service Problem Management"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

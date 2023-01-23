@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hiper-FT"
+    id="id-163b958403c545de8a4b879a64b37cf8"
+    documentation="Monitoreo de Network Performance Colecta metricas de los dispositivos.&#xD;&#xA;Guarda informacion del ultimo mes Capacity Check (configuracion + trafico). ">
+  <properties
+      key="Capability N1"
+      value="Service Performance Management"/>
+  <properties
+      key="Capability N2"
+      value="Service Performance Monitoring"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Capability N3"
+      value="Service Inventory Management"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

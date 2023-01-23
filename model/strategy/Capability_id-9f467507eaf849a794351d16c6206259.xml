@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Problem Management"
+    id="id-9f467507eaf849a794351d16c6206259">
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+</archimate:Capability>

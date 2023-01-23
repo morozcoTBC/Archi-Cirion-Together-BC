@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compensation &amp; Results"
+    id="id-128d3d0cd783434191130ebca4489123"
+    documentation="The Compensation &amp; Results application includes all functionality necessary to manage the compensation to a seller &amp; sales performance against quotas, new sales and billed revenue, calculation of the compensation plans and results reporting.">
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+</archimate:Capability>

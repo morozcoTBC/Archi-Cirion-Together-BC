@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intiza"
+    id="id-01771941cc10447e89d2a8ac18dcdac2"
+    documentation="Collections Management&#xA;Sistema para enriquecer la información contratado a un tercero, y ya es de Latam. Le da mejor visibilidad a las personas que tienen que gestionar y les permite hacer la distribución de la cartera. Tiene automatizaciones de comunicación con los clientes para facilitar la posibilidad de cobrar.&#xA;Tienen RPAs que bajan información del ERP, en realidad de DW, y la impactan el Intisa y con eso gestionan la cobranza">
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="Capability N1"
+      value="Receivables Management"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

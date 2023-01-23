@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee Expenses"
+    id="id-2004d3a765434095985620e21ae2a6ea">
+  <properties
+      key="Middleware"
+      value="SAP Cloud Connector"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b19f490fb3e94b4fb2a4e4fb853447bd.xml#id-b19f490fb3e94b4fb2a4e4fb853447bd"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+</archimate:FlowRelationship>

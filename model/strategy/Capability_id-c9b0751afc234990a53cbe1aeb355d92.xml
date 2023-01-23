@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Reconciliation Management"
+    id="id-c9b0751afc234990a53cbe1aeb355d92">
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+  <properties
+      key="BusinessFlow"
+      value="Assurance"/>
+</archimate:Capability>

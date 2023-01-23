@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AD - SSFF"
+    id="id-c15986542b9f4c2d82a6ec26aa266666">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-93eaaf7cf0d44be19d18ac85eb0a99b7.xml#id-93eaaf7cf0d44be19d18ac85eb0a99b7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-08eea7420734487ca5fdfeecb0b580e2.xml#id-08eea7420734487ca5fdfeecb0b580e2"/>
+</archimate:FlowRelationship>

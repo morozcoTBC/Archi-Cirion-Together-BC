@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Miami Taxes Rates"
+    id="id-4c690b9981984fccb72a6df99ddf7488">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-38568bfc3d34492780e233e51ba5d824.xml#id-38568bfc3d34492780e233e51ba5d824"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2b391baf263545b5a791aa143ff811d3.xml#id-2b391baf263545b5a791aa143ff811d3"/>
+</archimate:FlowRelationship>

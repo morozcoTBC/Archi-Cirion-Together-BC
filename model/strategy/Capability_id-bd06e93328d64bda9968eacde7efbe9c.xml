@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Lifecycle Management"
+    id="id-bd06e93328d64bda9968eacde7efbe9c"
+    documentation="Lifecycle management is fundamentally responsible for adding, churning and removing network and IT capacity. Where capacity is added, it is made available to subsequent Utilization, Quality and Accounting management.&#xD;&#xA;&#xD;&#xA;Lifecycle management provides support for both Operational and Strategy, Infrastructure and Product wings of Business Process Framework.&#xD;&#xA;&#xD;&#xA;Eight specialist resource development and management applications are proposed here, in order to their normal sequencing.&#xD;&#xA;&#xD;&#xA;1.     Strategic Planning&#xD;&#xA;2.     Capability Specification&#xD;&#xA;3.     Tactical Planning&#xD;&#xA;4.     Resource Specification&#xD;&#xA;5.     Implementation Planning&#xD;&#xA;6.     Planning Design Automation&#xD;&#xA;7.     Spares &amp; Warehouse Inventory&#xD;&#xA;8.     Resource Commissioning &amp; Configuration&#xD;&#xA;&#xD;&#xA;These represent distinct, real world planning functions and may consist of sub-functions. They apply to all network engineering for fixed, mobile and cable and IT applications. The term ‘networked resource’ is used for the totality of applications and network used to deliver the applications to consumers over any form of network media.">
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy to Readiness"/>
+</archimate:Capability>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alertas"
+    id="id-f6a0249f041e4a679e6bb72b149714ab"
+    documentation="Genera Alerta a partir de Veritas e envia a HP Open View">
+  <properties
+      key="Middleware"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-11e950560c984db884c42edfc6f4a424.xml#id-11e950560c984db884c42edfc6f4a424"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9e4f63b225a347fb83c2880232480944.xml#id-9e4f63b225a347fb83c2880232480944"/>
+</archimate:FlowRelationship>

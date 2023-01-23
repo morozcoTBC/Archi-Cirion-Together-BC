@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Catalog Operational Readiness Management"
+    id="id-b730bf4442584db5b7e7e86953f13201"
+    documentation="Service Catalog Operational Readiness Management business process establishes and administers the support needed to operationalize Service catalogs for ongoing day-to-day business needs.&#xD;&#xA;These business activities implement the Service Catalog through Release and Deploy business activities.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+</archimate:Capability>

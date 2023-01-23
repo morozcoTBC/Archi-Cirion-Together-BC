@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Partner Order Management"
+    id="id-91d719f6ecec43aca4313283901f1249"
+    documentation="Business Partner Order Management sub-domain groups functions that manage the order to supplier or partner and the control of their fulfillment.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+</archimate:Capability>

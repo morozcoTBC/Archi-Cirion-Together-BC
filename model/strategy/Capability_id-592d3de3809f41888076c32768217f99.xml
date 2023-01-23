@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Specification Management"
+    id="id-592d3de3809f41888076c32768217f99"
+    documentation="Product Specification Management business process leverages captured product requirements to develop, master, analyze, and update documented standard and personalized conditions that must be satisfied by product design and/or delivery.&#xD;&#xA;Product Specifications Management can result in establishing, in a centralized way, technical (know-how) standards for products. Such standards provide the organization with a means to control and approve the values and inputs of product specification through structure, review, approval and distribution processes to users (including customers and business partners).">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Capability Delivery"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

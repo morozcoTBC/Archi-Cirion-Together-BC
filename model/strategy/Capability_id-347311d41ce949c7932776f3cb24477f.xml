@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Order Management"
+    id="id-347311d41ce949c7932776f3cb24477f"
+    documentation="Service Order Management applications manage the end to end lifecycle of a service request. This includes validating service availability as well as the service order request. Other functionality includes service order issuance, service and or product order decomposition, and service order tracking along with orchestrating the activation and the test and turn up processes. Notifications will be issued to the Customer Order Management during the service order orchestration process (especially upon completion). Such notification can trigger other steps in the Customer Order Management (e.g. service order completion concludes these steps with Customer Order Management).&#xD;&#xA;&#xD;&#xA;In addition, Service Order Management also provides service design and assignment functionality.&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+</archimate:Capability>

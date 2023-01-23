@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dbweb"
+    id="id-02bcad6cc53e49819cdd22d394efcb3c"
+    documentation="Portal de integracion de Servicios de consulta de los clientes para facturacion, requerimiento, informes, etc."/>

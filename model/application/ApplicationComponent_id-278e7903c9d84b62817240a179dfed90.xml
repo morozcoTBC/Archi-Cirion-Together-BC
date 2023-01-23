@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Paperless (Chile)"
+    id="id-278e7903c9d84b62817240a179dfed90"
+    documentation="BOT que procesa facturas de proveedores. Las facturas estan en el site de paperless. El bot las crea en sap&#xA;&#xA;">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

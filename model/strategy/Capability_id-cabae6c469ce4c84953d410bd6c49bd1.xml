@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Balance Management"
+    id="id-cabae6c469ce4c84953d410bd6c49bd1"
+    documentation="This process is responsible for holding, calculating, applying policies and managing functionality/interfaces for the Product balances &#xD;&#xA;&#xD;&#xA;Here the values resulting from rating and the application of discounts are applied to a Product balance. The balance affected by the value may be monetary or other balances such as minutes, points, or tokens. Authorizing service requests based on available balance is optional.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Domain"
+      value="Product"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatory &amp; Compliance Management"
+    id="id-25befbad29de4ecc9f47a1d7390f2683"
+    documentation="Applications to stay on top of changing laws, regulations, industry specific regulations, standards, and internal policies.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

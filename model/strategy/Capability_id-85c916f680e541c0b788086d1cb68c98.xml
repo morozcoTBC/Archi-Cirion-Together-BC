@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bill Calculation"
+    id="id-85c916f680e541c0b788086d1cb68c98"
+    documentation="The Bill Calculation application processes all charges against an account during bill cycles. Bill Calculation can be executed both on a cyclic basis and on demand. It performs bill invoicing, dealing with bill compilation of charges, credits, payments, adjustments, fees &amp; taxes at various levels, such as product and/or account level that have been generated since the last run for that account. It could apply discounts. Finally, Bill Calculation Management calculates bill totals and subtotals as appropriate. The pricing plans and discounts are determined based on the agreements for the invoiced customer or account.">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+</archimate:Capability>

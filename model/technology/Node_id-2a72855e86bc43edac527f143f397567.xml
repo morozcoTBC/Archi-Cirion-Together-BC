@@ -1,0 +1,20 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[MDL DB] COMMONPR/COMMONPR"
+    id="id-2a72855e86bc43edac527f143f397567">
+  <properties
+      key="Environment"
+      value="TEST"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / TEST"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Supportability Problems"
+      value="MDL DB VER OLDER THAN ROADMAP (SEVERE)"/>
+  <properties
+      key="Server"
+      value="ARBUE-DOCKER-FINANCE"/>
+</archimate:Node>

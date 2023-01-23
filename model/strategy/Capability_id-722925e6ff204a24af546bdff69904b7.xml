@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administrative Services"
+    id="id-722925e6ff204a24af546bdff69904b7"
+    documentation="Legal Administrative Services provides legal services like assistance and advice on issues such as procurement, contracting, public law and related activities.  Record Retention management assure compliance with federal and state laws,legal requirements or expectations, enterprise policies and procedures for themanagement of data and information related to the enterprise's operation.Advertising Administrative Services are primarily dealing with the enterprise's common advertising needs like Corporate advertising (that is more public relations than sales promotion) and Recruitment advertising.">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

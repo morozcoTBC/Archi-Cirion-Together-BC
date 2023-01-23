@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BP Bill Inquiry Handling"
+    id="id-2a3f8adbf4b847dfa28a0507884901df"
+    documentation="BP Bill Inquiry Handling ensures the timely and effective resolution of all party bill inquiries and complaints initiated by an enterprise or initiated by another party, such as a partner. It includes the receiving and sending inquiries regarding a bill/invoice, managing the entire bill inquiry lifecycle, reporting changes to and updates to, and closure of a bill inquiry when all activities have been completed.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+</archimate:Capability>

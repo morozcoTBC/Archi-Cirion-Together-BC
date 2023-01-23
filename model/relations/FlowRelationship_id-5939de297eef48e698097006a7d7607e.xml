@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APIGEE - AMS"
+    id="id-5939de297eef48e698097006a7d7607e">
+  <source
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_id-8736ad5b63764fe5862bd6c0ecb37375.xml#id-8736ad5b63764fe5862bd6c0ecb37375"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-98e620bda816498d80daacd6c2517c1e.xml#id-98e620bda816498d80daacd6c2517c1e"/>
+</archimate:FlowRelationship>

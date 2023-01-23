@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orchestration Management"
+    id="id-fe2427d818514da7ab6559cd277ac364"
+    documentation="Orchestration Management is a common domain application for automated instantiation, decomposition, coordination, and management in the area of deployment, activation and infrastructure element updating. It fulfills the needs of orchestration when applied in one or more business domains of a service provider’s environment.Task Work Item here is referred as generic term which encompasses any work that Orchestration application is supposed to perform. Orchestration will follow applied policy rules for security, quality, deployment and performance.">
+  <properties
+      key="Domain"
+      value="Common"/>
+</archimate:Capability>

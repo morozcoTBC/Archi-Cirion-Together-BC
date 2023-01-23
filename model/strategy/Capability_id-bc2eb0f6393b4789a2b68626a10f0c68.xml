@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Catalog Management"
+    id="id-bc2eb0f6393b4789a2b68626a10f0c68"
+    documentation="Service Catalog Management is a realization of the Cross domain Catalog Management application in the Service Domain. The applications are repositories of service listing within a service provider and include the ability to design, create, augment and map new entities and supporting data. The type of catalog management application is an implementation choice of the enterprise. See: Cross Domain- Catalog Management for more information.">
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy to Readiness"/>
+</archimate:Capability>

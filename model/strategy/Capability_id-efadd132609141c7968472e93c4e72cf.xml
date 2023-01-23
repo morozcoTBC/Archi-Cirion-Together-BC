@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Privacy Management"
+    id="id-efadd132609141c7968472e93c4e72cf"
+    documentation="Customer Privacy Management processes manage the privacy requirements of customers in accordance with customers' information privacy requirements, and regulatory mandates. These processes help to: &#xD;&#xA;Define the Customer Privacy Management scope&#xD;&#xA;Define the information that constitutes Personally Identifiable Information (personal identifiable information) where Privacy Policy applies&#xD;&#xA;Define Default Privacy requirements for each type of personal identifiable information&#xD;&#xA;Capture Customers explicit consent and define with Customers a Privacy Policy according to their wishes and the processing entities default Privacy Policy possible values&#xD;&#xA;Modify/update Privacy Policy according to future needs or requirements&#xD;&#xA;Enforce the Customer Privacy Policy and ensure that Customer information is managed correctly according to stated privacy policies.&#xD;&#xA;Communicate relevant personal identifiable information processing standards to third parties with whom the information is shared&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Customer"/>
+</archimate:Capability>

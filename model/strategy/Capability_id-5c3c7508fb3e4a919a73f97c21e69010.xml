@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Capability Orchestration"
+    id="id-5c3c7508fb3e4a919a73f97c21e69010"
+    documentation="Service Capability Orchestration application will perform automated service decomposition, service/serices integration, coordination, and management in service deployment, service or connected activation and service element updating. The application function fulfills the needs of orchestration for Operation Support &amp; Readiness, Fulfilment and Assurance and Billing domains applications with regards to Hybrid ecosystem.&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+</archimate:Capability>

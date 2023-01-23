@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datos inventario"
+    id="id-48e8e974bbeb48298e266e8e0a2b4f0e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e48c3260a0044296abaf8e8f14a32a62.xml#id-e48c3260a0044296abaf8e8f14a32a62"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5b9f62de4b374e0d810cb6f506875b39.xml#id-5b9f62de4b374e0d810cb6f506875b39"/>
+</archimate:FlowRelationship>

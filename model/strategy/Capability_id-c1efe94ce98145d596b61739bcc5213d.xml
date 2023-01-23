@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security and Privacy Management"
+    id="id-c1efe94ce98145d596b61739bcc5213d"
+    documentation="Security and Privacy Management business process identify the organization's assets and engaged parties through activities that assess, develop, document, and implement policies, procedures and practices that protect the organizations assets, and data privacy requirements of customers, business partners and all other stakeholders.&#xD;&#xA;&#xD;&#xA;Security and Privacy Management business process handshake with all enterprise and core business processes to determine legal expectations, operational expectations and statutory expectations that enable apply and operationalize security and privacy management activities to assure confidentiality, availability, integrity and trust across the enterprise’s assets and relationships (internal and external).&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

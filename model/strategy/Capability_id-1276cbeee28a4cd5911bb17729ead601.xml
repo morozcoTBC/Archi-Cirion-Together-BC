@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategic &amp; Enterprise Planning"
+    id="id-1276cbeee28a4cd5911bb17729ead601"
+    documentation="The Strategic &amp; Enterprise Planning process grouping focuses on the processes required to develop the strategies and plans for the service provider enterprise. This process grouping includes the discipline of Strategic Planning that determines the business and focus of the enterprise, including which markets the enterprise will address, what financial requirements must be met, what acquisitions may enhance the enterprise's financial or market position, etc. Enterprise Planning develops and coordinates the overall plan for the business working with all key units of the enterprise. These processes drive the mission and vision of the enterprise. Enterprise Architecture Management for the enterprise is also a key process within this process grouping. The Enterprise Architecture Management process directs IT across the enterprise, provides IT guidelines and policies, funding approval, etc. (note that IT development and management processes are managed within the Resource Development &amp; Management horizontal functional process grouping).&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+</archimate:Capability>

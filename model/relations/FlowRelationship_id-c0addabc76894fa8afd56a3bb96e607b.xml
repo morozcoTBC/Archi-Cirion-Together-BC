@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datos tabla stage"
+    id="id-c0addabc76894fa8afd56a3bb96e607b"
+    documentation="Accede directamente a la tabla stage de GLM">
+  <properties
+      key="Middleware"
+      value="Directo"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-23f5e1a05d84474ba1459dba0d9cdb9e.xml#id-23f5e1a05d84474ba1459dba0d9cdb9e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f9717791f8ec47139b99b127863b8135.xml#id-f9717791f8ec47139b99b127863b8135"/>
+</archimate:FlowRelationship>

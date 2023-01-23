@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Real Estate accounting movements"
+    id="id-0fd4c30d1f63490aa91e5d64c378a419"
+    documentation="Soportada en SFTP. Asiento mensual de amortizaciones">
+  <properties
+      key="Middleware"
+      value="SFTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9360bd1980cf45538c508309f734fd7d.xml#id-9360bd1980cf45538c508309f734fd7d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-802d0642b04a4bc18fe12630fd69d1d6.xml#id-802d0642b04a4bc18fe12630fd69d1d6"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign &amp; Funnel Management"
+    id="id-6844160b4c7243f4886f31bf4c29aa71"
+    documentation="Campaign &amp; Funnel Management provides the necessary functionality to manage a service provider's campaigns and funnel/workflows.">
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+</archimate:Capability>

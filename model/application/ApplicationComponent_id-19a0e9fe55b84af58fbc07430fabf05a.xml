@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Confgen"
+    id="id-19a0e9fe55b84af58fbc07430fabf05a"
+    documentation="Crea y registra direcciones IP de equipos y puertos Tecnologia">
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Domain"
+      value="Common"/>
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="CirionDom1"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

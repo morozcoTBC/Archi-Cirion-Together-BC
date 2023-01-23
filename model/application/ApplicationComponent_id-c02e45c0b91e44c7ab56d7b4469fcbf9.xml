@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NVT"
+    id="id-c02e45c0b91e44c7ab56d7b4469fcbf9"
+    documentation="Es un documentador de todo lo que se instala, cuando se cierre la implementación de los servicios y lo pasa al NOC.&#xD;&#xA;Tiene validaciones de lo que se instala y lo que informa el equipo que hace el deploy.&#xD;&#xA;No tiene integración con Dokuviz - Dokuflow&#xD;&#xA;Se puso en producción en la semana del 14/11.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Owner"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Capability N1"
+      value="Service Order Management"/>
+  <properties
+      key="CirionDom1"
+      value="Order to Provisioning"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

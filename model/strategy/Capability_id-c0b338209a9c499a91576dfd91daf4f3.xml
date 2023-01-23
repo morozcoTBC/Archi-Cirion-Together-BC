@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Test Management"
+    id="id-c0b338209a9c499a91576dfd91daf4f3"
+    documentation="Resource Test Management provides the manages the end-to-end execution of a test or test scenario for Resources not specific to a customer’s product. These tests might be either manual or automated.&#xD;&#xA;The Resource Test process will rely on the Resource Test Management and Resource Test Management processes according to relationships between Resource Test and Resource / Resource Tests and depending on the association between the Resource and the underlying Resource or Resource.&#xD;&#xA;Resource Test Management includes:&#xD;&#xA;   - Identifying Resource Tests need&#xD;&#xA;        - According to fulfilment and assurance issues, Resource Tests might be triggered&#xD;&#xA;   - Conducting Resource Tests&#xD;&#xA;        - Verifying test authorization (role and context) and quota management&#xD;&#xA;        - Identifying and carrying out test prioritization&#xD;&#xA;        - Setting up the test context and configuration&#xD;&#xA;        - Test execution, triggering appropriate Resource Tests. Tests might be on-demand or planned according to their specification. &#xD;&#xA;        - Reporting Test results by enrichment of Resource Tests results according to Resource Test rules&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+</archimate:Capability>

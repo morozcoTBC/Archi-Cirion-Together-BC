@@ -1,0 +1,20 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[MDL DB] SBL816PR/SBL816PR"
+    id="id-bb66ba256ea5438796da66d4f7edd614">
+  <properties
+      key="Environment"
+      value="DEV"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / DEVELOPMENT"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Supportability Problems"
+      value="MDL DB VER OLDER THAN ROADMAP (MODERATE)"/>
+  <properties
+      key="Server"
+      value="ARATSLVSBLWEB02"/>
+</archimate:Node>

@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Offer onboarding &amp; Lifecycle Management"
+    id="id-60b4ee921e574ea281e225afceedbf18">
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy to Readiness"/>
+</archimate:Capability>

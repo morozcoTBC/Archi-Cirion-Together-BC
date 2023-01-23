@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portal DECIII"
+    id="id-088a7527078f404a8b97e6e7e2290edc"
+    documentation="Portal Front End de auto gestion de la plataforma DECIII. Los clientes acceden a ese portal via GUI o API para gestion  de la plataforma de computo asignada al cliente. &#xD;&#xA;Vmware Vra, Desarollo Interno"/>

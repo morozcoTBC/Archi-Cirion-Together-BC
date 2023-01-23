@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tickets y Actividades Programadas"
+    id="id-d532518262824dfc9f8e0835ec8ac602"
+    documentation="Consulta de Tickets y Actividades Programadas">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-31bc637bcf86464bbea580d6a9bee412.xml#id-31bc637bcf86464bbea580d6a9bee412"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3c77cc41beaa4cc5b1b7b1dc6eeb54e4.xml#id-3c77cc41beaa4cc5b1b7b1dc6eeb54e4"/>
+</archimate:FlowRelationship>

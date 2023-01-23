@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ITOSS"
+    id="id-6b8a116825ea4f66a83a22c9fdbf9906"
+    documentation="Herramienta de gestion de componentes tecnologicos (BD, Antivirus, SO, Firewall, configuración, gestión de configuración, etc) Crea tickets en Altiris Carga informacion en la CMDB (SQL Server dentro de Altiris) &#xD;&#xA;Es un desarrollo in house">
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N2"
+      value="Service Performance Monitoring"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Capability N1"
+      value="Service Performance Management"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

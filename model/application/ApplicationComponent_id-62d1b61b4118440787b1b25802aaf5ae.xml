@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APay Center"
+    id="id-62d1b61b4118440787b1b25802aaf5ae"
+    documentation="Incoming Vendors invoices processor. Facturas sin orden de compra. Workflow de aprobacion se procesa en apay center. Esta dentro de SAP. &#xA;Posibilidad de reemplazarlo por el uso de Ordenes de Compra Express">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="TBD"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

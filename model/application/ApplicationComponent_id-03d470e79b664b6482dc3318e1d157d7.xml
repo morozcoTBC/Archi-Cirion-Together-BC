@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAT Capital Aproval Tool"
+    id="id-03d470e79b664b6482dc3318e1d157d7"
+    documentation="workflow de autorizacion de projectos. El CAT ID se envia a fireworks. EL CAT ID tiene el presupuesto de uno o mas proyectos. La autorizacion se controla por el budget en fireworks. Analizar reemplazo en PS">
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="N"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

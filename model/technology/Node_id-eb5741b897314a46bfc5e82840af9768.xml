@@ -1,0 +1,19 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[MDL DB] DW/ARPW-SQLDWH01"
+    id="id-eb5741b897314a46bfc5e82840af9768">
+  <properties
+      key="Environment"
+      value="PROD"/>
+  <properties
+      key="Assignment/Status"
+      value="In Use / PRODUCTION"/>
+  <properties
+      key="DR Crit."
+      value="No"/>
+  <properties
+      key="Supportability Problems"/>
+  <properties
+      key="Server"
+      value="ARBUE-DOCKER-FINANCE-PRE"/>
+</archimate:Node>

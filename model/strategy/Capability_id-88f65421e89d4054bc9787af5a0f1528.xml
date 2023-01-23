@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales &amp; Marketing Reporting"
+    id="id-88f65421e89d4054bc9787af5a0f1528"
+    documentation="Sales &amp; Marketing Reporting provides insight into multiple aspects of Sales &amp; Marketing, including closed loop marketing, sales metrics, forecasting, sales workflow, funnel and pipeline activities and order handoffs.">
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="BusinessFlow"
+      value="Operations Readiness &amp; Support"/>
+</archimate:Capability>

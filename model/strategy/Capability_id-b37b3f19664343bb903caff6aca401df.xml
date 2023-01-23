@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Strategy"
+    id="id-b37b3f19664343bb903caff6aca401df"
+    documentation="Partner Strategy Management is the ability to capture and manage the detail of a company’s strategy and resulting propositions/plans, that will drive its engagement with partners . This capability allows the management to define this information at the enterprise level. Finally, it provides the ability to link the partner propositions to the actual actions starting from agreement, onboarding and working with partner and tracking its performance.&#xD;&#xA;Partner Strategy is an action plan for meeting the objectives of an enterprise’s operating strategy for working/collaborating with partners. The scope of Partner can be, but not limited to reseller, supplier etc. Partner Propositions/Plans are concrete steps on how the strategy to engage with partner will be realized. The partner engagement is influenced by various factors but not limited to e.g. geography, regulatory, product and services offered etc. It also considers security, financial risk, environmental and legal issues, agreement etc. which are essentially important to fulfill the business objectives.&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Business Partner"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy to Readiness"/>
+</archimate:Capability>

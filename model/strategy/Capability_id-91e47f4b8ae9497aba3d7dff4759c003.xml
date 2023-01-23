@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Specification Development &amp; Retirement"
+    id="id-91e47f4b8ae9497aba3d7dff4759c003"
+    documentation="Resource SpecificationDevelopment &amp; Retirement processes develop new, or enhance existing technologies and associated resource types, so that new Products are available to be sold to customers. They use the capability definition or requirements defined by Resource Strategy &amp; Planning They also decide whether to acquire resources from outside, taking into account the overall business policy in that respect. These processes also retire or remove technology and associated resource types, which are no longer required by the enterprise.&#xD;&#xA;Resource types may be built, or in some cases leased from other parties. To ensure the most efficient and effective solution can be used, negotiations on network level agreements with other parties are paramount for both building and leasing.&#xD;&#xA;These processes interact strongly with Product and  Engaged Party Development processes.&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Lifecycle Management"/>
+  <properties
+      key="Domain"
+      value="Resource"/>
+</archimate:Capability>

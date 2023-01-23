@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Specification Development &amp; Retirement"
+    id="id-b02b60e4685b45da85097e494390970f"
+    documentation="Service SpecificationDevelopment &amp; Retirement processes are project oriented in that they develop and deliver new or enhanced service types. These processes include process and procedure implementation, systems changes and customer documentation. They also undertake rollout and testing of the service type, capacity management and costing of the service type. It ensures the ability of the enterprise to deliver service types according to requirements.">
+  <properties
+      key="Group"
+      value="Strategy to Readiness"/>
+  <properties
+      key="BusinessFlow"
+      value="Lifecycle Management"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+</archimate:Capability>

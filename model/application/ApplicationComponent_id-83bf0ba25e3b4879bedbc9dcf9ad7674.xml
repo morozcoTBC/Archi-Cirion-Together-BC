@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altiris"
+    id="id-83bf0ba25e3b4879bedbc9dcf9ad7674"
+    documentation="Herramienta de Ticketing utilizada en Datacenter&#xD;&#xA;ITSM tool + CMDB&#xD;&#xA;Aplicación Broadcom">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Capability N1"
+      value="Service Problem Management"/>
+  <properties
+      key="Domain"
+      value="Service"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="CirionDom1"
+      value="Service Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,19 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[server]  USIDCWVEBMXT01"
+    id="id-0aaaf20033674579a87c3e4890642caf">
+  <properties
+      key="Envirnoment"/>
+  <properties
+      key="Assignment/Status"/>
+  <properties
+      key="Cloud"/>
+  <properties
+      key="SOX Crit."/>
+  <properties
+      key="DR Crit."/>
+  <properties
+      key="Assoc. Source"/>
+  <properties
+      key="Supportability Problems"/>
+</archimate:Node>

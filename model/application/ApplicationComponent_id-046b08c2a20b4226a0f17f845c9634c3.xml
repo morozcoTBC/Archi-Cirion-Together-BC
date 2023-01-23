@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fusion"
+    id="id-046b08c2a20b4226a0f17f845c9634c3"
+    documentation="Provide a consolidated source of Customer Billing Account Information, collections status and disputes progress. The intention was to reduce the number of systems a User needs to navigate to for key Customer Billing and Accounts Receivable information&#xA;Consilida información que necesita el equipo de CFS para gestionar. Desde ahí se puede acceder a varios sistemas&#xA;Se usa como front end para cargar los tickets en Ops Console">
+  <properties
+      key="Domain"
+      value="Customer"/>
+  <properties
+      key="Capability N1"
+      value="Customer Bill Invoice Management"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="BusinessFlow"
+      value="Billing &amp; Revenue Management"/>
+  <properties
+      key="Capability N1"
+      value="Receivables Management"/>
+  <properties
+      key="CirionDom1"
+      value="Billing and Revenue Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

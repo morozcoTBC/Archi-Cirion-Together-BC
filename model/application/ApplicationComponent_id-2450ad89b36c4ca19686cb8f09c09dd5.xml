@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ED Tool"
+    id="id-2450ad89b36c4ca19686cb8f09c09dd5"
+    documentation="Aplicación para completar atributos relacionados con EON para facturacion">
+  <properties
+      key="Owner"/>
+  <properties
+      key="Domain"/>
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="CirionDom1"
+      value="Billing and Revenue Management "/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

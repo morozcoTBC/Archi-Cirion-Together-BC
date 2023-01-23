@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arcsight (MicroFocus)"
+    id="id-0ba3643f60c34f76a5287bc8f144f936"
+    documentation="SIEM">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+</archimate:ApplicationComponent>

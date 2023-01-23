@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BI Worldwide"
+    id="id-49ae24c66376456597996a89743e04dc"
+    documentation="Compensation platform">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="HR Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise HR Management"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>

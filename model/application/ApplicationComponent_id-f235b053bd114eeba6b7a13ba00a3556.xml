@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medallia"
+    id="id-f235b053bd114eeba6b7a13ba00a3556"
+    documentation="Herramienta de encuestas. Fuera de Assurance De Marketing">
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="Capability N1"
+      value="Marketing Campaing Management"/>
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+  <properties
+      key="CirionDom1"
+      value="Lead to CPQ"/>
+  <properties
+      key="CirionDom2"
+      value="Campaign to Opportunity"/>
+</archimate:ApplicationComponent>

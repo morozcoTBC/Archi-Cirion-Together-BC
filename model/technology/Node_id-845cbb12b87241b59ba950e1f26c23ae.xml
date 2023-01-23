@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[MDL DB]  GURUP"
+    id="id-845cbb12b87241b59ba950e1f26c23ae">
+  <properties
+      key="Environment"/>
+  <properties
+      key="Assignment/Status"/>
+  <properties
+      key="DR Crit."/>
+  <properties
+      key="Supportability Problems"/>
+  <properties
+      key="Server"
+      value="ARATSLJVMPRD002"/>
+</archimate:Node>

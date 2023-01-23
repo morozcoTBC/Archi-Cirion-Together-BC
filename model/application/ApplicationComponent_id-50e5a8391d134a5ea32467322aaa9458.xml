@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audio"
+    id="id-50e5a8391d134a5ea32467322aaa9458"
+    documentation="Gestion de requerimientos de accesos fisicos a los datacenter"/>

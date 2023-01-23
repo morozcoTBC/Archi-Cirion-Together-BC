@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Catalog Management"
+    id="id-211abe601af44ee99b9be5a608722010"
+    documentation="Resource Catalog Management is using the Catalog Management application in the Common Domain for Resource Management.  The application is a repository of resource listings within a service provider and include the ability to design, create, augment and map new entities and supporting data. &#xD;&#xA;For resources of different resource types such as directory numbers, addresses, cables and network devices the Catalog Management could typicality be realized in separate implementation of the Catalog Management. &#xD;&#xA;See: Common Domain- Catalog Management for more information.&#xD;&#xA;">
+  <properties
+      key="Domain"
+      value="Resource"/>
+  <properties
+      key="BusinessFlow"
+      value="Strategy to Readiness"/>
+</archimate:Capability>

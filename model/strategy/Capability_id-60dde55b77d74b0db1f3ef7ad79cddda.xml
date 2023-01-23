@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Selling"
+    id="id-60dde55b77d74b0db1f3ef7ad79cddda"
+    documentation="Selling processes are responsible for managing prospective customers, for the qualification and education of the customer and for matching customer expectations to the enterprise’s products and services and ability to deliver. These processes also manage the response to customer RFPs.&#xD;&#xA;Selling is responsible managing prospective parties with whom an enterprise may do business, such as potential existing or new customers and partners. Existing customers and partners may represent new selling opportunities to them as identified by the Contact/Lead/Prospect Management.&#xD;&#xA;&#xD;&#xA;Selling is responsible for qualifying and educating them, and ensuring their expectations are met. This process confirms matches of party expectations to an enterprise’s product offerings that have been made by Contact/Lead/Prospect Management are correct. The ability to deliver them is confirmed. &#xD;&#xA;&#xD;&#xA;This process also manages a response to customer requests for proposal (RFP). Any eventual agreement with the sales prospect is the responsibility of Party Agreement Management.">
+  <properties
+      key="Group"
+      value="Operations"/>
+  <properties
+      key="BusinessFlow"
+      value="Fulfillment"/>
+  <properties
+      key="Domain"
+      value="Market Sales"/>
+</archimate:Capability>

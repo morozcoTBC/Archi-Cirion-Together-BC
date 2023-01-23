@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datos tabla stage"
+    id="id-1eb13d447e6046d1b94f7b14552f9c3e"
+    documentation="accede directamente a la tabla stage con un proceso de cincronizacion">
+  <properties
+      key="Middleware"
+      value="Directo"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-23f5e1a05d84474ba1459dba0d9cdb9e.xml#id-23f5e1a05d84474ba1459dba0d9cdb9e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a8a08e95b5e34b79bd77404877a0eb47.xml#id-a8a08e95b5e34b79bd77404877a0eb47"/>
+</archimate:FlowRelationship>

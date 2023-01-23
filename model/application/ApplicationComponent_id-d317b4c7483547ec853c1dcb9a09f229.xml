@@ -1,0 +1,34 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAM (Synchronoss)"
+    id="id-d317b4c7483547ec853c1dcb9a09f229"
+    documentation="Offnet contracts management. Telco vendors invoices. Facturas de solucioines provistas por terceros. ">
+  <properties
+      key="Owner"
+      value="Cirion"/>
+  <properties
+      key="Day 1"
+      value="Y"/>
+  <properties
+      key="Day 2"
+      value="Y"/>
+  <properties
+      key="Domain"
+      value="Enterprise"/>
+  <properties
+      key="Capability N1"
+      value="Financial Management"/>
+  <properties
+      key="BusinessFlow"/>
+  <properties
+      key="Capability N1"
+      value="Supply Chain Management"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise Financial Management  "/>
+  <properties
+      key="CirionDom2"/>
+  <properties
+      key="CirionDom1"
+      value="Enterprise - Supply Chain Management    "/>
+</archimate:ApplicationComponent>
