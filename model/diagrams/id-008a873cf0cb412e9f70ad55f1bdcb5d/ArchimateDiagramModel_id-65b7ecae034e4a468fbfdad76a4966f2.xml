@@ -609,10 +609,12 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-61e4db3384ac434ca3d822703f039df9">
+      id="id-61e4db3384ac434ca3d822703f039df9"
+      fillColor="#8000ff"
+      type="1">
     <bounds
-        x="879"
-        y="56"
+        x="816"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
