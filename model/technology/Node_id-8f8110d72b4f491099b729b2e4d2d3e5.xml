@@ -1,6 +1,6 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[server] AARPV-ESXI35"
+    name="[server] ARPV-ESXI35"
     id="id-8f8110d72b4f491099b729b2e4d2d3e5">
   <properties
       key="Envirnoment"
@@ -22,4 +22,7 @@
       value="ServiceNow"/>
   <properties
       key="Supportability Problems"/>
+  <properties
+      key="Type"
+      value="ESX-HOST"/>
 </archimate:Node>

@@ -23,4 +23,7 @@
   <properties
       key="Supportability Problems"
       value="SERVER OS HAS EOSL DATE IN THE PAST (SEVERE)."/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>

@@ -22,4 +22,10 @@
       value="ServiceNow"/>
   <properties
       key="Supportability Problems"/>
+  <properties
+      key="Type"
+      value="VM"/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>

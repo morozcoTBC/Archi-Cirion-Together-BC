@@ -21,4 +21,7 @@
   <properties
       key="DB"
       value="DWP"/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>
