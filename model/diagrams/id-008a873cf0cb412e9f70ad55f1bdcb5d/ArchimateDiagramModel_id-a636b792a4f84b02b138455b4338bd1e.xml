@@ -320,8 +320,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b9bc57f3892243f5bb665a6fc73ddbdb">
         <bounds
-            x="12"
-            y="732"
+            x="10"
+            y="648"
             width="157"
             height="133"/>
         <children
@@ -346,8 +346,8 @@
           fillColor="#ff80c0"
           type="1">
         <bounds
-            x="182"
-            y="732"
+            x="180"
+            y="648"
             width="157"
             height="133"/>
         <children
@@ -373,8 +373,8 @@
           fillColor="#ff80c0"
           type="1">
         <bounds
-            x="350"
-            y="732"
+            x="348"
+            y="648"
             width="157"
             height="133"/>
         <children
@@ -400,8 +400,8 @@
           fillColor="#ff80c0"
           type="1">
         <bounds
-            x="12"
-            y="960"
+            x="10"
+            y="792"
             width="157"
             height="229"/>
         <children
@@ -438,8 +438,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-1409d22c790847d3a127654e62c1ebf9">
         <bounds
-            x="180"
-            y="960"
+            x="178"
+            y="792"
             width="157"
             height="229"/>
         <children
@@ -474,8 +474,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-3f9741713ef94839bc69e1ca58e74071">
         <bounds
-            x="348"
-            y="966"
+            x="346"
+            y="798"
             width="157"
             height="217"/>
         <children
@@ -510,8 +510,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-213b74acafc249e3836a4e5ad4804548">
         <bounds
-            x="12"
-            y="1200"
+            x="10"
+            y="1032"
             width="157"
             height="217"/>
         <children
@@ -546,8 +546,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-5fc7ad539ecb45ababc0359e113e30c3">
         <bounds
-            x="182"
-            y="1200"
+            x="180"
+            y="1032"
             width="157"
             height="217"/>
         <children
@@ -584,8 +584,8 @@
           fillColor="#ff80c0"
           type="1">
         <bounds
-            x="348"
-            y="1200"
+            x="346"
+            y="1032"
             width="157"
             height="121"/>
         <children
@@ -611,8 +611,8 @@
           fillColor="#ff80c0"
           type="1">
         <bounds
-            x="12"
-            y="1428"
+            x="10"
+            y="1260"
             width="157"
             height="217"/>
         <children
@@ -651,8 +651,8 @@
           fillColor="#ff80c0"
           type="1">
         <bounds
-            x="348"
-            y="1428"
+            x="346"
+            y="1260"
             width="157"
             height="217"/>
         <children
@@ -689,8 +689,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ff9ef3891fab40ebbb9d59c30d56d637">
         <bounds
-            x="180"
-            y="1428"
+            x="178"
+            y="1260"
             width="161"
             height="217"/>
         <children
@@ -1035,7 +1035,7 @@
           type="1">
         <bounds
             x="12"
-            y="732"
+            y="636"
             width="157"
             height="133"/>
         <children
@@ -1062,7 +1062,7 @@
           type="1">
         <bounds
             x="348"
-            y="732"
+            y="636"
             width="157"
             height="217"/>
         <children
@@ -1100,7 +1100,7 @@
           id="id-6841c1c5e23f4afebe5bcffa2aed5312">
         <bounds
             x="180"
-            y="732"
+            y="636"
             width="157"
             height="217"/>
         <children
@@ -1136,7 +1136,7 @@
           id="id-8f53e2e132f245e3bd348a5771b12bd1">
         <bounds
             x="180"
-            y="960"
+            y="864"
             width="157"
             height="217"/>
         <children
@@ -1172,7 +1172,7 @@
           id="id-3c9fd1c91b4541cb9f05c719143e32ac">
         <bounds
             x="348"
-            y="960"
+            y="864"
             width="157"
             height="133"/>
         <children
@@ -1196,7 +1196,7 @@
           id="id-53be4f8388ad4458a418be3d6361dcb6">
         <bounds
             x="12"
-            y="960"
+            y="864"
             width="157"
             height="217"/>
         <children

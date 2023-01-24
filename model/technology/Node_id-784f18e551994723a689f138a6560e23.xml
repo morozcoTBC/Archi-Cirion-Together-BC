@@ -1,13 +1,13 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[server] TEST (copy) (copy)"
-    id="id-de6b111258cf480680830a29eadc523d">
+    name="[server] ARPW-APPMAN01"
+    id="id-784f18e551994723a689f138a6560e23">
   <properties
       key="Envirnoment"
-      value="TEST"/>
+      value="PROD"/>
   <properties
       key="Assignment/Status"
-      value="In Use / TEST"/>
+      value="In Use / PRODUCTION"/>
   <properties
       key="Cloud"/>
   <properties
