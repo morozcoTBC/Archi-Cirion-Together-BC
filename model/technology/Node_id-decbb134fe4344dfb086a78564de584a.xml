@@ -25,4 +25,7 @@
   <properties
       key="DB"
       value="COMMONQA"/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>

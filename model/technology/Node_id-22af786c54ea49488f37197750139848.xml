@@ -25,4 +25,7 @@
   <properties
       key="DB"
       value="SBLPRE/SBLPRE"/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>

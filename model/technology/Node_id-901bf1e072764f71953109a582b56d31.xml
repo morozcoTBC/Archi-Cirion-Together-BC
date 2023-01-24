@@ -25,4 +25,7 @@
   <properties
       key="DB"
       value="SBL816PR/SBL816PR"/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>

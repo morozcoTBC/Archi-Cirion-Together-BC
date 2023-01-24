@@ -25,4 +25,7 @@
   <properties
       key="DB"
       value="SBLOFFICE/SBLOFFICE"/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>

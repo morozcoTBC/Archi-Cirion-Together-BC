@@ -23,4 +23,7 @@
   <properties
       key="Supportability Problems"
       value="SERVER OS HAS EOSL DATE APROACHING (MODERATE) Details: Microsoft Windows Server 2012 R2 Standard"/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>

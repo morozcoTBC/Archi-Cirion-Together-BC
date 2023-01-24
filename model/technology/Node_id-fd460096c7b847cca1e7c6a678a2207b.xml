@@ -17,4 +17,7 @@
       key="Assoc. Source"/>
   <properties
       key="Supportability Problems"/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>

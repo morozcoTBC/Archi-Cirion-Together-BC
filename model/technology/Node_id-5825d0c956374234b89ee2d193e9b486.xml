@@ -25,4 +25,7 @@
   <properties
       key="DB"
       value="SBL20LAB/SBL20LAB"/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>

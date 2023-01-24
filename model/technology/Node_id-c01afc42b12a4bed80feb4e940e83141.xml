@@ -26,4 +26,7 @@
   <properties
       key="DB"
       value="COMMONP"/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>

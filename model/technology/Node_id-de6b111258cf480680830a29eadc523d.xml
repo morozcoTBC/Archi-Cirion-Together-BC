@@ -1,13 +1,13 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[server] ARATSWIIS248"
-    id="id-51c666f15a174511a9d43b01f58f15c9">
+    name="[server] TEST (copy) (copy)"
+    id="id-de6b111258cf480680830a29eadc523d">
   <properties
       key="Envirnoment"
-      value="PROD"/>
+      value="TEST"/>
   <properties
       key="Assignment/Status"
-      value="In Use / PRODUCTION"/>
+      value="In Use / TEST"/>
   <properties
       key="Cloud"/>
   <properties
