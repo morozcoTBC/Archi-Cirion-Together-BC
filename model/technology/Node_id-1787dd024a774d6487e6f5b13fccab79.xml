@@ -3,7 +3,7 @@
     name="[server] ARPL-CIENALIC01"
     id="id-1787dd024a774d6487e6f5b13fccab79">
   <properties
-      key="Envirnoment"
+      key="Environment"
       value="PROD"/>
   <properties
       key="Assignment/Status"
