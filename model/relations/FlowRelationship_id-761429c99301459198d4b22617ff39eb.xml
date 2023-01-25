@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Migraciones"
+    id="id-761429c99301459198d4b22617ff39eb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9fa0cad1d78f4ce39c4a39d848c8bddc.xml#id-9fa0cad1d78f4ce39c4a39d848c8bddc"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-712f8833c6e84d96b8e3fa9ee8e1ba5e.xml#id-712f8833c6e84d96b8e3fa9ee8e1ba5e"/>
+</archimate:FlowRelationship>

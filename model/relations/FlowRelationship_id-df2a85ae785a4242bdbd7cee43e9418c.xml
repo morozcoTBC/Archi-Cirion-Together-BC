@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informacion de POP"
+    id="id-df2a85ae785a4242bdbd7cee43e9418c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f9717791f8ec47139b99b127863b8135.xml#id-f9717791f8ec47139b99b127863b8135"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9fa0cad1d78f4ce39c4a39d848c8bddc.xml#id-9fa0cad1d78f4ce39c4a39d848c8bddc"/>
+</archimate:FlowRelationship>

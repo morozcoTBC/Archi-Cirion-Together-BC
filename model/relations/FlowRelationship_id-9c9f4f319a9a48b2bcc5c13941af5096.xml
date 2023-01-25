@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Numeración"
+    id="id-9c9f4f319a9a48b2bcc5c13941af5096">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fd59a1dcd9b54b04bed4eb7a92407931.xml#id-fd59a1dcd9b54b04bed4eb7a92407931"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-7f4888cea30d44e1aba0ba8e55cbcdf3.xml#id-7f4888cea30d44e1aba0ba8e55cbcdf3"/>
+</archimate:FlowRelationship>

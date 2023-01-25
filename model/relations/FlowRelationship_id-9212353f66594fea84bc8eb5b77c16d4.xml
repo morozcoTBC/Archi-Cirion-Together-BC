@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workflow de voice (WKF)"
+    id="id-9212353f66594fea84bc8eb5b77c16d4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9f13935c6b074be799a44c91741effae.xml#id-9f13935c6b074be799a44c91741effae"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-87b14f3eb39f4dbbb973184c716c31fc.xml#id-87b14f3eb39f4dbbb973184c716c31fc"/>
+</archimate:FlowRelationship>
