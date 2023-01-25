@@ -1,7 +1,7 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[server]         PROD (copy)"
-    id="id-4e4a1a66cc71447ca94e86db282dde4c">
+    name="[server] NFLBRF52"
+    id="id-346528b83b504ec4a0038d11181638d2">
   <properties
       key="Envirnoment"
       value="PROD"/>

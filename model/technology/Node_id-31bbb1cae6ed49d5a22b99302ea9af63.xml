@@ -1,13 +1,13 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[server]         PROD (copy)"
-    id="id-29d75a793e9a43cc898b876ab6e83381">
+    name="[server] ARPL-NETFLEX01"
+    id="id-31bbb1cae6ed49d5a22b99302ea9af63">
   <properties
       key="Envirnoment"
-      value="PROD"/>
+      value="DEV"/>
   <properties
       key="Assignment/Status"
-      value="In Use / PRODUCTION"/>
+      value="In Use / DEVELOPMENT"/>
   <properties
       key="Cloud"/>
   <properties
