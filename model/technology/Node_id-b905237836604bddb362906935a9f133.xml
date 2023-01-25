@@ -1,6 +1,6 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[server] RTLPWVSIEB105"
+    name="[server] ARTLPWVSIEB105"
     id="id-b905237836604bddb362906935a9f133">
   <properties
       key="Envirnoment"
@@ -24,5 +24,6 @@
       key="Supportability Problems"
       value="SERVER OS HAS EOSL DATE APROACHING (MODERATE)"/>
   <properties
-      key="Type"/>
+      key="Type"
+      value="VM"/>
 </archimate:Node>

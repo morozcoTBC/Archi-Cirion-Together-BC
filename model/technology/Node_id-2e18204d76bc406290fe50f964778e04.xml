@@ -25,7 +25,4 @@
   <properties
       key="Type"
       value="VM"/>
-  <properties
-      key="Type"
-      value="VM"/>
 </archimate:Node>
