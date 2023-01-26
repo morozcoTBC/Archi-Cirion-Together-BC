@@ -23,7 +23,43 @@
         x="100"
         y="156"
         width="225"
-        height="239"/>
+        height="265"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-362a565f19514822ba9d0f7436a79c60">
+      <bounds
+          x="12"
+          y="36"
+          width="193"
+          height="217"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-122ce542c1c545f097959796de5f0a0e">
+        <bounds
+            x="24"
+            y="60"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:Device"
+            href="Device_id-9567c51c4dc4469288150a1814208f1c.xml#id-9567c51c4dc4469288150a1814208f1c"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-0551c0bf53854ca8b95e5ac212a183af">
+        <bounds
+            x="12"
+            y="120"
+            width="145"
+            height="73"/>
+        <archimateElement
+            xsi:type="archimate:Artifact"
+            href="Artifact_id-f3976ecf78ba48268ce83ef70d92baf9.xml#id-f3976ecf78ba48268ce83ef70d92baf9"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Node"
+          href="Node_id-aa5a240aedb1493aa5ee88a272f1a64d.xml#id-aa5a240aedb1493aa5ee88a272f1a64d"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-c5dd2fcab3554d58aadbfaa955495977.xml#id-c5dd2fcab3554d58aadbfaa955495977"/>
