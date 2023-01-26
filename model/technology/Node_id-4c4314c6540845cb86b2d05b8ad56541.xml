@@ -1,13 +1,13 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[server] ARATSWVOKI001"
-    id="id-755746490bc84796afa413917400bbf7">
+    name="[server] ARATSWSQL191"
+    id="id-4c4314c6540845cb86b2d05b8ad56541">
   <properties
       key="Envirnoment"
-      value="DEV"/>
+      value="PROD"/>
   <properties
       key="Assignment/Status"
-      value="In Use / DEVELOPMENT"/>
+      value="In Use / PRODUCTION"/>
   <properties
       key="Cloud"/>
   <properties
