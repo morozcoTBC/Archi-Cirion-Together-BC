@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="New - Rating Engine"
-    id="id-3d7dad97e6bc4c9c9e0b085569b9ee94"/>
+    id="id-3d7dad97e6bc4c9c9e0b085569b9ee94">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-527cf0811d114454b642501a9b13d420">
+    <bounds
+        x="108"
+        y="48"
+        width="338"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-0b8ea1edfc964cab8a11952fde8f0eb6.xml#id-0b8ea1edfc964cab8a11952fde8f0eb6"/>
+  </children>
+</archimate:ArchimateDiagramModel>

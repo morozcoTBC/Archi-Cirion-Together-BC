@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="New - Robotic Process Automation (UI Path)"
-    id="id-3b859abf750d4384bab1f67821cb2c05"/>
+    id="id-3b859abf750d4384bab1f67821cb2c05">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fab7dbed912c4da2a1d35b4c8b8d584b">
+    <bounds
+        x="168"
+        y="36"
+        width="335"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-c2acfc832a2c4f8899af48b1a0b763e4.xml#id-c2acfc832a2c4f8899af48b1a0b763e4"/>
+  </children>
+</archimate:ArchimateDiagramModel>

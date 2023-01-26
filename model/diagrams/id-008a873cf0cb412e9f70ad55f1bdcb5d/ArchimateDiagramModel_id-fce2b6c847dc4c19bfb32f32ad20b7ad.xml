@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="New - Cirex / Six"
-    id="id-fce2b6c847dc4c19bfb32f32ad20b7ad"/>
+    id="id-fce2b6c847dc4c19bfb32f32ad20b7ad">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f50f2918fe914bac9ab99063a1583716">
+    <bounds
+        x="204"
+        y="36"
+        width="325"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-bbceaae52b49401cb928e515c5c084f8.xml#id-bbceaae52b49401cb928e515c5c084f8"/>
+  </children>
+</archimate:ArchimateDiagramModel>

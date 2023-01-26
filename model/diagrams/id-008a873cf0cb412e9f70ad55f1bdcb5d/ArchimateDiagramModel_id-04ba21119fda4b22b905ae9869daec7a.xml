@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="New - Customer Portal (CFS Portal)"
-    id="id-04ba21119fda4b22b905ae9869daec7a"/>
+    id="id-04ba21119fda4b22b905ae9869daec7a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a6c422a6e75a449fb06436e7943f521f">
+    <bounds
+        x="96"
+        y="36"
+        width="457"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-31bc637bcf86464bbea580d6a9bee412.xml#id-31bc637bcf86464bbea580d6a9bee412"/>
+  </children>
+</archimate:ArchimateDiagramModel>

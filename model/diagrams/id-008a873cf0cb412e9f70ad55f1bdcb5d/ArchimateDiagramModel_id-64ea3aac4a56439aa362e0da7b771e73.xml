@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="New - Officetrack"
-    id="id-64ea3aac4a56439aa362e0da7b771e73"/>
+    id="id-64ea3aac4a56439aa362e0da7b771e73">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a91e1bb9a3b24eb8a82406430dad16a1">
+    <bounds
+        x="180"
+        y="48"
+        width="271"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-7807642d8ee04b63be08633b0352614f.xml#id-7807642d8ee04b63be08633b0352614f"/>
+  </children>
+</archimate:ArchimateDiagramModel>

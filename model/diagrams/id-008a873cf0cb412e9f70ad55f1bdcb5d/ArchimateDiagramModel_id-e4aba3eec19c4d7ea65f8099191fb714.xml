@@ -1,4 +1,19 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="New - Latam Data Warehouse (LDW)"
-    id="id-e4aba3eec19c4d7ea65f8099191fb714"/>
+    id="id-e4aba3eec19c4d7ea65f8099191fb714"
+    documentation="LATAM DW BI solution&#xA;">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-94393ae3a3904e9482a092a3e1391866">
+    <bounds
+        x="144"
+        y="36"
+        width="398"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-6caaa3da3f604c5dbd061e2af0836253.xml#id-6caaa3da3f604c5dbd061e2af0836253"/>
+  </children>
+</archimate:ArchimateDiagramModel>
