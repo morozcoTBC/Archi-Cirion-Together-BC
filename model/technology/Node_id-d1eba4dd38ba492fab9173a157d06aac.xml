@@ -1,13 +1,13 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[server]         TEST (copy) (copy)"
-    id="id-612801321fc7416fac592a432c2f7813">
+    name="[server] ARBUE-COMMONSRV1"
+    id="id-d1eba4dd38ba492fab9173a157d06aac">
   <properties
       key="Envirnoment"
-      value="TEST"/>
+      value="PROD"/>
   <properties
       key="Assignment/Status"
-      value="In Use / TEST"/>
+      value="In Use / PRODUCTION"/>
   <properties
       key="Cloud"/>
   <properties
