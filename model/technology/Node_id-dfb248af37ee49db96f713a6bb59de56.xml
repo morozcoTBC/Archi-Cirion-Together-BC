@@ -18,4 +18,7 @@
       key="Assoc. Source"/>
   <properties
       key="Supportability Problems"/>
+  <properties
+      key="DB"
+      value="STG"/>
 </archimate:Node>

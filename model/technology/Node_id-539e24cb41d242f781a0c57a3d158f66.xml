@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[MDL DB] SSISCONFIGURATION"
+    id="id-539e24cb41d242f781a0c57a3d158f66">
+  <properties
+      key="Environment"/>
+  <properties
+      key="Assignment/Status"/>
+  <properties
+      key="DR Crit."/>
+  <properties
+      key="Supportability Problems"/>
+  <properties
+      key="Server"
+      value="ARATSWVDWHT02"/>
+</archimate:Node>

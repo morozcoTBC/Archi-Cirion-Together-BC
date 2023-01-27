@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[MDL DB] STG"
+    id="id-0f458f8c8c8b4f2f8d651c7d43dd4bc6">
+  <properties
+      key="Environment"/>
+  <properties
+      key="Assignment/Status"/>
+  <properties
+      key="DR Crit."/>
+  <properties
+      key="Supportability Problems"/>
+  <properties
+      key="Server"
+      value="ARATSWVSQLDWH02"/>
+</archimate:Node>
