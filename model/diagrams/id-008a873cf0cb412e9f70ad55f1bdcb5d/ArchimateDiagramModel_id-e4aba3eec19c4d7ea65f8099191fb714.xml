@@ -47,7 +47,7 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-7c920c1a23f3478db9f65ddcd336df07">
+          id="id-1ecf58f991444420b30816c084730e54">
         <bounds
             x="12"
             y="144"
@@ -55,7 +55,7 @@
             height="55"/>
         <archimateElement
             xsi:type="archimate:Artifact"
-            href="Artifact_id-a7b41819d73049e1ab1cac41ebee4422.xml#id-a7b41819d73049e1ab1cac41ebee4422"/>
+            href="Artifact_id-2915fb0a603f4078ba1ddc62507676a7.xml#id-2915fb0a603f4078ba1ddc62507676a7"/>
       </children>
       <archimateElement
           xsi:type="archimate:Node"
