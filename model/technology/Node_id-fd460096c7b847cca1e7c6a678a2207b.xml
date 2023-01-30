@@ -3,7 +3,8 @@
     name="[server] ARTLPWSQL232"
     id="id-fd460096c7b847cca1e7c6a678a2207b">
   <properties
-      key="Envirnoment"/>
+      key="Envirnoment"
+      value="DEV"/>
   <properties
       key="Assignment/Status"
       value="DEVELOPMENT"/>
