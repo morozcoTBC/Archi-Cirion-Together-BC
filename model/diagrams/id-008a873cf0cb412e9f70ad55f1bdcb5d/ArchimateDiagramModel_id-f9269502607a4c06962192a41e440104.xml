@@ -23,7 +23,7 @@
         x="24"
         y="96"
         width="400"
-        height="181"/>
+        height="301"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4b4ad22eb8fd40bfafb4d2c69c4f47dd">
@@ -50,20 +50,33 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-e2f318d1bc8047ad93541f79e7a855d4"
-        fillColor="#ff80c0"
+        id="id-57e270c30f9546278a9f9f5045907816"
+        fillColor="#ff7fc0"
         type="1">
       <bounds
           x="192"
           y="36"
-          width="170"
-          height="116"/>
+          width="181"
+          height="229"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-507ee264943f4d8f8f12ac6e12d54cab"
+          fillColor="#ff7fc0">
+        <bounds
+            x="36"
+            y="132"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:Artifact"
+            href="Artifact_id-4bd62670413f47c0b399af5e8a0654ca.xml#id-4bd62670413f47c0b399af5e8a0654ca"/>
+      </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-bfdeffc973c041448ca2a187f38ccd6d"
           fillColor="#ff80c0">
         <bounds
-            x="24"
+            x="36"
             y="48"
             width="120"
             height="55"/>
@@ -73,7 +86,7 @@
       </children>
       <archimateElement
           xsi:type="archimate:Node"
-          href="Node_id-616a183bf02d4da699dea88c924d11a2.xml#id-616a183bf02d4da699dea88c924d11a2"/>
+          href="Node_id-5feec8e0400e4aa08f47f03481d61bd2.xml#id-5feec8e0400e4aa08f47f03481d61bd2"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
