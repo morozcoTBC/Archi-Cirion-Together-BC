@@ -21,4 +21,7 @@
   <properties
       key="DB "
       value="LAND"/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>

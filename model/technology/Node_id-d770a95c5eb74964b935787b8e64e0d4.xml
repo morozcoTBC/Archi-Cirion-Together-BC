@@ -21,4 +21,7 @@
   <properties
       key="DB"
       value="SSISCONFIGURATION"/>
+  <properties
+      key="Type"
+      value="VM"/>
 </archimate:Node>
