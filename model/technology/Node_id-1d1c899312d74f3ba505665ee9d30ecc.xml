@@ -23,5 +23,6 @@
   <properties
       key="Supportability Problems"/>
   <properties
-      key="Type"/>
+      key="Type"
+      value="VM"/>
 </archimate:Node>
