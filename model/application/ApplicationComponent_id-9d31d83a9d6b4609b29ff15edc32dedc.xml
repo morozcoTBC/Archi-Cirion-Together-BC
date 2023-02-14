@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="My Support Desk Servicenow"
+    id="id-9d31d83a9d6b4609b29ff15edc32dedc">
+  <properties
+      key="Domain"
+      value="Common"/>
+  <properties
+      key="Capability N1"/>
+  <properties
+      key="Owner"
+      value="Lumen"/>
+  <properties
+      key="Capability N2"/>
+  <properties
+      key="CirionDom1"
+      value="IT Platforms and Services"/>
+  <properties
+      key="CirionDom2"/>
+</archimate:ApplicationComponent>
