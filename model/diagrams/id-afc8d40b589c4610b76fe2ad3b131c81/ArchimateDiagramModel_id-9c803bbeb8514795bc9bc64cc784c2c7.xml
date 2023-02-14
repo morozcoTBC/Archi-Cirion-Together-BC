@@ -261,28 +261,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-385e0e750db94d1b875099a7c35dd330"
-        targetConnections="id-0db28e7d8bf84a339bf655a841fde330">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-035090ca03264fc7a97af5b42ce87213"
-          source="id-385e0e750db94d1b875099a7c35dd330"
-          target="id-fb5e13cf1a7a4fa7af8244c9e471f26e">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-56a88aaf57454357bdeb45ea80b7eccb.xml#id-56a88aaf57454357bdeb45ea80b7eccb"/>
-      </sourceConnections>
-      <bounds
-          x="264"
-          y="684"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-a0f81324e70f4136a5bb6c7de20b8f5b.xml#id-a0f81324e70f4136a5bb6c7de20b8f5b"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1e04313db1694563a6eaf8e70fbdb2e0"
         targetConnections="id-b88d9da654364cc0a08a82c0744c375c">
       <sourceConnections
@@ -1201,15 +1179,6 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-21e6da694ea84cfb895771279d9255ed.xml#id-21e6da694ea84cfb895771279d9255ed"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0db28e7d8bf84a339bf655a841fde330"
-        source="id-75f745518df648dfb6996f9f329ff0b9"
-        target="id-385e0e750db94d1b875099a7c35dd330">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-efa4aed8a41741f7825204cabe59b8e9.xml#id-efa4aed8a41741f7825204cabe59b8e9"/>
-    </sourceConnections>
     <bounds
         x="2918"
         y="673"
@@ -1908,7 +1877,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fb5e13cf1a7a4fa7af8244c9e471f26e"
-      targetConnections="id-7c87f507dca941e1bf0e285b114386f6 id-4b54e649752b4e50a04c8a51988afd2d id-3abd26379fb446f39312e484c9cd7cdb id-3544f3d91d9e4f76b9db33bf7da31c02 id-e2c2f18257434d118ed3bfd253afc1b3 id-348228e4e5de48de89129eadb6b6209c id-035090ca03264fc7a97af5b42ce87213 id-221989fce048420b870f513500e983fb"
+      targetConnections="id-7c87f507dca941e1bf0e285b114386f6 id-4b54e649752b4e50a04c8a51988afd2d id-3abd26379fb446f39312e484c9cd7cdb id-3544f3d91d9e4f76b9db33bf7da31c02 id-e2c2f18257434d118ed3bfd253afc1b3 id-348228e4e5de48de89129eadb6b6209c id-221989fce048420b870f513500e983fb"
       textPosition="1">
     <bounds
         x="-444"
