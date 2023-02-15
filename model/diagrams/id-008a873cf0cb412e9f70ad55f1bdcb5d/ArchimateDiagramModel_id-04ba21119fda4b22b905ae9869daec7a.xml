@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New - Customer Portal (CFS Portal)"
+    name="Customer Portal (CFS Portal)"
     id="id-04ba21119fda4b22b905ae9869daec7a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

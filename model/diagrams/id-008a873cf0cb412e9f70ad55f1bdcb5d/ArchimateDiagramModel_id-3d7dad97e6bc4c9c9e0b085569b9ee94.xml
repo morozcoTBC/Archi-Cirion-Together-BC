@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New - Rating Engine"
+    name="Rating Engine"
     id="id-3d7dad97e6bc4c9c9e0b085569b9ee94">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
