@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control Center Portal"
+    id="id-5cad6d4d7048487cbdc1e056e8776c43"
+    documentation="Cirion Customer Portal&#xD;&#xA;(Control Center es usado por clientes de cluster norte; servicios EON deberán ser migrados a Siebel y  de Janus a Cirion Customer Portal)."/>

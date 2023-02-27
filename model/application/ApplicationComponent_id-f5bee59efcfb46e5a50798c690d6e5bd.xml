@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CENTRAL AUTHENTIFICATION SERVER"
+    id="id-f5bee59efcfb46e5a50798c690d6e5bd"
+    documentation="Provides Single Sign-On (SSO) access control for Level 3 Applications and Services. This allows a user to login only once to gain access to all SSO-enabled systems instead of being prompted to log in separately for each one&#xD;&#xA;https://www.lumen.com/login"/>

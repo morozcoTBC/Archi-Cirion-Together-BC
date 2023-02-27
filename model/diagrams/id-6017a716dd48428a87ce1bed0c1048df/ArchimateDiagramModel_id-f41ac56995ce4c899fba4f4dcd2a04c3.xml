@@ -440,8 +440,8 @@
           href="FlowRelationship_id-412991c861624d52931b1d5778d65a94.xml#id-412991c861624d52931b1d5778d65a94"/>
     </sourceConnections>
     <bounds
-        x="60"
-        y="636"
+        x="59"
+        y="696"
         width="1105"
         height="55"/>
     <archimateElement
@@ -452,8 +452,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-22c1583716254522b61c80c87538f36b">
     <bounds
-        x="61"
-        y="552"
+        x="60"
+        y="612"
         width="1104"
         height="55"/>
     <archimateElement
@@ -465,9 +465,21 @@
       id="id-a6e27fac88c043e592e7854ecd4c3228">
     <bounds
         x="553"
-        y="492"
+        y="504"
         width="611"
-        height="36"/>
+        height="97"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-5bd66dcd5c404d23b7b3ad0673a4dff2">
+      <bounds
+          x="252"
+          y="24"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-618ff52dc4424af49e9433525a5e7c6e.xml#id-618ff52dc4424af49e9433525a5e7c6e"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-c60434cea9f64b65bcae0b08c431126d.xml#id-c60434cea9f64b65bcae0b08c431126d"/>

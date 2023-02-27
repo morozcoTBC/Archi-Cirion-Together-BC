@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Apigee"
-    id="id-c60434cea9f64b65bcae0b08c431126d"/>
+    id="id-c60434cea9f64b65bcae0b08c431126d"
+    documentation="API Marketplace is the external storefront for Lumen API Products. It enables customers &amp; external users to register, browse, request access to and integrate with Lumen API Products.&#xD;&#xA;https://developer.lumen.com/"/>

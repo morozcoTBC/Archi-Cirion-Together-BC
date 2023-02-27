@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="x-ORDER MANAGEMENT CONSOLE OMCSTORM"
+    id="id-61063c8017224ae0a96697b772c165ab"
+    documentation="OMC is the successor of STORM; Provides order management functionality and small interim workflow prior to Unity functionality; Other dependencies: Savvion, Scanmail, Service Build, Siebel, Wisor- this functionality is moving to eWOC. "/>

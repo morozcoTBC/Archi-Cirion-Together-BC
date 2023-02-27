@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Group Management Portal"
-    id="id-59fcde81ff3646e89a338a96a9ce8f69"/>
+    id="id-59fcde81ff3646e89a338a96a9ce8f69"
+    documentation="The Group Management Portal tool provides functionality for the end-user to navigate to a web site and manage their own public distribution lists (PDL?s) memberships, create new PDL?s, and monitor workflow activities associated with these actions. The tool is simple to use, providing the user with the ability to quickly manage PDL?s."/>
